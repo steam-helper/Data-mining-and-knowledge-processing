@@ -1,6 +1,6 @@
 # Data-mining-and-knowledge-processing
 项目简介 / Project Description
-本仓库包含数据挖掘与知识处理课程的实验参考代码。这些代码示例旨在帮助学生更好地理解和实践课程中的重要概念。
+本仓库包含数据挖掘与知识处理课程第六组的实验代码。这些代码示例旨在帮助大家更好地理解和实践课程中的重要概念，由于数据集过大，部分超限文件仅保留文件名称。
 
 This repository contains reference code for the Data Mining and Knowledge Processing course labs. These code examples are designed to help students better understand and practice key concepts covered in the course.
 
