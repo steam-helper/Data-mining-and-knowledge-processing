@@ -1,0 +1,1107 @@
+[
+  {
+    "id": "trec-cds-2014-1",
+    "translated": "A 58-year-old African-American woman presents to the ER with episodic pressing/burning anterior chest pain that began two days earlier for the first time in her life. The pain started while she was walking, radiates to the back, and is accompanied by nausea, diaphoresis and mild dyspnea, but is not increased on inspiration. The latest episode of pain ended half an hour prior to her arrival. She is known to have hypertension and obesity. She denies smoking, diabetes, hypercholesterolemia, or a family history of heart disease. She currently takes no medications. Physical examination is normal. The EKG shows nonspecific changes.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2014-2",
+    "translated": "An 8-year-old male presents in March to the ER with fever up to 39 C, dyspnea and cough for 2 days. He has just returned from a 5 day vacation in Colorado. Parents report that prior to the onset of fever and cough, he had loose stools. He denies upper respiratory tract symptoms. On examination he is in respiratory distress and has bronchial respiratory sounds on the left. A chest x-ray shows bilateral lung infiltrates.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2014-3",
+    "translated": "A 58-year-old nonsmoker white female with mild exertional dyspnea and occasional cough is found to have a left lung mass on chest x-ray. She is otherwise asymptomatic. A neurologic examination is unremarkable, but a CT scan of the head shows a solitary mass in the right frontal lobe.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2014-4",
+    "translated": "A 2-year-old boy is brought to the emergency department by his parents for 5 days of high fever and irritability. The physical exam reveals conjunctivitis, strawberry tongue, inflammation of the hands and feet, desquamation of the skin of the fingers and toes, and cervical lymphadenopathy with the smallest node at 1.5 cm. The abdominal exam demonstrates tenderness and enlarged liver. Laboratory tests report elevated alanine aminotransferase, white blood cell count of 17,580/mm, albumin 2.1 g/dL, C-reactive protein 4.5 mg, erythrocyte sedimentation rate 60 mm/h, mild normochromic, normocytic anemia, and leukocytes in urine of 20/mL with no bacteria identified. The echocardiogram shows moderate dilation of the coronary arteries with possible coronary artery aneurysm.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2014-5",
+    "translated": "A 56-year-old female on 20th day post-left mastectomy presents to the emergency department complaining of shortness of breath and malaise. The patient says that she has remained in bed for the last two weeks. The physical examination reveals tenderness on the left upper thoracic wall and right calf. The surgical incision shows no bleeding or signs of infection. Pulmonary auscultation is significant for bilateral decreased breath sounds, especially at the right base. Laboratory tests reveal an elevated D-dimer.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2014-6",
+    "translated": "64-year-old obese female with diagnosis of diabetes mellitus and persistently elevated HbA1c. She is reluctant to see a nutritionist and is not compliant with her diabetes medication or exercise. She complains of a painful skin lesion on the left lower leg. She has tried using topical lotions and creams but the lesion has increased in size and is now oozing.",
+    "symptoms": [
+      "painless skin lesion"
+    ],
+    "diseases": [
+      "diabetes mellitus",
+      "diabetes mellitus"
+    ],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2014-7",
+    "translated": "A 26-year-old obese woman with a history of bipolar disorder complains that her recent struggles with her weight and eating have caused her to feel depressed. She states that she has recently had difficulty sleeping and feels excessively anxious and agitated. She also states that she has had thoughts of suicide. She often finds herself fidgety and unable to sit still for extended periods of time. Her family tells her that she is increasingly irritable. Her current medications include lithium carbonate and zolpidem.",
+    "symptoms": [
+      "depression",
+      "insomnia",
+      "anxiety",
+      "agitation",
+      "suicidal ideation",
+      "irritability"
+    ],
+    "diseases": [],
+    "drugs": [
+      "lithium carbonate",
+      "zolpidem"
+    ],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2014-8",
+    "translated": "A 62-year-old man sees a neurologist for progressive memory loss and jerking movements of the lower extremities. Neurologic examination confirms severe cognitive deficits and memory dysfunction. An electroencephalogram shows generalized periodic sharp waves. Neuroimaging studies show moderately advanced cerebral atrophy. A cortical biopsy shows diffuse vacuolar changes of the gray matter with reactive astrocytosis but no inflammatory infiltration.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2014-9",
+    "translated": "A 43-year-old woman visits her dermatologist for lesions on her neck. On examination, multiple lesions are seen. Each lesion is small soft, and pedunculated. The largest lesion is about 4 mm in diameter. The color of different lesions varies from flesh colored to slightly hyperpigmented.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2014-10",
+    "translated": "A physician is called to see a 67-year-old woman who underwent cardiac catheterization via the right femoral artery earlier in the morning. She is now complaining of a cool right foot. Upon examination she has a pulsatile mass in her right groin with loss of distal pulses, and auscultation reveals a bruit over the point at which the right femoral artery was entered.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2014-11",
+    "translated": "A 40-year-old woman with no past medical history presents to the ER with excruciating pain in her right arm that had started 1 hour prior to her admission. She denies trauma. On examination she is pale and in moderate discomfort, as well as tachypneic and tachycardic. Her body temperature is normal and her blood pressure is 80/60. Her right arm has no discoloration or movement limitation.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2014-12",
+    "translated": "A 25-year-old woman presents to the clinic complaining of prolonged fatigue. She denies difficulty sleeping and sleeps an average of 8 hours a night. She also notes hair loss, a change in her voice and weight gain during the previous 6 months. She complains of cold intolerance. On examination she has a prominent, soft, uniform anterior cervical mass at the midline.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2014-13",
+    "translated": "A 30-year-old generally healthy woman presents with shortness of breath that had started 2 hours before admission. She has had no health problems in the past besides 2 natural abortions. She had given birth to a healthy child 3 weeks before. On examination, she is apprehensive, tachypneic and tachycardic, her blood pressure is 110/70 and her oxygen saturation 92%. Otherwise, physical examination is unremarkable. Her chest x-ray and CBC are normal.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2014-14",
+    "translated": "An 85-year-old man is brought to the ER because of gradual decrease in his level of consciousness. In the last 3 days he stopped walking and eating by himself. He has had no fever, cough, rash or diarrhea. His daughter recalls that he had been involved in a car accident 3 weeks prior to his admission and had a normal head CT at that time.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2014-15",
+    "translated": "A 36-year-old woman presents to the emergency department with 12 weeks of amenorrhea, vaginal spotting that has increased since yesterday, lower abdominal tenderness, nausea and vomiting. The physical exam reveals overall tender abdomen, 18-week sized uterus, and cervical dilation of 2 cm. The complete blood count and biochemical profile are normal. Point of care pregnancy test with cut-off sensitivity of 25 mIU/ml Beta-HCG is negative. The ultrasound reports enlarged uterus (12 cm x 9 cm x 7 cms) with multiple cystic areas in the interior. The differential diagnosis includes vesicular mole vs fibroid degeneration.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2014-16",
+    "translated": "A 28-year-old female with neck and shoulder pain and left hand and arm paresthesias three weeks after returning from a trip to California where she attended a stray animal recovery campaign. Her physical exam was unremarkable except for slight tremors and almost imperceptible spasticity. She was prescribed NSAIDS and a topical muscle relaxant. She was brought in to the ER three days later with spastic arm movements, sweating, increasing agitation and anxiety, malaise, difficultly swallowing and marked hydrophobia, and was immediately hospitalized.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2014-17",
+    "translated": "A 48-year-old white male with history of common variable immunodeficiency (CVID) with acute abdominal pain, fever, dehydration, HR of 132 bpm, BP 80/40. The physical examination is remarkable for tenderness and positive Murphy sign. Abdominal ultrasound shows hepatomegaly and abundant free intraperitoneal fluid. Exploratory laparotomy reveals a ruptured liver abscess, which is then surgically drained. After surgery, the patient is taken to the ICU.",
+    "symptoms": [
+      "急性腹痛",
+      "发热",
+      "脱水"
+    ],
+    "diseases": [
+      "肝脓肿"
+    ],
+    "drugs": [],
+    "checks": [
+      "腹部超声"
+    ]
+  },
+  {
+    "id": "trec-cds-2014-18",
+    "translated": "A 6-month-old male infant has a urine output of less than 0.2 mL/kg/hr shortly after undergoing major surgery. On examination, he has generalized edema. His blood pressure is 115/80 mm Hg, his pulse is 141/min, and his respirations are 18/min. His blood urea nitrogen is 33 mg/dL, and his serum creatinine is 1.3 mg/dL. Initial urinalysis shows specific gravity of 1.017. Microscopic examination of the urine sample reveals 1 WBC per high-power field (HPF), 18 RBCs per HPF, and 5 granular casts per HPF. His fractional excretion of sodium is 3.3%.",
+    "symptoms": [
+      "edema"
+    ],
+    "diseases": [],
+    "drugs": [],
+    "checks": [
+      "blood pressure",
+      "pulse",
+      "respirations",
+      "urine output",
+      "specific gravity",
+      "microscopic examination of the urine sample",
+      "fractional excretion of sodium"
+    ]
+  },
+  {
+    "id": "trec-cds-2014-19",
+    "translated": "A 52-year-old African American man with a history of heavy smoking and drinking, describes progressive dysphagia that began several months ago. He first noticed difficulty swallowing meat. His trouble swallowing then progressed to include other solid foods, soft foods, and then liquids. He is able to locate the point where food is obstructed at the lower end of his sternum. He has lost a total of 25 pounds.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2014-20",
+    "translated": "A 32-year-old woman is admitted to the ER following a car accident. She has sustained multiple injuries including upper and lower extremity fractures. She is fully awake and alert, and she reports that she was not wearing a seat belt. Her blood pressure is 134/74 mm Hg, and her pulse is 87/min. Physical examination reveals a tender abdomen with guarding and rebound in all four quadrants. She has no bowel sounds.",
+    "symptoms": [
+      "upper extremity fracture",
+      "lower extremity fracture"
+    ],
+    "diseases": [],
+    "drugs": [],
+    "checks": [
+      "blood pressure",
+      "pulse",
+      "abdominal tenderness",
+      "guarding",
+      "rebound",
+      "bowel sounds"
+    ]
+  },
+  {
+    "id": "trec-cds-2014-21",
+    "translated": "A 21-year-old female is evaluated for progressive arthralgias and malaise. On examination she is found to have alopecia, a rash mainly distributed on the bridge of her nose and her cheeks, a delicate non-palpable purpura on her calves, and swelling and tenderness of her wrists and ankles. Her lab shows normocytic anemia, thrombocytopenia, a 4/4 positive ANA and anti-dsDNA. Her urine is positive for protein and RBC casts.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2014-22",
+    "translated": "A 15-year-old girl presents to the ER with abdominal pain. The pain appeared gradually and was periumbilical at first, localizing to the right lower quadrant over hours. She has had no appetite since yesterday but denies diarrhea. She has had no sexual partners and her menses are regular. On examination, she has localized rebound tenderness over the right lower quadrant. On an abdominal ultrasound, a markedly edematous appendix is seen.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2014-23",
+    "translated": "A 63-year-old man presents with cough and shortness of breath. His past medical history is notable for heavy smoking, spinal stenosis, diabetes, hypothyroidism and mild psoriasis. He also has a family history of early onset dementia. His symptoms began about a week prior to his admission, with productive cough, purulent sputum and difficulty breathing, requiring him to use his home oxygen for the past 24 hours. He denies fever. On examination he is cyanotic, tachypneic, with a barrel shaped chest and diffuse rales over his lungs. A chest x-ray is notable for hyperinflation with no consolidation.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2014-24",
+    "translated": "A 33-year-old male athlete presented to the ER with acute abdominal pain. Family member says the patient fell off his bike a week earlier and suffered blunt trauma to the left hemi-abdomen, and he has had mild abdominal pain since that day. The patient's history is negative for smoking, drugs, and alcohol. BP: 60/30 mmHg, HR: 140/min. The patient is pale, the physical examination of the abdomen revealed muscle contraction and resistance. Emergency ultrasound and CT scan of the abdomen reveal extended intraperitoneal hemorrhage due to spleen rupture.",
+    "symptoms": [
+      "abdominal pain"
+    ],
+    "diseases": [
+      "spleen rupture",
+      "hemorrhage"
+    ],
+    "drugs": [],
+    "checks": [
+      "ultrasound",
+      "CT scan"
+    ]
+  },
+  {
+    "id": "trec-cds-2014-25",
+    "translated": "An 8-year-old boy fell from his bike striking his left temple on the pavement. There was no immediate loss of consciousness, and a brief examination at the scene noted his pupils were symmetrical, reactive to the light, and he was moving all four limbs. Half an hour after the fall the child became drowsy, pale, and vomited. He was transferred to the emergency department. Upon arrival the heart rate was 52/min, blood pressure of 155/98. The Glasgow Coma Scale (GCS) was 6/15, the pupils were asymmetrical and movement of the right upper and lower extremities was impaired. The neurosurgical team advised deferring the CT scan in favor of initiating immediate treatment.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2014-26",
+    "translated": "A group of 14 humanitarian service workers is preparing a trip to the Amazon Rainforest region in Brazil. All the members of the group have traveled on multiple occasions and have up-to-date vaccine certificates. Malaria Chemoprophylaxis is indicated but three of the women are in different stages of pregnancy.",
+    "symptoms": [
+      "malaria"
+    ],
+    "diseases": [
+      "malaria",
+      "pregnancy"
+    ],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2014-27",
+    "translated": "A 21-year-old college student undergoes colonoscopy due to family history of multiple polyps in his older siblings. His brother underwent total proctocolectomy at age 22, and his sister underwent a total proctocolectomy at age 28, after both were found to have hundreds of colonic adenomas on colonoscopy. Both siblings are currently well without any findings of neoplasms. The patient undergoes sigmoidoscopy and is found to have dozens of small colonic polyps within rectosigmoid. Several of these are biopsied and are all benign adenomas.",
+    "symptoms": [
+      "family history of multiple polyps",
+      "colonic adenomas"
+    ],
+    "diseases": [
+      "adenoma",
+      "proctocolectomy"
+    ],
+    "drugs": [],
+    "checks": [
+      "colonoscopy",
+      "sigmoidoscopy"
+    ]
+  },
+  {
+    "id": "trec-cds-2014-28",
+    "translated": "A 31-year-old woman is seen in clinic with amenorrhea. She had menarche at age 14 and has had normal periods since then. However, her last menstrual period was 7 months ago. She also complains of an occasional milky nipple discharge. She is currently taking no mediations and would like to become pregnant soon. Examination shows a whitish nipple discharge bilaterally, but the rest of the examination is normal. Urine human chorionic gonadotropin (hCG) is negative, thyroid stimulating hormone (TSH) is normal, but prolactin is elevated.",
+    "symptoms": [
+      "amenorrhea",
+      "menstrual period"
+    ],
+    "diseases": [],
+    "drugs": [],
+    "checks": [
+      "urine hcg",
+      "tsh",
+      "prolactin"
+    ]
+  },
+  {
+    "id": "trec-cds-2014-29",
+    "translated": "A 51-year-old woman is seen in clinic for advice on osteoporosis. She has a past medical history of significant hypertension and diet-controlled diabetes mellitus. She currently smokes 1 pack of cigarettes per day. She was documented by previous LH and FSH levels to be in menopause within the last year. She is concerned about breaking her hip as she gets older and is seeking advice on osteoporosis prevention.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2014-30",
+    "translated": "A 72-year-old man complains of increasing calf pain when walking uphill. The symptoms have gradually increased over the past 3 months. The patient had an uncomplicated myocardial infarction 2 years earlier and a transient ischemic attack 6 months ago. Over the past month, his blood pressure has worsened despite previous control with diltiazem, hydrochlorothiazide, and propranolol. His is currently taking isosorbide dinitrate, hydrochlorothiazide, and aspirin. On physical examination, his blood pressure is 151/91 mm Hg, and his pulse is 67/min. There is a right carotid bruit. His lower extremities are slightly cool to the touch and have diminished pulses at the dorsalis pedis.",
+    "symptoms": [
+      "increasing calf pain"
+    ],
+    "diseases": [],
+    "drugs": [
+      "isosorbide dinitrate",
+      "hydrochlorothiazide",
+      "propranolol",
+      "aspirin"
+    ],
+    "checks": [
+      "blood pressure",
+      "pulse",
+      "lower extremities",
+      "right carotid bruit"
+    ]
+  },
+  {
+    "id": "trec-cds-2015-1",
+    "translated": "A 44 yo male is brought to the emergency room after multiple bouts of vomiting that has a \"coffee ground\" appearance. His heart rate is 135 bpm and blood pressure is 70/40 mmHg. Physical exam findings include decreased mental status and cool extremities. He receives a rapid infusion of crystalloid solution followed by packed red blood cell transfusion and is admitted to the ICU for further care.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2015-2",
+    "translated": "A 62 yo male presents with four days of non-productive cough and one day of fever. He is on immunosuppressive medications, including prednisone. He is admitted to the hospital, and his work-up includes bronchoscopy with bronchoalveolar lavage (BAL). BAL fluid examination reveals owl's eye inclusion bodies in the nuclei of infection cells.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2015-3",
+    "translated": "A 65 yo male with no significant history of cardiovascular disease presents to the emergency room with acute onset of shortness of breath, tachypnea, and left-sided chest pain that worsens with inspiration. Of note, he underwent a right total hip replacement two weeks prior to presentation and  was unable to begin physical therapy and rehabilitation for several days following the surgery due to poor pain management. Relevant physical exam findings include a respiratory rate of 35 and right calf pain.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2015-4",
+    "translated": "An 82-year-old woman comes to the emergency department because of chest pain and shortness of breath after being awakened in the morning by stabbing substernal chest pain radiating to the left shoulder and jaw. The patient had hypertension, renal-artery stenosis with chronic renal insufficiency, hypercholesterolemia, osteoporosis and dementia. Blood pressure was 199/108 mm Hg, respiratory rate 18 bpm, oxygen saturation 98% on ambient air. The heart sounds were rapid and with no murmurs. CK-MB was 10.9 ng/ml, CK was 89 U/l, CK index was 12.2% and Troponin T was 0.40 ng/ml. An EKG showed sinus regular tachycardia of 119 bpm, with ST-segment elevations up to 3 mm in V1, V2, and V3. A chest radiograph showed low lung volumes and right basilar subsegmental atelectasis. Coronary angiography showed no stenosis or clinically significant disease. Left ventriculography revealed akinesis of the anterior wall, hypokinesis of the apical and distal inferior walls, and compensatory hyperkinesis of the basal anterior and basal inferior walls. A transthoracic echocardiogram showed severe segmental left ventricular dysfunction involving the septum, anteroseptal territory, and apex. The overall left ventricular systolic function was mildly impaired and there was mild mitral regurgitation.",
+    "symptoms": [
+      "chest pain",
+      "shortness of breath"
+    ],
+    "diseases": [
+      "hypertension",
+      "renal-artery stenosis",
+      "chronic renal insufficiency",
+      "hypercholesterolemia",
+      "osteoporosis",
+      "dementia"
+    ],
+    "drugs": [],
+    "checks": [
+      "blood pressure",
+      "respiratory rate",
+      "oxygen saturation",
+      "heart sounds",
+      "CK-MB",
+      "CK",
+      "CK index",
+      "Troponin T",
+      "EKG",
+      "chest radiograph",
+      "coronary angiography",
+      "left ventriculography"
+    ]
+  },
+  {
+    "id": "trec-cds-2015-5",
+    "translated": "A 31-year-old woman with no previous medical problems comes to the emergency room with a history of 2 weeks of joint pain and fatigue. Initially she had right ankle swelling and difficulty standing up and walking, all of which resolved after a few days. For the past several days she has had pain, swelling and stiffness in her knees, hips and right elbow. She also reports intermittent fevers ranging from 38.2 to 39.4 degrees Celsius and chest pain.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2015-6",
+    "translated": "A 46-year-old woman presents  with a 9 month history of weight loss (20 lb), sweating, insomnia and diarrhea. She reports to have been eating more than normal and that her heart sometimes races for no reason. On physical examination her hands are warm and sweaty, her pulse is irregular at 110bpm and there is hyperreflexia and mild exophthalmia.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2015-7",
+    "translated": "A 20 yo female college student with no significant past medical history presents with a chief complaint of fatigue. She reports increased sleep and appetite over the past few months as well as difficulty concentrating on her schoolwork. She no longer enjoys spending time with her friends and feels guilty for not spending more time with her family. Her physical exam and laboratory tests, including hemoglobin, hematocrit and thyroid stimulating hormone, are within normal limits.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2015-8",
+    "translated": "A 10 yo boy with nighttime snoring, pauses in breathing, and restlessness with nighttime awakenings. No history of headache or night terrors. The boy's teacher recently contacted his parents because she was concerned about his declining grades, lack of attention, and excessive sleepiness during class.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2015-9",
+    "translated": "A 10 year old child is brought to the emergency room complaining of myalgia, cough, and shortness of breath.  Two weeks ago the patient was seen by his pediatrician for low-grade fever, abdominal pain, and diarrhea, diagnosed with a viral illness, and prescribed OTC medications. Three weeks ago the family returned home after a stay with relatives on a farm that raises domestic pigs for consumption. Vital signs: T: 39.5 C, BP: 90/60 HR: 120/min RR: 40/min. Physical exam findings include cyanosis,  slight stiffness of the neck,  and  marked periorbital edema. Lab results include WBC 25,000, with 25% Eosinophils, and an unremarkable urinalysis.",
+    "symptoms": [
+      "myalgia",
+      "cough",
+      "shortness of breath"
+    ],
+    "diseases": [
+      "viral illness"
+    ],
+    "drugs": [
+      "OTC medications"
+    ],
+    "checks": [
+      "WBC",
+      "urinalysis"
+    ]
+  },
+  {
+    "id": "trec-cds-2015-10",
+    "translated": "A 38 year old woman complains of severe premenstrual and menstrual pelvic pain, heavy, irregular periods and occasional spotting between periods. Past medical history remarkable for  two years of infertility treatment and an ectopic pregnancy at age 26.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2015-11",
+    "translated": "A 56-year old Caucasian female complains of being markedly more sensitive to the cold than most people. She also gets tired easily, has decreased appetite, and has recently tried home remedies for her constipation. Physical examination reveals hyporeflexia with delayed relaxation of knee and ankle reflexes, and very dry skin. She moves and talks slowly.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2015-12",
+    "translated": "A 44-year-old man was recently in an automobile accident where he sustained a skull fracture. In the emergency room, he noted clear fluid dripping from his nose. The following day he started complaining of severe headache and fever. Nuchal rigidity was found on physical examination.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2015-13",
+    "translated": "A 5-year-old boy presents to the emergency department with complaints of progressively worsening dysphagia, drooling, fever and vocal changes. He is toxic-appearing, and leans forward while sitting on his mother's lap. He is drooling and speaks with a muffled \"hot potato\" voice. The parents deny the possibility of foreign body ingestion or trauma, and they report that they are delaying some of his vaccines.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2015-14",
+    "translated": "A 27-year-old woman at 11 weeks gestation in her second pregnancy is found to have a hemoglobin (Hb) of 9.0 g/dL, white blood cell count 6.3 x 109/L, platelet count 119 x 109/L, mean corpuscular volume 109 fL. Further investigations reveal mild iron deficiency. She already receives iron supplementation. The obstetrician repeats the complete blood cell count 2 weeks later. The Hb is 8.9 g/dL, WBC count 7.1 x 109/L, and platelets 108 x 109/L. She describes difficulty swallowing. A reticulocyte count is performed and found elevated at 180 x 109/L. The obstetrician requests a hematology consult. The following additional results were found: Negative DAT, normal clotting screen, elevated LDH (2000 IU/L), normal urea and electrolytes, normal alanine aminotransferase (ALT), anisocytosis, poikilocytosis, no fragments, no agglutination, polychromasia and presence of hemosiderin in the urine.",
+    "symptoms": [
+      "difficulty swallowing"
+    ],
+    "diseases": [],
+    "drugs": [],
+    "checks": [
+      "DAT",
+      "clotting screen",
+      "LDH",
+      "urea",
+      "electrolytes",
+      "ALT",
+      "hematocrit"
+    ]
+  },
+  {
+    "id": "trec-cds-2015-15",
+    "translated": "Karen is a 72-year-old woman with hypertension and type 2 diabetes, who was hospitalized for cryptogenic stroke two weeks ago. At the time, computed tomography was negative for brain hemorrhage and she was given thrombolytic therapy with resolution of her symptoms. Transesophageal echocardiogram and magnetic resonance angiogram of brain and great vessels found no evidence of abnormalities. She presents currently with a blood pressure of 120/70 mm Hg, normal glucose, and normal sinus rhythm on a 12-lead electrocardiogram. She reports history of occasional palpitations, shortness of breath and chest pain lasting for a few minutes and then stopping on their own.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2015-16",
+    "translated": "A 4 year old boy presents to the emergency room with wheezing. He has had a history of allergic rhinitis, but no history of wheezing. His mother reports that 5 hours ago patient was playing in the backyard sandbox when she heard him suddenly start coughing. The coughing lasted only moments, but he has been audibly wheezing since. Mother was concerned, because his breathing has not returned to normal, so she brought him to the ED. On exam, the child is playful and well appearing. Wheezing is heard in the mid-right chest area. O2 sats are 100% on room air.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2015-17",
+    "translated": "A 32 year old female with no previous medical history presents to clinic to discuss lab results from her most recent pap smear. She reports no complaints and is in general good health. The results of her PAP were cytology negative, HPV positive.",
+    "symptoms": [
+      "no complaints"
+    ],
+    "diseases": [
+      "HPV",
+      "Pap smear"
+    ],
+    "drugs": [],
+    "checks": [
+      "pap smear"
+    ]
+  },
+  {
+    "id": "trec-cds-2015-18",
+    "translated": "A 65 yo African-American male with shortness of breath related to exertion that has been worsening over the past three weeks. He also has difficulty breathing when lying flat and has started using two to three extra pillows at night. Significant physical exam findings include bibasilar lung crackles, pitting ankle edema and jugular venous distension.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2015-19",
+    "translated": "A 66yo female with significant smoking history and chronic cough for the past two years presents with recent, progressive shortness of breath. She is in moderate respiratory distress after walking from the waiting room to the examination room. Physical exam reveals mildly distended neck veins, a barrel-shaped chest, and moderate inspiratory and expiratory wheezes. She has smoked 1 to 2 packs per days for the past 47 years.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2015-20",
+    "translated": "An 89-year-old man was brought to the emergency department by his wife and son after six months of progressive changes in cognition and personality. He began to have poor memory, difficulty expressing himself, and exhibited unusual behaviors, such as pouring milk onto the table and undressing immediately after getting dressed. He is unable to dress, bathe, use the toilet, or walk independently. On examination the patient's temperature was 36.5°C (97.7°F), the heart rate 61 bpm in an irregular rhythm, the blood pressure 144/78 mm Hg, and the respiratory rate 18 bpm. The patient was alert and oriented to self and city but not year. He frequently interrupted the examiner. He repeatedly reached out to grab things in front of him, including the examiner's tie and face. He could not spell the word \"world\" backward, could not follow commands involving multiple steps and was unable to perform simple calculations. His speech was fluent, but he often used similar-sounding word substitutions. He could immediately recall three out of three words but recalled none of them after 5 minutes. Examination of the cranial nerves revealed clinically significant paratonic rigidity. Myoclonic jerks were seen in the arms, with symmetrically brisk reflexes. The reflexes in the legs were normal.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2015-21",
+    "translated": "A 32-year-old male presents to your office complaining of diarrhea, abdominal cramping and flatulence. Stools are greasy and foul-smelling. He also has loss of appetite and malaise. He recently returned home from a hiking trip in the mountains where he drank water from natural sources.  An iodine-stained stool smear revealed ellipsoidal cysts with smooth, well-defined walls and 2+ nuclei.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2015-22",
+    "translated": "A 65-year-old male with a history of tuberculosis has started to complain of productive cough with tinges of blood. Chest X-ray reveals a round opaque mass within a cavity in his left upper lobe. The spherical mass moved in the cavity during supine and prone CT imaging. Culture of the sputum revealed an organism with septated, low-angle branching hyphae that had straight, parallel walls.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2015-23",
+    "translated": "An 18-year-old male returning from a recent vacation in Asia presents to the ER with a sudden onset of high fever, chills, facial flushing, epistaxis and severe headache and joint pain. His complete blood count reveals leukopenia, increased hematocrit concentration and thrombocytopenia.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2015-24",
+    "translated": "A 31 yo male with no significant past medical history presents with productive cough and chest pain. He reports developing cold symptoms one week ago that were improving until two days ago, when he developed a new fever, chills, and worsening cough. He has right-sided chest pain that is aggravated by coughing. His wife also had cold symptoms a week ago but is now feeling well. Vitals signs include temperature 103.4, pulse 105, blood pressure 120/80, and respiratory rate 15. Lung exam reveals expiratory wheezing, decreased breath sounds, and egophany in the left lower lung field.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2015-25",
+    "translated": "A 10-year-old boy comes to the emergency department for evaluation of right knee pain. The child's guardians stated that he had been complaining of knee pain for the past 4 days and it had been getting progressively worse. There was no history of trauma. The day before the visit the boy developed a fever, and over the past day he has become increasingly lethargic. On physical examination blood pressure was 117/75 mm Hg,  HR 138 bpm, temperature 38.1 C (100.5 F), respiration 28 bpm, oxygen saturation 97%. There was edema and tenderness of the right thigh and knee, as well as effusion and extremely limited range of motion. Sensation and motor tone were normal. Plain radiography and CT showed an osteolytic lesion.",
+    "symptoms": [
+      "right knee pain",
+      "fever",
+      "lethargy"
+    ],
+    "diseases": [],
+    "drugs": [],
+    "checks": [
+      "blood pressure",
+      "heart rate",
+      "temperature",
+      "respiration",
+      "oxygen saturation",
+      "plain radiography",
+      "CT"
+    ]
+  },
+  {
+    "id": "trec-cds-2015-26",
+    "translated": "A 28 yo female G1P0A0 is admitted to the Ob/Gyn service for non-ruptured ectopic pregnancy. Past medical history is remarkable for obesity, a non-complicated appendectomy at age 8, infertility treatment for the past 3 years, and pelvic laparoscopy during which minor right Fallopian tube adhesions were cauterized. Her LMP was 8 weeks prior to admission. Beta HCG is 100 mIU. The attending physician usually treats unruptured ecoptic pregnancies laparoscopically but is concerned about the patient's obesity and history of adhesions.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2015-27",
+    "translated": "A 15 yo girl accompanied by her mother is referred for evaluation by the school. The girl has more than expected absences in the last three month, appears to be constantly tired and sleepy in class. Her mother assures the girl is well fed, and getting the proper sleep at night but admits the girls tires easily when they go out on weekend hikes. Physical examination: BP: 90/60. HR 130/min the only remarkable findings are extremely pale skin and mucosae. Grade 3/6 systolic murmur. Lab tests report Hb: 4.2 g/dL, MCV 61.8 fL, serum iron < 1.8 umol/L and ferritin of 2 ng/mL. Fecal occult blood is negative.",
+    "symptoms": [
+      "tired",
+      "sleepy"
+    ],
+    "diseases": [
+      "anemia"
+    ],
+    "drugs": [],
+    "checks": [
+      "BP",
+      "HR",
+      "ferritin",
+      "serum iron",
+      "hemoglobin",
+      "MCV",
+      "fecal occult blood"
+    ]
+  },
+  {
+    "id": "trec-cds-2015-28",
+    "translated": "A previously healthy 8-year-old boy presents with a complaint of right lower extremity pain and fever. He reports limping for the past two days. The parents report no previous trauma, but do remember a tick bite during a summer visit to Maryland several months ago. They do not remember observing erythema migrans. On examination, the right knee is tender and swollen. Peripheral WBC count and SRP are slightly elevated.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2015-29",
+    "translated": "A 4-year-old girl presents with persistent fever for the past week. The parents report a spike at 104°F. The parents brought the child to the emergency room when they noticed erythematous rash on the girl's trunk. Physical examination reveals strawberry red tongue, red and cracked lips, and swollen red hands. The whites of both eyes are red with no discharge.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2015-30",
+    "translated": "A 47 year old male who fell on his outstretched left arm presents with pain and bruising on the inside and outside of the elbow, swelling, and inability to bend the arm. On the x-ray, the ulna has dislocated posteriorly from the trochlea of the humerus. The radius has dislocated from the capitulum of the humerus.",
+    "symptoms": [
+      "pain",
+      "bruising",
+      "swelling"
+    ],
+    "diseases": [
+      "dislocation"
+    ],
+    "drugs": [],
+    "checks": [
+      "x-ray"
+    ]
+  },
+  {
+    "id": "trec-cds-2016-1",
+    "translated": "78 M transferred to nursing home for rehab after CABG. Reportedly readmitted with a small NQWMI. Yesterday, he was noted to have a melanotic stool and then today he had approximately 9 loose BM w/ some melena and some frank blood just prior to transfer, unclear quantity.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2016-2",
+    "translated": "An elderly female with past medical history of hypertension, severe aortic stenosis, hyperlipidemia, and right hip arthroplasty. Presents after feeling a snap of her right leg and falling to the ground. No head trauma or loss of consciousness.",
+    "symptoms": [
+      "falling"
+    ],
+    "diseases": [
+      "aortic stenosis",
+      "hyperlipidemia"
+    ],
+    "drugs": [],
+    "checks": [
+      "head trauma",
+      "loss of consciousness"
+    ]
+  },
+  {
+    "id": "trec-cds-2016-3",
+    "translated": "A 75F with a PMHx significant for severe PVD, CAD, DM, and CKD presented after being found down unresponsive at home. She was found to be hypoglycemic to 29 with hypotension and bradycardia.  Her hypotension and confusion improved with hydration. She had a positive UA which eventually grew klebsiella. She had temp 96.3, respiratory rate 22, BP 102/26, a leukocytosis to 18 and a creatinine of 6 (baseline 2).  Pt has blood cultures positive for group A streptococcus.  On the day of transfer her blood pressure dropped to the 60s.  She was anuric throughout the day.  She received 80mg IV solumedrol this morning in the setting of low BPs and rare eos in urine. On arrival to the MICU pt was awake but drowsy.  On ROS, pt denies pain, lightheadedness, headache, neck pain, sore throat, recent illness or sick contacts, cough, shortness of breath, chest discomfort, heartburn, abd pain, n/v, diarrhea, constipation, dysuria.  Is a poor historian regarding how long she has had a rash on her legs.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2016-4",
+    "translated": "An 87 yo woman with h/o osteoporosis, multiple recent falls, CAD, who presents from nursing home with C2 fracture.  The patient was in her usual state of health at her nursing home until yesterday morning when she sustained a fall when trying to get up to go to the bathroom.  The fall was not witnessed, but the patient reportedly did not lose consciousness.  The patient complained of neck and rib pain. She was taken to OSH, where she was found to have a comminuted fracture of C2.  In the ED, the patient's VS were T 99.1, BP 106/42, P 101, R 24.  She had an ECG which showed sinus tachycardia and ST depressions in V3 and V4.  CT head was negative for ICH.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2016-5",
+    "translated": "An 82 man with chronic obstructive pulmonary disease, status-post bioprosthetic atrial valve replacement for atrial stenosis, atrial fibrillation with cardioversion, right nephrectomy for renal cell carcinoma, colon cancer status-post colectomy, presents with 9 day history of productive cough, fever and dyspnea.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2016-6",
+    "translated": "A 94 year old female with hx recent PE/DVT, atrial fibrillation, CAD presents with fever and abdominal pain.  Earlier, she presented with back pain and shortness of breath. She was found to have bilateral PE's and new afib and started on coumadin. Her HCT dropped slightly, requiring blood transfusion, with guaic positive stools. She was discharged and returned with abdominal cramping and black stools. EGD showed a small gastric and duodenal ulcer (healing), esophageal stricture, no active bleeding.  She also had an abdominal CT  demonstrating a distended gallbladder with gallstones and biliary obstruction with several CBD stones.",
+    "symptoms": [
+      "fever",
+      "abdominal pain",
+      "back pain",
+      "shortness of breath"
+    ],
+    "diseases": [
+      "PE",
+      "DVT",
+      "atrial fibrillation",
+      "CAD",
+      "gastric ulcer",
+      "duodenal ulcer",
+      "esophageal stricture",
+      "biliary obstruction"
+    ],
+    "drugs": [
+      "coumadin"
+    ],
+    "checks": [
+      "ECG",
+      "blood transfusion",
+      "EGD",
+      "abdominal CT"
+    ]
+  },
+  {
+    "id": "trec-cds-2016-7",
+    "translated": "This is a 41-year-old male patient with medical history of alcohol abuse, cholelithiasis, hypertension, obesity who presented to his local hospital with hematemasis.  On Friday evening he had several episodes of vomiting of bright and dark red material.  In the emergency department, initial vs were: T 98.6 P66 BP145/89 R16 O2 sat 98% RA. He was started on a protonix gtt and octreotide gtt given his elevated liver function tests. Lab tests show elevated lipase,  pancytopenia and coagulopathy. He had a right upper abdominal quadrant ultrasound which demonstrated gallstones and sludge and ascites. As such given new ascites and abdominal pain he was given levofloxacin 750mg IV and flagyl 500mg IV reportedly for spontaneous bacterial peritonitis prophylaxis.  On the floor, he reports that he had two episodes of vomiting of dark red emesis.  Per his nurse it was about 75ml and was gastrocult positive.  He has right upper abdominal quadrant pain radiating to his back.  He also reports slow increase in abdominal girth with more acute distention and lower extremity swelling over the two days prior to admission.  The patient denies fever, chills, night sweats, headache, sinus tenderness, rhinorrhea or congestion. Denied cough, shortness of breath. He also denied chest pain or tightness.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2016-8",
+    "translated": "A G2P0010 26 yo F, now estimated to 10 weeks pregnant, with 4yr hx of IDDM.  Last menstrual period is not known but was sometime three months ago.  Five days ago, the patient began feeling achy and congested. She had received a flu shot about 1 week prior. She continued to feel poorly and developed hyperemesis. She was seen in the ED (but not admitted), where she was given IVF, Reglan and Tylenol and she was found to have a positive pregnancy test. Today, she returned to the ED with worsening of symptoms. She was admitted to the OB service and given IVF and Reglan. Of note, her labwork demonstrates a blood glucose of 160, bicarbonate of 11, beta-hCG of 3373 and ketones in her urine. Her family noted that she was breathing rapidly and was quite somnolent.  She appears to be in respiratory distress.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2016-9",
+    "translated": "This is a 24 and 2/7 weeks, 678 gm male, born to a 34-year-old G2, P0 to 3 woman. Prenatal screens were O positive, antibody negative, hepatitis B surface antigen negative, RPR nonreactive, rubella immune, and GBS unknown.  This was an IVF pregnancy, notable for bleeding in the first trimester. The mother presented to the Hospital on the morning of delivery with premature rupture of membranes.  Betamethasone was given approximately 18 hours prior to delivery.  The mother was also started on ampicillin, gentamycin, and magnesium sulfate. Mother's labor progressed despite magnesium and she developed fever and chills.  Maximum temperature was 101.2 degrees.  Because of progressive labor and concerns for chorioamnionitis, the decision was made to deliver the infants. Delivery was by cesarean section.  The infant was intubated in the Delivery Room and Apgars were 5 at one and 8 at five minutes.  Examination was notable for an extreme pre-term infant, intubated.  Weight was 678 gm.  Chest x-ray shows respiratory immaturity and diffuse bilateral opacities within the lungs, left greater than right, with increased lung volumes.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2016-10",
+    "translated": "A 55y/o F with sarcoidosis, COPD, idiopathic cardiomyopathy with EF 40% and diastolic dysfunction, varices s/p TIPS and hypothyroidism presenting today with confusion. She was brought to the ED by her husband for evaluation after he noted worsening asterixis.  While in the waiting room the pt became more combative and then unresponsive.  In the ED: VS - Temp 97.9F, HR 115, BP 122/80, R 18, O2-sat 98% 2L NC.  She was unresponsive but able to protect her airway and so not intubated. She vomited x1 and received Zofran as well as 1.5 L NS. Labs were significant for K 5.5, BUN 46, Cr 2.2 (up from baseline of 0.8), and ammonia of 280. Stool was Guaiac negative. A urinalysis and CXR were done and are pending, and a FAST revealed hepatosplenomegaly but no intraperitoneal fluid.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2016-11",
+    "translated": "A 80yo male with dementia and past history of CABG, two caths this year patent LIMA, totally occluded SVG to RPDA, SVG to OM2, s/p BMS to LCX, presents with increasing chest pain and nausea over the past few days. The patient has history of repeated episodes of recurrent chest pain with relief with morphine.  Pt is on ASA, Statins, Imdur, and Heparin. Last month’s cath showed patent BMS in LCX and no new lesions.  According to the family, the patient has increasing episodes of chest pain with minimal exertion in the last two weeks.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2016-12",
+    "translated": "66 yo female pedestrian struck by auto. Unconscious and unresponsive at scene. Multiple fractures and complication secondary to the primary injury. S/p embolization of the avulsed second branch of brachial artery, complicated by exp lap secondary to  suspicion of abdominal compartment syndrome. Not much of the response after weaning the sedation with CT of the head showing extensive interparenchymal hemorrhages throughout.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2016-13",
+    "translated": "A 43 year old woman with history of transverse myelitis leading to paraplegia, depression, frequent pressure ulcers, presenting with chills and reporting she felt \"as if dying\". Upon presentation, she denied any shortness of breath, nausea, vomiting, but did report diarrhea with two loose bowel movements per day. Patient reported that she had a fallout with her VNA and has not had any professional wound care.  Patient is agitated, with rigors, complaining of feeling cold and back pain. Patient rolled and found to have a stage IV decubitus ulcer on coccyx and buttocks, heels. Admission labs significant for thrombocytosis,  elevated lactate, and prolonged PT.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2016-14",
+    "translated": "A 52 year-old woman with chronic obstructive pulmonary disease and breast cancer who presented to an outside hospital with shortness of breath and back pain for several weeks. Had been seen by primary  care provider for the back pain and treated with pain medications. Subsequently developed rash that was thought to be zoster. In the last few days, oxygen requirement increased and she had cough, fevers and sore throat. Noted oxygen saturation of 79% with ambulation at home. At outside hospital she was diagnosed with \"multi-focal pneumonia.\" In the process of obtaining a computerized tomography scan, contrast infiltrated her arm with skin blistering and swelling. She was treated with ceftriaxone and transferred to current hospital.",
+    "symptoms": [
+      "shortness of breath",
+      "back pain",
+      "rash",
+      "fevers",
+      "sore throat"
+    ],
+    "diseases": [],
+    "drugs": [
+      "ceftriaxone"
+    ],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2016-15",
+    "translated": "A 67 y.o. M with end stage COPD on home oxygen, tracheobronchomalacia s/p Y-stent, h/o RUL resection for squamous cell carcinoma with Cyberknife treatment. Patient had Y-stent placed complicated by cough and copious secretions requiring multiple therapeutic aspirations.  Last bronchoscopy was at OSH, where patient had copious secretions that were aspirated.  Pt reports compliance with Mucomyst nebs and Mucinex.  Patient reports decreaed appetitie, 50 lb wt loss in 6 months.  Decreased activity tolerance.  Smokes 5 cig/day.  PET scan revealed FDG avid soft tissue mass adjacent to lung resection site with some FDG avid nodes concerning for recurrence.  On arrival, vitals were T98.6 HR86 BP106/78 O289. Pt denied chest pain, palpitations, trauma, F/C, N/V/D. Pt. presents with worsening  SOB with R shoulder pain and weakness.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2016-16",
+    "translated": "A 90+ year old woman who was recently hospitalized for legionella PNA, and has been continuing her recovery at home with her son.  She had been doing fairly well for the last few days except for some waxing and waning confusion, and perhaps intermittent dysarthria.  The son was getting ready for work at 1:15am today, as per his usual routine.  He looked in on the patient at that time; she appeared to be sleeping comfortably in bed, on her back.  Soon thereafter, he heard her walking to the bathroom. At 1:40am, he heard a loud crash coming from the bathroom.  He found the patient on the floor of the bathroom, making non-verbal utterances and with minimal movement of the right side.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2016-17",
+    "translated": "This is a 76-year-old female with personal history of diastolic congestive heart failure, atrial fibrillation on Coumadin, presenting with low hematocrit and shortness of breath. Her hematocrit dropped from 28 to 16.9 over the past 6 weeks with progressive shortness of breath, worse with exertion over the past two weeks. She reports orthopnea. She denies fevers, chills, chest pain, palpitaitons, cough, abdominal pain, constipation or diahrrea, melena, blood in her stool, dysuria or rash. Her electrocardiogram present no significant change from previous. Her Guaiac was reported as being positive.",
+    "symptoms": [
+      "diastolic congestive heart failure",
+      "atrial fibrillation",
+      "Coumadin"
+    ],
+    "diseases": [
+      "low hematocrit",
+      "shortness of breath",
+      "orthopnea"
+    ],
+    "drugs": [
+      "Coumadin"
+    ],
+    "checks": [
+      "hematocrit",
+      "electrocardiogram",
+      "Guaiac"
+    ]
+  },
+  {
+    "id": "trec-cds-2016-18",
+    "translated": "A 40-year-old woman with a history of alcoholism complicated by Delirium Tremens and seizures 2 years ago, polysubstance abuse ncluding IV heroin, cocaine, crack (last use 2 years ago), heroin inhalation (last use 2 days ago), hep C, presents for voluntary admission for detox. The patient would like to undergo detoxification so she can take care of her children. She also complains of abdominal pain in lower quadrants, radiating to the back since yesterday. She says the pain has worsened since yesterday and is not related to food intake. She also complains of nausea, vomitting (bilious but nonbloody), and diarrhea (no black or red stools).  She stopped her methadone 1 week ago in an effort to quit drug abuse.  She reports dyspnea on exertion, orthopnea. Also describes weight gain. Labs are significant for elevated lipase.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2016-19",
+    "translated": "78 year old female with PMHx HTN, dCHF, Diabetes, CKD, Atrial fibrillation on coumadin, ischemic stroke, admitted after presenting to cardiology clinic today with confusion and Somnolence. Of note, she was recently discharged after presyncope/falls.  At that time, lasix was stopped and atenolol was switched to metoprolol as there was concern that blunting of tachycardia could be contributing to falls. She was discharged to rehab (previously living at home).  Per report from the ER, patient has had confusion at home for 3 weeks, though no family accompanies her to corroborate this story, and patient denies this. The patient is not sure why she is in the hospital. She saw her cardiologist today, who referred her to the ER after she appeared to be dehydrated, somnolent, and confused.  The patient denies headache, blurry vision, numbness, tingling or weakness. No CP. +SOB, worsening DOE.  No nausea, vomiting.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2016-20",
+    "translated": "A 87 year old female NH resident with a history of chronic atrial fibrillation, hypertension and hypothyroidism who presents wit abdominal pain.  She had been in her usual state of health until 5 days ago when she suddenly began to have abdominal pain.  Her abdominal pain was initially intermittent lasting for a few hours at at time.  No clear correlation with food.  Yesterday, she noticed that her pain was much more severe and more localized to the right.  This was accompanied by nausea and vomitting.  She vomitted twice, with clear liquid emesis and was sent to a hospital.  At the hospital, she was noted to have elevated amylase/lipase to 538 and 516 with elevated bili to 4.1 and AST/ALT to 198/115 and was given ciprofloxacin, flagyl and 500cc NS and was transferred to the emergency department.  At the emergency department her vital signs were TM 97.9  HR 83  BP 157/92  RR 18 sat 97% RA.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2016-21",
+    "translated": "A 63 yo man with h/o biphenotypic ALL, now Day + 32 from allogeneic SCT, who presents with one week of worsening SOB and two days of a clear productive cough.  The patient states his SOB occured when lying flat, but not with activity.  Also admitted to chest pressure which would come and go in his left chest no related to the SOB.  Sleeps with 3 pillows (no change from baseline), denies PND; admits to a slight increase in lower extremity edema.  Admits to low grade fevers to the 99's and crampy abdominal pain.  Denies chills, night sweats, vomiting, or diarrhea.  Patient also has a history of CMV infection, aspergillus and Leggionare's disease and is on posaconazole.  His CXR showed an opacification of the left basilar lobe and also right upper lobe concerning for pneumonia as well as a small loculated right pleural effusion.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2016-22",
+    "translated": "94M with CAD s/p 4v-CABG, CHF, CRI presented with vfib arrest. Initial labs significant for K 2.7. EKG showed sinus rhythm, HR 80 with LAD, prolonged PR, TD 0.5 to 1mm in V4-V6. Echo showed Mildly depressed global left ventricular function, mild to moderate aortic regurgitation and mild mitral regurgitation.",
+    "symptoms": [
+      "vfib"
+    ],
+    "diseases": [
+      "CAD",
+      "CHF",
+      "CRI",
+      "sinus rhythm"
+    ],
+    "drugs": [],
+    "checks": [
+      "K",
+      "EKG",
+      "echo",
+      "aortic regurgitation",
+      "mitral regurgitation"
+    ]
+  },
+  {
+    "id": "trec-cds-2016-23",
+    "translated": "85M dementia, colon cancer and recent colectomy with primary reanastomosis  p/w melena. HCT 30 to 23 but hemodynamically stable. NGL negative.  Exam notable for Tm 99 BP 128/50 HR 70 RR 16 with sat 100 on RA. WD man, NAD. Chest clear, JVP 8cm. RR s1s2. Soft abdomen, well healed surgical scar. No edema or cord. Labs notable for WBC 7K, HCT 24, K+ 4.0, Cr 0.7.",
+    "symptoms": [
+      "melena"
+    ],
+    "diseases": [
+      "colon cancer",
+      "dementia"
+    ],
+    "drugs": [],
+    "checks": [
+      "Tm",
+      "BP",
+      "HR",
+      "RR",
+      "sat",
+      "WBC",
+      "HCT",
+      "K+",
+      "Cr"
+    ]
+  },
+  {
+    "id": "trec-cds-2016-24",
+    "translated": "51 year-old man with multiple sclerosis, quadriparesis, hypertension, restrictive lung disease, chronic constipation and small bowel obstruction after ileostomy, multiple urinary tract infections (also after placement of suprapubic tube), presents with small bowel obstruction and urinary tract infection. Admitted today as his home health aide noticed his urine output was low, 75cc overnight when he usually has about 1 liter overnight. Over the past two weeks he has had mild earaches, a sorethroat as well as some rhinorrhea. He denies any abdominal pain, has not sujectively noticed any change in abdominal distention. In the Emergency Department, he was noted to be severely dehydrated on exam, and creatinine level was 1.4 up from 0.6.",
+    "symptoms": [
+      "dehydration",
+      "earache",
+      "sore throat",
+      "rhinitis"
+    ],
+    "diseases": [],
+    "drugs": [],
+    "checks": [
+      "creatinine level"
+    ]
+  },
+  {
+    "id": "trec-cds-2016-25",
+    "translated": "A 64 yo female with with history of atrial fibrillation, Chronic Obstructive Pulmonary Disease, hypertension, hyperlipidemia, repair of an atrial septum defect which was complicated by sternal wound infection and post-operative atrial fibrillation treated with amiodarone, was initially admitted through the Emergency Department with shortness of breath and back pain, and was noted to have atrial fibrillation with rapid ventricular response. A computed tomography angiography demonstrated diffuse left anterior descending artery and post-obstructive pneumonia concerning for malignancy. For her atrial fibrillation, she was started on diltiazem. For the pneumonia, she was treated with antibiotics. She was then transferred to the floor later that same night on metoprolol 50 mg tid. While on the floor, she had a bronchoscopy performed which showed external compression of her left mainstem bronchus, and she had a biopsy via fine-needle aspiration, which showed large cell carcinoma. She denies chest pain, shortness of breath and tachypnea. She does note some diaphoresis and occasional palpitations.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2016-26",
+    "translated": "The patient is a 79 yoF w/ a h/o CAD s/p RCA stenting, diastolic CHF, 1+ MR, HTN, Hyperlipidemia, previous smoking history, and atrial fibrillation who presents for direct admission from home for progressive shortness of breath. According to Pt, her primary complaint is not shortness of breath, but cough X 1 week which has been rarely productive of white sputum. She denies associated fevers, chills, nausea, vomiting, pleuritic pain, weight gain, or dietary indiscretion. She also reports a sore throat over the past 3 days. She recently underwent thoracentesis for a moderate size pleueral effusion.  Cytology of the effusion was negative for malignant cells. Pt denies recent palpitations, and reports that she has been compliant with all medications. She admits to recent fatigue and 2 pillow orthopnea which has been present for months.  Current etiology considerations include CHF vs intrinsic pulmonary disease (infiltrative) vs embolic disease.  In order to optimize cardic function with atrial kick, pt underwent cardioversion and became hypotensive with a junctional rhythm requiring intubation.  She was placed on dobutamine.  Off of dobutamine, cardiac monitoring demonstrated a long QTc of 700 and an atrial escape rhythm.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2016-27",
+    "translated": "A 96 y/o female found unresponsive on ground at nursing home.  Pt was in dining room and found by staff.  Unresponsive for 1 min after found.  Pt cannot recollect events preceding fall but with some c/o HA and some neck/shoulder discomfort. NCHCT showed ~9mm L parietal SDH.  C-spine negative.  Imaging: CT head w/o contrast Acute left subdural hematoma measuring 1.5 cm maximal dimensions with leftward subfalcine herniation of 8 mm, downward transtentorial herniation with obliteration of the left suprasellar cistern, and uncal herniation. No fx, destructive infiltrative lesion involving the skull base.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2016-28",
+    "translated": "This 84-year-old man with a history of coronary artery disease presents with 2 days of melena and black colored emesis. Stools becoming less dark, but he had increased lethargy and presented to the emergency department today.  Initial systolic blood pressure recorded in the 60s,  but all in 110-120s after that.  In the ED, he had gastric lavage with coffee ground emesis that cleared with 600 cc of flushing. During the lavage he had chest pressure with mild ST depression V3-V5 that resolved spontaneously.  Patient is on ASPIRIN 81 mg Tablet by mouth daily.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2016-29",
+    "translated": "This is a 54 year old male patient with an idiopathic pulmonary fibrosis, who called today with worsening dyspnea for 3 days. He had been in unusual state of good health at baseline respiratory status (using 4L nasal canula at rest and 6L with exertion) when 3 days prior to admission, he hugged his cousin who has rats for pets and also the heat came up from the basement of his house. He feels that with these two events, his breathing became acutely worse and he is concerned for allergen exposure. He denies any sick contacts, fevers, chills, rhinorrhea. He did receive flu and pneumovax vaccines.  He has had a recent admission last month with progressive dyspnea on exertion. The computed tomography revealed increased ground glass opacity in lower lobes superimposed on pulmonary fibrosis with elevated eosinophils peripherally (12%). A bronchoalveolar lavage was also positive for eosinophils. He was started on high dose steroids (prednisone 60mg) with plan for close outpatient follow up for eosinophilic lung disease. He was discharged on 2-3L nasal canula. He then represented to the emergency department for spontaneous pneumomediastinum of unclear etiology.  On day of current admission, the patient called his pulmonologist complaining of worsening shortness of breath since Saturday. Yesterday he was at pulmonary rehab and desaturated to the 70s on 6L with minimal exertion, and he is currently on 4L nasal canula at rest.  No sick contacts recently. He was asked to go to ED.  In the ED, initial vs were: 98.3, 96, 144/97, 24, 97% 6L NC.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-cds-2016-30",
+    "translated": "85 y/o F with PMHx of HTN, HL, h/o breast CA and 3cm renal pelvis transitional cell tumor who presented for nephrectomy.  Her post op course was complicated by agitation thought due to narcotics.  Today, she was restarted on her home meds and while on telemetry, pt was noted to be bradycardic to 40s.  Pt was triggered for SBP of 70 and HR of 40 during which she remained asymptomatic.  She was given 1L IVF and her HR/BP trended back up to baseline.  However, there was a second event an hour later when she sat up and became bradycardic in the 30s with associated hypotension. Second episode occurred with position change and again, pt developped junctional rhythm in 30s.",
+    "symptoms": [
+      "agitation",
+      "bradycardia"
+    ],
+    "diseases": [],
+    "drugs": [],
+    "checks": [
+      "SBP",
+      "HR",
+      "IVF"
+    ]
+  },
+  {
+    "id": "trec-ct-2021-1",
+    "translated": "Patient is a 45-year-old man with a history of anaplastic astrocytoma of the spine complicated by severe lower extremity weakness and urinary retention s/p Foley catheter, high-dose steroids, hypertension, and chronic pain. The tumor is located in the T-L spine, unresectable anaplastic astrocytoma s/p radiation. Complicated by progressive lower extremity weakness and urinary retention. Patient initially presented with RLE weakness where his right knee gave out with difficulty walking and right anterior thigh numbness. MRI showed a spinal cord conus mass which was biopsied and found to be anaplastic astrocytoma. Therapy included field radiation t10-l1 followed by 11 cycles of temozolomide 7 days on and 7 days off. This was followed by CPT-11 Weekly x4 with Avastin Q2 weeks/ 2 weeks rest and repeat cycle.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-ct-2021-2",
+    "translated": "48 M with a h/o HTN hyperlipidemia, bicuspid aortic valve, and tobacco abuse who presented to his cardiologist on [**2148-10-1**] with progressive SOB and LE edema. TTE revealed severe aortic stenosis with worsening LV function. EF was 25%. RV pressure was 41 and had biatrial enlargement. Noted to have 2+ aortic insufficiency with mild MR. He was sent home from cardiology clinic with Lasix and BB (which he did not tolerate), continued to have worsening SOB and LE edema and finally presented here for evaluation.\nDuring this admission repeat echo confirmed critical aortic stenosis showing left ventricular hypertrophy with cavity dilation and severe global hypokinesis, severe aortic valve stenosis with underlying bicuspid aortic valve, dilated ascending aorta, mild pulmonary artery systolic hypertension. The patient underwent a preop workup for valvular replacement with preop chest CT scan and carotid US (showing moderate heterogeneous plaque with bilateral 1-39% ICA stenosis). He also underwent a cardiac cath with right heart cath to evaluate his pulm art pressures which showed no angiographically apparent flow-limiting coronary artery disease.",
+    "symptoms": [
+      "SOB",
+      "LE edema"
+    ],
+    "diseases": [
+      "aortic stenosis",
+      "bicuspid aortic valve",
+      "hyperlipidemia",
+      "hypertension",
+      "left ventricular hypertrophy",
+      "pulmonary artery systolic hypertension"
+    ],
+    "drugs": [
+      "Lasix",
+      "BB"
+    ],
+    "checks": [
+      "TTE",
+      "chest CT scan",
+      "carotid US",
+      "cardiac cath"
+    ]
+  },
+  {
+    "id": "trec-ct-2021-3",
+    "translated": "A 32 yo woman who presents following a severe 'exploding' headache. She and her husband report that yesterday she was in the kitchen and stood up and hit her head on the corner of a cabinet. The next morning she developed a sudden 'exploding' headache. She came to the hospital where head CT showed a significant amount of blood in her right ventricle. NSGY evaluated her for spontaneous intraventricular hemorrhage with a concern for an underlying vascular malformation. Cerebral angiogram was done which showed abnormal vasculature with a draining vein from L temporal lobe penetrating deep white matter consistent with AVM. The patient did continue to have a headaches but they were improving with pain medication. The patient refused PT evaluation but was ambulating independently without difficulty. She was discharged to home with her husband on [**2155-12-6**].",
+    "symptoms": [
+      "headache"
+    ],
+    "diseases": [],
+    "drugs": [],
+    "checks": [
+      "cerebral angiogram",
+      "head CT"
+    ]
+  },
+  {
+    "id": "trec-ct-2021-4",
+    "translated": "This is a 44 year old female with PMH of PCOS, Obesity, HTN who presented with symptoms of cholecystitis and was found incidentally to have a large pericardial effusion. A pericardiocentesis was performed and the fluid analysis was consistent with Burkitt's lymphoma. Pericardial fluid was kappa light chain restricted CD10 positive monotypic B cells expressing FMC-7, CD19, CD20, and myc rearrangement consistent with Burkitt's Lymphoma. A subsequent lumbar puncture and bone marrow biopsy were negative for any involvement which made this a primary cardiac lymphoma. A cardiac MRI showed a mass that was 3cm x 1cm on the lateral wall of the right atrium adjacent to the AV junction.\nPast Medical History:\n1. Rare migraines\n2. HTN\n3. Obesity\n4. PCOS/infertility\n5. Viral encephalitis/meningitis-->ICH-->seizure/stroke ([**2137**]) =- from severe sinus infxn, caused mild non-focal residual deficits\n6. CSF leak w/ meningitis s/p lumbar drain placement\n7. R LE DVT s/p IVC filter placement\n8. Knee surgery",
+    "symptoms": [
+      "migraines",
+      "HTN",
+      "obesity",
+      "PCOS/infertility"
+    ],
+    "diseases": [],
+    "drugs": [],
+    "checks": [
+      "pericardiocentesis",
+      "cardiac MRI",
+      "lumbar puncture",
+      "bone marrow biopsy"
+    ]
+  },
+  {
+    "id": "trec-ct-2021-5",
+    "translated": "74M hx of CAD s/p CABG, EF 60% prior CVA (no residual deficits), HTN, HL, DMII, Moderate to Severe PVD was referred to cardiology for evaluation of PVD, and on examination patient was found to have carotid bruits. Upon further review of symptoms the pt reports + Occasional dizziness, no prior syncope occasional HA, Denies CP/SOB. No sensory or motor defects. He recalls that he might have had a stroke 10-15 years ago without any residual deficit. Prior to CABG he only had diaphoresis.\nFurther review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, palpitations, syncope or presyncope. He underwent Carotid U/S that showed significant bilateral carotid stenosis, L>R. Angiography revealed an 80% stenosis of the R ICA and a 90% L ICA stenosis. Cerebral angiography further revealed patent right ACA and MCA and patent left ACA and left MCA.\nPast Medical History:\nCAD s/p CABG in [**2154**] ([**Hospital1 112**])\nPrior CVA\nBilateral carotid artery disease\nAnemia\nPVD\nHypertension\nDiabetes c/b retinopathy and peripheral neuropathy\nCataracts s/p surgery\nThyroid nodule\nColon polyps s/p resection\nIntermittent Lower back pain\nProteinuria\ns/p right elbow fracture as a child\nArthritis",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-ct-2021-6",
+    "translated": "Patient is a 55yo woman with h/o ESRD on HD and peritoneal dialysis who presented with watery, non bloody diarrhea and weakness. She has a history of 2 prior C diff infections, the most recent just 1 month ago. Recent antibx use in the last month on prior admission. Was also txd for Cdiff at that time for 14 d. course with po vanco. Pt was initially admitted to the ICU and was septic on pressors (levophed) until the morning of [**8-26**] with leukocytosis but no fever. C diff assay positive on admission, and pt had leukocytosis consistent with C diff. Patient was placed on Vanco po, Flagyl IV and Flagyl po initially, and when patient improved she was transitioned to Vanco oral and Flagyl oral on [**8-29**]. Patient was treated with Vanco for an extended course of 6 weeks given her recurrent C diff. Pt was also encouraged to take probiotics and to bleach her home when she was discharged.",
+    "symptoms": [
+      "watery",
+      "non bloody diarrhea"
+    ],
+    "diseases": [],
+    "drugs": [
+      "po vanco",
+      "Flagyl IV",
+      "Flagyl po",
+      "Vanco oral",
+      "Flagyl oral",
+      "probiotics",
+      "bleach"
+    ],
+    "checks": []
+  },
+  {
+    "id": "trec-ct-2021-7",
+    "translated": "60 yo M with Hep C cirrhosis, grade II esophageal varices, recent admission for UGIB [**2-9**] NSAID gastritis, referred for admission throught the ED by hepatology clinic for new slurred speech and tangential thought process. Patient also describes new imbalance leading to a fall during which he may have hit his head on. Per last liver clinic note has been off ETOH for a year (corroborated with pt), utox was negative for alocohol. CT was within normal limits, and neuro evaluation determined this was not ischemic infart. Patient was given a presumptive diagnosis of hepatic encephalopathy and started on lactulose. Liver function tests showed a striking increase in his total and direct bilirubin since last visit. Another worrisome feature was the increase in the patient's AFP. This could be progression of cirrhosis as he failed interferon twice. He is to follow-up as an outpatient to work this up.\nPast Medical History:\nHCV Cirrhosis (tx with interferon x2 with no response)\nPortal Gastropathy\nGrade II Esophageal varices\nHTN\nRecent admission [**4-/2150**]: UGIB [**2-9**] non-steroidal induced\ngastritis",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-ct-2021-8",
+    "translated": "This is a 57-year-old gentleman with CLL and large cell transformation. He presented with his disease back in [**10/2119**] with an elevated white count and LDH. He was without any splenomegaly or any cytopenias at that time. He did have some bulky lymphadenopathy. He then completed four cycles of FCR therapy, which he completed back in 09/[**2119**]. He had an excellent response to therapy and was monitored off treatment for approximately two years. He then presented in [**7-/2122**] with a rising white count, approximately 50% lymphocytes, and a mildly elevated LDH. He also had some mild worsening palpable lymphadenopathy. He then received four cycles of PCR, but did not have much in the way of response and his treatment regimen was switched to R-CVP of which he received two cycles. He did again not have a significant response, though continued to have an excellent performance status, and he was ultimately switched to Campath therapy. He did have resolution of his lymphocytosis, and his white count has come down nicely, but did not have much in the way of response in terms of reducing his bulky lymphadenopathy. He then eventually had developed an enlarging left cervical node which was biopsied and was found to have Richter's transformation.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-ct-2021-9",
+    "translated": "41 year old man with history of severe intellectual disability, CHF, epilepsy presenting with facial twitching on the right and generalized shaking in at his NH which required 20 mg valium to cease seizure activity. Per outside medical patient was felt to have focal epilepsy with secondary generalization, likely due to anoxic brain injury at birth, and probably related to the atrophic changes seen on MRI, particularly in the left temporal lobe.\nThe patient first developed seizures at age 13 found by family to have a generalized convulsion. He had a second seizure two years after his first episode. He was maintained on Dilantin and phenobarbital. The patient went 20 years without another seizure. He was recently tapered off Dilantin, and it was felt that perhaps this medication was necessary to maintain him seizure free. The patient had no further events during the hospital course and was back at his baseline at the time of discharge. Full EEG reports are pending at the time of dictation.\nPast Medical History:\nEpilepsy as above, CHF, depression",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  },
+  {
+    "id": "trec-ct-2021-10",
+    "translated": "Pt is a 22yo F otherwise healthy with a 5 yr history of the systemic mastocytosis, with flares normally 3/year, presenting with flushing and tachycardia concerning for another flare. This is patient's 3rd flare in 2 months, while still on steroid taper which is new for her. She responded well to 125 mg IV steroids q 8 hrs and IV diphenydramine in addition to her continuing home regimen. CBC was at her baseline, w/normal differential. Serum tryptase revealed a high value at 84. The patient failed aspirin challenge due to adverse reaction. She was stabilized on IV steroids and IV benadryl and transferred back to the medical floor. She continued on her home histamine receptor blockers and was transitioned from IV to PO steroids and benadryl and observed overnight and was discharged on her home meds, prednisone taper, GI prophylaxis with PPI, Calcium and vitamin D, and SS bactrim for PCP.",
+    "symptoms": [],
+    "diseases": [],
+    "drugs": [],
+    "checks": []
+  }
+]

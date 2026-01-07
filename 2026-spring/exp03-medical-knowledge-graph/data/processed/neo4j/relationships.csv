@@ -1,0 +1,511 @@
+start_id,end_id,type
+symptom_painless skin lesion,disease_diabetes mellitus,RELATED_TO
+symptom_急性腹痛,disease_肝脓肿,RELATED_TO
+symptom_发热,disease_肝脓肿,RELATED_TO
+symptom_脱水,disease_肝脓肿,RELATED_TO
+symptom_急性腹痛,check_腹部超声,RELATED_TO
+symptom_发热,check_腹部超声,RELATED_TO
+symptom_脱水,check_腹部超声,RELATED_TO
+disease_肝脓肿,check_腹部超声,RELATED_TO
+symptom_edema,check_blood pressure,RELATED_TO
+symptom_edema,check_pulse,RELATED_TO
+symptom_edema,check_respirations,RELATED_TO
+symptom_edema,check_urine output,RELATED_TO
+symptom_edema,check_specific gravity,RELATED_TO
+symptom_edema,check_microscopic examination of the urine sample,RELATED_TO
+symptom_edema,check_fractional excretion of sodium,RELATED_TO
+symptom_upper extremity fracture,check_blood pressure,RELATED_TO
+symptom_upper extremity fracture,check_pulse,RELATED_TO
+symptom_upper extremity fracture,check_abdominal tenderness,RELATED_TO
+symptom_upper extremity fracture,check_guarding,RELATED_TO
+symptom_upper extremity fracture,check_rebound,RELATED_TO
+symptom_upper extremity fracture,check_bowel sounds,RELATED_TO
+symptom_lower extremity fracture,check_blood pressure,RELATED_TO
+symptom_lower extremity fracture,check_pulse,RELATED_TO
+symptom_lower extremity fracture,check_abdominal tenderness,RELATED_TO
+symptom_lower extremity fracture,check_guarding,RELATED_TO
+symptom_lower extremity fracture,check_rebound,RELATED_TO
+symptom_lower extremity fracture,check_bowel sounds,RELATED_TO
+symptom_abdominal pain,disease_spleen rupture,RELATED_TO
+symptom_abdominal pain,disease_hemorrhage,RELATED_TO
+symptom_abdominal pain,check_ultrasound,RELATED_TO
+symptom_abdominal pain,check_CT scan,RELATED_TO
+disease_spleen rupture,check_ultrasound,RELATED_TO
+disease_spleen rupture,check_CT scan,RELATED_TO
+disease_hemorrhage,check_ultrasound,RELATED_TO
+disease_hemorrhage,check_CT scan,RELATED_TO
+symptom_malaria,disease_malaria,RELATED_TO
+symptom_malaria,disease_pregnancy,RELATED_TO
+symptom_family history of multiple polyps,disease_adenoma,RELATED_TO
+symptom_family history of multiple polyps,disease_proctocolectomy,RELATED_TO
+symptom_colonic adenomas,disease_adenoma,RELATED_TO
+symptom_colonic adenomas,disease_proctocolectomy,RELATED_TO
+symptom_family history of multiple polyps,check_colonoscopy,RELATED_TO
+symptom_family history of multiple polyps,check_sigmoidoscopy,RELATED_TO
+symptom_colonic adenomas,check_colonoscopy,RELATED_TO
+symptom_colonic adenomas,check_sigmoidoscopy,RELATED_TO
+disease_adenoma,check_colonoscopy,RELATED_TO
+disease_adenoma,check_sigmoidoscopy,RELATED_TO
+disease_proctocolectomy,check_colonoscopy,RELATED_TO
+disease_proctocolectomy,check_sigmoidoscopy,RELATED_TO
+symptom_amenorrhea,check_urine hcg,RELATED_TO
+symptom_amenorrhea,check_tsh,RELATED_TO
+symptom_amenorrhea,check_prolactin,RELATED_TO
+symptom_menstrual period,check_urine hcg,RELATED_TO
+symptom_menstrual period,check_tsh,RELATED_TO
+symptom_menstrual period,check_prolactin,RELATED_TO
+symptom_increasing calf pain,check_blood pressure,RELATED_TO
+symptom_increasing calf pain,check_pulse,RELATED_TO
+symptom_increasing calf pain,check_lower extremities,RELATED_TO
+symptom_increasing calf pain,check_right carotid bruit,RELATED_TO
+symptom_chest pain,disease_hypertension,RELATED_TO
+symptom_chest pain,disease_renal-artery stenosis,RELATED_TO
+symptom_chest pain,disease_chronic renal insufficiency,RELATED_TO
+symptom_chest pain,disease_hypercholesterolemia,RELATED_TO
+symptom_chest pain,disease_osteoporosis,RELATED_TO
+symptom_chest pain,disease_dementia,RELATED_TO
+symptom_shortness of breath,disease_hypertension,RELATED_TO
+symptom_shortness of breath,disease_renal-artery stenosis,RELATED_TO
+symptom_shortness of breath,disease_chronic renal insufficiency,RELATED_TO
+symptom_shortness of breath,disease_hypercholesterolemia,RELATED_TO
+symptom_shortness of breath,disease_osteoporosis,RELATED_TO
+symptom_shortness of breath,disease_dementia,RELATED_TO
+symptom_chest pain,check_blood pressure,RELATED_TO
+symptom_chest pain,check_respiratory rate,RELATED_TO
+symptom_chest pain,check_oxygen saturation,RELATED_TO
+symptom_chest pain,check_heart sounds,RELATED_TO
+symptom_chest pain,check_CK-MB,RELATED_TO
+symptom_chest pain,check_CK,RELATED_TO
+symptom_chest pain,check_CK index,RELATED_TO
+symptom_chest pain,check_Troponin T,RELATED_TO
+symptom_chest pain,check_EKG,RELATED_TO
+symptom_chest pain,check_chest radiograph,RELATED_TO
+symptom_chest pain,check_coronary angiography,RELATED_TO
+symptom_chest pain,check_left ventriculography,RELATED_TO
+symptom_shortness of breath,check_blood pressure,RELATED_TO
+symptom_shortness of breath,check_respiratory rate,RELATED_TO
+symptom_shortness of breath,check_oxygen saturation,RELATED_TO
+symptom_shortness of breath,check_heart sounds,RELATED_TO
+symptom_shortness of breath,check_CK-MB,RELATED_TO
+symptom_shortness of breath,check_CK,RELATED_TO
+symptom_shortness of breath,check_CK index,RELATED_TO
+symptom_shortness of breath,check_Troponin T,RELATED_TO
+symptom_shortness of breath,check_EKG,RELATED_TO
+symptom_shortness of breath,check_chest radiograph,RELATED_TO
+symptom_shortness of breath,check_coronary angiography,RELATED_TO
+symptom_shortness of breath,check_left ventriculography,RELATED_TO
+disease_hypertension,check_blood pressure,RELATED_TO
+disease_hypertension,check_respiratory rate,RELATED_TO
+disease_hypertension,check_oxygen saturation,RELATED_TO
+disease_hypertension,check_heart sounds,RELATED_TO
+disease_hypertension,check_CK-MB,RELATED_TO
+disease_hypertension,check_CK,RELATED_TO
+disease_hypertension,check_CK index,RELATED_TO
+disease_hypertension,check_Troponin T,RELATED_TO
+disease_hypertension,check_EKG,RELATED_TO
+disease_hypertension,check_chest radiograph,RELATED_TO
+disease_hypertension,check_coronary angiography,RELATED_TO
+disease_hypertension,check_left ventriculography,RELATED_TO
+disease_renal-artery stenosis,check_blood pressure,RELATED_TO
+disease_renal-artery stenosis,check_respiratory rate,RELATED_TO
+disease_renal-artery stenosis,check_oxygen saturation,RELATED_TO
+disease_renal-artery stenosis,check_heart sounds,RELATED_TO
+disease_renal-artery stenosis,check_CK-MB,RELATED_TO
+disease_renal-artery stenosis,check_CK,RELATED_TO
+disease_renal-artery stenosis,check_CK index,RELATED_TO
+disease_renal-artery stenosis,check_Troponin T,RELATED_TO
+disease_renal-artery stenosis,check_EKG,RELATED_TO
+disease_renal-artery stenosis,check_chest radiograph,RELATED_TO
+disease_renal-artery stenosis,check_coronary angiography,RELATED_TO
+disease_renal-artery stenosis,check_left ventriculography,RELATED_TO
+disease_chronic renal insufficiency,check_blood pressure,RELATED_TO
+disease_chronic renal insufficiency,check_respiratory rate,RELATED_TO
+disease_chronic renal insufficiency,check_oxygen saturation,RELATED_TO
+disease_chronic renal insufficiency,check_heart sounds,RELATED_TO
+disease_chronic renal insufficiency,check_CK-MB,RELATED_TO
+disease_chronic renal insufficiency,check_CK,RELATED_TO
+disease_chronic renal insufficiency,check_CK index,RELATED_TO
+disease_chronic renal insufficiency,check_Troponin T,RELATED_TO
+disease_chronic renal insufficiency,check_EKG,RELATED_TO
+disease_chronic renal insufficiency,check_chest radiograph,RELATED_TO
+disease_chronic renal insufficiency,check_coronary angiography,RELATED_TO
+disease_chronic renal insufficiency,check_left ventriculography,RELATED_TO
+disease_hypercholesterolemia,check_blood pressure,RELATED_TO
+disease_hypercholesterolemia,check_respiratory rate,RELATED_TO
+disease_hypercholesterolemia,check_oxygen saturation,RELATED_TO
+disease_hypercholesterolemia,check_heart sounds,RELATED_TO
+disease_hypercholesterolemia,check_CK-MB,RELATED_TO
+disease_hypercholesterolemia,check_CK,RELATED_TO
+disease_hypercholesterolemia,check_CK index,RELATED_TO
+disease_hypercholesterolemia,check_Troponin T,RELATED_TO
+disease_hypercholesterolemia,check_EKG,RELATED_TO
+disease_hypercholesterolemia,check_chest radiograph,RELATED_TO
+disease_hypercholesterolemia,check_coronary angiography,RELATED_TO
+disease_hypercholesterolemia,check_left ventriculography,RELATED_TO
+disease_osteoporosis,check_blood pressure,RELATED_TO
+disease_osteoporosis,check_respiratory rate,RELATED_TO
+disease_osteoporosis,check_oxygen saturation,RELATED_TO
+disease_osteoporosis,check_heart sounds,RELATED_TO
+disease_osteoporosis,check_CK-MB,RELATED_TO
+disease_osteoporosis,check_CK,RELATED_TO
+disease_osteoporosis,check_CK index,RELATED_TO
+disease_osteoporosis,check_Troponin T,RELATED_TO
+disease_osteoporosis,check_EKG,RELATED_TO
+disease_osteoporosis,check_chest radiograph,RELATED_TO
+disease_osteoporosis,check_coronary angiography,RELATED_TO
+disease_osteoporosis,check_left ventriculography,RELATED_TO
+disease_dementia,check_blood pressure,RELATED_TO
+disease_dementia,check_respiratory rate,RELATED_TO
+disease_dementia,check_oxygen saturation,RELATED_TO
+disease_dementia,check_heart sounds,RELATED_TO
+disease_dementia,check_CK-MB,RELATED_TO
+disease_dementia,check_CK,RELATED_TO
+disease_dementia,check_CK index,RELATED_TO
+disease_dementia,check_Troponin T,RELATED_TO
+disease_dementia,check_EKG,RELATED_TO
+disease_dementia,check_chest radiograph,RELATED_TO
+disease_dementia,check_coronary angiography,RELATED_TO
+disease_dementia,check_left ventriculography,RELATED_TO
+symptom_myalgia,disease_viral illness,RELATED_TO
+symptom_cough,disease_viral illness,RELATED_TO
+symptom_shortness of breath,disease_viral illness,RELATED_TO
+symptom_myalgia,check_WBC,RELATED_TO
+symptom_myalgia,check_urinalysis,RELATED_TO
+symptom_cough,check_WBC,RELATED_TO
+symptom_cough,check_urinalysis,RELATED_TO
+symptom_shortness of breath,check_WBC,RELATED_TO
+symptom_shortness of breath,check_urinalysis,RELATED_TO
+disease_viral illness,check_WBC,RELATED_TO
+disease_viral illness,check_urinalysis,RELATED_TO
+disease_viral illness,drug_OTC medications,RELATED_TO
+symptom_difficulty swallowing,check_DAT,RELATED_TO
+symptom_difficulty swallowing,check_clotting screen,RELATED_TO
+symptom_difficulty swallowing,check_LDH,RELATED_TO
+symptom_difficulty swallowing,check_urea,RELATED_TO
+symptom_difficulty swallowing,check_electrolytes,RELATED_TO
+symptom_difficulty swallowing,check_ALT,RELATED_TO
+symptom_difficulty swallowing,check_hematocrit,RELATED_TO
+symptom_no complaints,disease_HPV,RELATED_TO
+symptom_no complaints,disease_Pap smear,RELATED_TO
+symptom_no complaints,check_pap smear,RELATED_TO
+disease_HPV,check_pap smear,RELATED_TO
+disease_Pap smear,check_pap smear,RELATED_TO
+symptom_right knee pain,check_blood pressure,RELATED_TO
+symptom_right knee pain,check_heart rate,RELATED_TO
+symptom_right knee pain,check_temperature,RELATED_TO
+symptom_right knee pain,check_respiration,RELATED_TO
+symptom_right knee pain,check_oxygen saturation,RELATED_TO
+symptom_right knee pain,check_plain radiography,RELATED_TO
+symptom_right knee pain,check_CT,RELATED_TO
+symptom_fever,check_blood pressure,RELATED_TO
+symptom_fever,check_heart rate,RELATED_TO
+symptom_fever,check_temperature,RELATED_TO
+symptom_fever,check_respiration,RELATED_TO
+symptom_fever,check_oxygen saturation,RELATED_TO
+symptom_fever,check_plain radiography,RELATED_TO
+symptom_fever,check_CT,RELATED_TO
+symptom_lethargy,check_blood pressure,RELATED_TO
+symptom_lethargy,check_heart rate,RELATED_TO
+symptom_lethargy,check_temperature,RELATED_TO
+symptom_lethargy,check_respiration,RELATED_TO
+symptom_lethargy,check_oxygen saturation,RELATED_TO
+symptom_lethargy,check_plain radiography,RELATED_TO
+symptom_lethargy,check_CT,RELATED_TO
+symptom_tired,disease_anemia,RELATED_TO
+symptom_sleepy,disease_anemia,RELATED_TO
+symptom_tired,check_BP,RELATED_TO
+symptom_tired,check_HR,RELATED_TO
+symptom_tired,check_ferritin,RELATED_TO
+symptom_tired,check_serum iron,RELATED_TO
+symptom_tired,check_hemoglobin,RELATED_TO
+symptom_tired,check_MCV,RELATED_TO
+symptom_tired,check_fecal occult blood,RELATED_TO
+symptom_sleepy,check_BP,RELATED_TO
+symptom_sleepy,check_HR,RELATED_TO
+symptom_sleepy,check_ferritin,RELATED_TO
+symptom_sleepy,check_serum iron,RELATED_TO
+symptom_sleepy,check_hemoglobin,RELATED_TO
+symptom_sleepy,check_MCV,RELATED_TO
+symptom_sleepy,check_fecal occult blood,RELATED_TO
+disease_anemia,check_BP,RELATED_TO
+disease_anemia,check_HR,RELATED_TO
+disease_anemia,check_ferritin,RELATED_TO
+disease_anemia,check_serum iron,RELATED_TO
+disease_anemia,check_hemoglobin,RELATED_TO
+disease_anemia,check_MCV,RELATED_TO
+disease_anemia,check_fecal occult blood,RELATED_TO
+symptom_pain,disease_dislocation,RELATED_TO
+symptom_bruising,disease_dislocation,RELATED_TO
+symptom_swelling,disease_dislocation,RELATED_TO
+symptom_pain,check_x-ray,RELATED_TO
+symptom_bruising,check_x-ray,RELATED_TO
+symptom_swelling,check_x-ray,RELATED_TO
+disease_dislocation,check_x-ray,RELATED_TO
+symptom_falling,disease_aortic stenosis,RELATED_TO
+symptom_falling,disease_hyperlipidemia,RELATED_TO
+symptom_falling,check_head trauma,RELATED_TO
+symptom_falling,check_loss of consciousness,RELATED_TO
+disease_aortic stenosis,check_head trauma,RELATED_TO
+disease_aortic stenosis,check_loss of consciousness,RELATED_TO
+disease_hyperlipidemia,check_head trauma,RELATED_TO
+disease_hyperlipidemia,check_loss of consciousness,RELATED_TO
+symptom_fever,disease_PE,RELATED_TO
+symptom_fever,disease_DVT,RELATED_TO
+symptom_fever,disease_atrial fibrillation,RELATED_TO
+symptom_fever,disease_CAD,RELATED_TO
+symptom_fever,disease_gastric ulcer,RELATED_TO
+symptom_fever,disease_duodenal ulcer,RELATED_TO
+symptom_fever,disease_esophageal stricture,RELATED_TO
+symptom_fever,disease_biliary obstruction,RELATED_TO
+symptom_abdominal pain,disease_PE,RELATED_TO
+symptom_abdominal pain,disease_DVT,RELATED_TO
+symptom_abdominal pain,disease_atrial fibrillation,RELATED_TO
+symptom_abdominal pain,disease_CAD,RELATED_TO
+symptom_abdominal pain,disease_gastric ulcer,RELATED_TO
+symptom_abdominal pain,disease_duodenal ulcer,RELATED_TO
+symptom_abdominal pain,disease_esophageal stricture,RELATED_TO
+symptom_abdominal pain,disease_biliary obstruction,RELATED_TO
+symptom_back pain,disease_PE,RELATED_TO
+symptom_back pain,disease_DVT,RELATED_TO
+symptom_back pain,disease_atrial fibrillation,RELATED_TO
+symptom_back pain,disease_CAD,RELATED_TO
+symptom_back pain,disease_gastric ulcer,RELATED_TO
+symptom_back pain,disease_duodenal ulcer,RELATED_TO
+symptom_back pain,disease_esophageal stricture,RELATED_TO
+symptom_back pain,disease_biliary obstruction,RELATED_TO
+symptom_shortness of breath,disease_PE,RELATED_TO
+symptom_shortness of breath,disease_DVT,RELATED_TO
+symptom_shortness of breath,disease_atrial fibrillation,RELATED_TO
+symptom_shortness of breath,disease_CAD,RELATED_TO
+symptom_shortness of breath,disease_gastric ulcer,RELATED_TO
+symptom_shortness of breath,disease_duodenal ulcer,RELATED_TO
+symptom_shortness of breath,disease_esophageal stricture,RELATED_TO
+symptom_shortness of breath,disease_biliary obstruction,RELATED_TO
+symptom_fever,check_ECG,RELATED_TO
+symptom_fever,check_blood transfusion,RELATED_TO
+symptom_fever,check_EGD,RELATED_TO
+symptom_fever,check_abdominal CT,RELATED_TO
+symptom_abdominal pain,check_ECG,RELATED_TO
+symptom_abdominal pain,check_blood transfusion,RELATED_TO
+symptom_abdominal pain,check_EGD,RELATED_TO
+symptom_abdominal pain,check_abdominal CT,RELATED_TO
+symptom_back pain,check_ECG,RELATED_TO
+symptom_back pain,check_blood transfusion,RELATED_TO
+symptom_back pain,check_EGD,RELATED_TO
+symptom_back pain,check_abdominal CT,RELATED_TO
+symptom_shortness of breath,check_ECG,RELATED_TO
+symptom_shortness of breath,check_blood transfusion,RELATED_TO
+symptom_shortness of breath,check_EGD,RELATED_TO
+symptom_shortness of breath,check_abdominal CT,RELATED_TO
+disease_PE,check_ECG,RELATED_TO
+disease_PE,check_blood transfusion,RELATED_TO
+disease_PE,check_EGD,RELATED_TO
+disease_PE,check_abdominal CT,RELATED_TO
+disease_DVT,check_ECG,RELATED_TO
+disease_DVT,check_blood transfusion,RELATED_TO
+disease_DVT,check_EGD,RELATED_TO
+disease_DVT,check_abdominal CT,RELATED_TO
+disease_atrial fibrillation,check_ECG,RELATED_TO
+disease_atrial fibrillation,check_blood transfusion,RELATED_TO
+disease_atrial fibrillation,check_EGD,RELATED_TO
+disease_atrial fibrillation,check_abdominal CT,RELATED_TO
+disease_CAD,check_ECG,RELATED_TO
+disease_CAD,check_blood transfusion,RELATED_TO
+disease_CAD,check_EGD,RELATED_TO
+disease_CAD,check_abdominal CT,RELATED_TO
+disease_gastric ulcer,check_ECG,RELATED_TO
+disease_gastric ulcer,check_blood transfusion,RELATED_TO
+disease_gastric ulcer,check_EGD,RELATED_TO
+disease_gastric ulcer,check_abdominal CT,RELATED_TO
+disease_duodenal ulcer,check_ECG,RELATED_TO
+disease_duodenal ulcer,check_blood transfusion,RELATED_TO
+disease_duodenal ulcer,check_EGD,RELATED_TO
+disease_duodenal ulcer,check_abdominal CT,RELATED_TO
+disease_esophageal stricture,check_ECG,RELATED_TO
+disease_esophageal stricture,check_blood transfusion,RELATED_TO
+disease_esophageal stricture,check_EGD,RELATED_TO
+disease_esophageal stricture,check_abdominal CT,RELATED_TO
+disease_biliary obstruction,check_ECG,RELATED_TO
+disease_biliary obstruction,check_blood transfusion,RELATED_TO
+disease_biliary obstruction,check_EGD,RELATED_TO
+disease_biliary obstruction,check_abdominal CT,RELATED_TO
+disease_PE,drug_coumadin,RELATED_TO
+disease_DVT,drug_coumadin,RELATED_TO
+disease_atrial fibrillation,drug_coumadin,RELATED_TO
+disease_CAD,drug_coumadin,RELATED_TO
+disease_gastric ulcer,drug_coumadin,RELATED_TO
+disease_duodenal ulcer,drug_coumadin,RELATED_TO
+disease_esophageal stricture,drug_coumadin,RELATED_TO
+disease_biliary obstruction,drug_coumadin,RELATED_TO
+symptom_diastolic congestive heart failure,disease_low hematocrit,RELATED_TO
+symptom_diastolic congestive heart failure,disease_shortness of breath,RELATED_TO
+symptom_diastolic congestive heart failure,disease_orthopnea,RELATED_TO
+symptom_atrial fibrillation,disease_low hematocrit,RELATED_TO
+symptom_atrial fibrillation,disease_shortness of breath,RELATED_TO
+symptom_atrial fibrillation,disease_orthopnea,RELATED_TO
+symptom_Coumadin,disease_low hematocrit,RELATED_TO
+symptom_Coumadin,disease_shortness of breath,RELATED_TO
+symptom_Coumadin,disease_orthopnea,RELATED_TO
+symptom_diastolic congestive heart failure,check_hematocrit,RELATED_TO
+symptom_diastolic congestive heart failure,check_electrocardiogram,RELATED_TO
+symptom_diastolic congestive heart failure,check_Guaiac,RELATED_TO
+symptom_atrial fibrillation,check_hematocrit,RELATED_TO
+symptom_atrial fibrillation,check_electrocardiogram,RELATED_TO
+symptom_atrial fibrillation,check_Guaiac,RELATED_TO
+symptom_Coumadin,check_hematocrit,RELATED_TO
+symptom_Coumadin,check_electrocardiogram,RELATED_TO
+symptom_Coumadin,check_Guaiac,RELATED_TO
+disease_low hematocrit,check_hematocrit,RELATED_TO
+disease_low hematocrit,check_electrocardiogram,RELATED_TO
+disease_low hematocrit,check_Guaiac,RELATED_TO
+disease_shortness of breath,check_hematocrit,RELATED_TO
+disease_shortness of breath,check_electrocardiogram,RELATED_TO
+disease_shortness of breath,check_Guaiac,RELATED_TO
+disease_orthopnea,check_hematocrit,RELATED_TO
+disease_orthopnea,check_electrocardiogram,RELATED_TO
+disease_orthopnea,check_Guaiac,RELATED_TO
+disease_low hematocrit,drug_Coumadin,RELATED_TO
+disease_shortness of breath,drug_Coumadin,RELATED_TO
+disease_orthopnea,drug_Coumadin,RELATED_TO
+symptom_vfib,disease_CAD,RELATED_TO
+symptom_vfib,disease_CHF,RELATED_TO
+symptom_vfib,disease_CRI,RELATED_TO
+symptom_vfib,disease_sinus rhythm,RELATED_TO
+symptom_vfib,check_K,RELATED_TO
+symptom_vfib,check_EKG,RELATED_TO
+symptom_vfib,check_echo,RELATED_TO
+symptom_vfib,check_aortic regurgitation,RELATED_TO
+symptom_vfib,check_mitral regurgitation,RELATED_TO
+disease_CAD,check_K,RELATED_TO
+disease_CAD,check_EKG,RELATED_TO
+disease_CAD,check_echo,RELATED_TO
+disease_CAD,check_aortic regurgitation,RELATED_TO
+disease_CAD,check_mitral regurgitation,RELATED_TO
+disease_CHF,check_K,RELATED_TO
+disease_CHF,check_EKG,RELATED_TO
+disease_CHF,check_echo,RELATED_TO
+disease_CHF,check_aortic regurgitation,RELATED_TO
+disease_CHF,check_mitral regurgitation,RELATED_TO
+disease_CRI,check_K,RELATED_TO
+disease_CRI,check_EKG,RELATED_TO
+disease_CRI,check_echo,RELATED_TO
+disease_CRI,check_aortic regurgitation,RELATED_TO
+disease_CRI,check_mitral regurgitation,RELATED_TO
+disease_sinus rhythm,check_K,RELATED_TO
+disease_sinus rhythm,check_EKG,RELATED_TO
+disease_sinus rhythm,check_echo,RELATED_TO
+disease_sinus rhythm,check_aortic regurgitation,RELATED_TO
+disease_sinus rhythm,check_mitral regurgitation,RELATED_TO
+symptom_melena,disease_colon cancer,RELATED_TO
+symptom_melena,disease_dementia,RELATED_TO
+symptom_melena,check_Tm,RELATED_TO
+symptom_melena,check_BP,RELATED_TO
+symptom_melena,check_HR,RELATED_TO
+symptom_melena,check_RR,RELATED_TO
+symptom_melena,check_sat,RELATED_TO
+symptom_melena,check_WBC,RELATED_TO
+symptom_melena,check_HCT,RELATED_TO
+symptom_melena,check_K+,RELATED_TO
+symptom_melena,check_Cr,RELATED_TO
+disease_colon cancer,check_Tm,RELATED_TO
+disease_colon cancer,check_BP,RELATED_TO
+disease_colon cancer,check_HR,RELATED_TO
+disease_colon cancer,check_RR,RELATED_TO
+disease_colon cancer,check_sat,RELATED_TO
+disease_colon cancer,check_WBC,RELATED_TO
+disease_colon cancer,check_HCT,RELATED_TO
+disease_colon cancer,check_K+,RELATED_TO
+disease_colon cancer,check_Cr,RELATED_TO
+disease_dementia,check_Tm,RELATED_TO
+disease_dementia,check_BP,RELATED_TO
+disease_dementia,check_HR,RELATED_TO
+disease_dementia,check_RR,RELATED_TO
+disease_dementia,check_sat,RELATED_TO
+disease_dementia,check_WBC,RELATED_TO
+disease_dementia,check_HCT,RELATED_TO
+disease_dementia,check_K+,RELATED_TO
+disease_dementia,check_Cr,RELATED_TO
+symptom_dehydration,check_creatinine level,RELATED_TO
+symptom_earache,check_creatinine level,RELATED_TO
+symptom_sore throat,check_creatinine level,RELATED_TO
+symptom_rhinitis,check_creatinine level,RELATED_TO
+symptom_agitation,check_SBP,RELATED_TO
+symptom_agitation,check_HR,RELATED_TO
+symptom_agitation,check_IVF,RELATED_TO
+symptom_bradycardia,check_SBP,RELATED_TO
+symptom_bradycardia,check_HR,RELATED_TO
+symptom_bradycardia,check_IVF,RELATED_TO
+symptom_SOB,disease_aortic stenosis,RELATED_TO
+symptom_SOB,disease_bicuspid aortic valve,RELATED_TO
+symptom_SOB,disease_hyperlipidemia,RELATED_TO
+symptom_SOB,disease_hypertension,RELATED_TO
+symptom_SOB,disease_left ventricular hypertrophy,RELATED_TO
+symptom_SOB,disease_pulmonary artery systolic hypertension,RELATED_TO
+symptom_LE edema,disease_aortic stenosis,RELATED_TO
+symptom_LE edema,disease_bicuspid aortic valve,RELATED_TO
+symptom_LE edema,disease_hyperlipidemia,RELATED_TO
+symptom_LE edema,disease_hypertension,RELATED_TO
+symptom_LE edema,disease_left ventricular hypertrophy,RELATED_TO
+symptom_LE edema,disease_pulmonary artery systolic hypertension,RELATED_TO
+symptom_SOB,check_TTE,RELATED_TO
+symptom_SOB,check_chest CT scan,RELATED_TO
+symptom_SOB,check_carotid US,RELATED_TO
+symptom_SOB,check_cardiac cath,RELATED_TO
+symptom_LE edema,check_TTE,RELATED_TO
+symptom_LE edema,check_chest CT scan,RELATED_TO
+symptom_LE edema,check_carotid US,RELATED_TO
+symptom_LE edema,check_cardiac cath,RELATED_TO
+disease_aortic stenosis,check_TTE,RELATED_TO
+disease_aortic stenosis,check_chest CT scan,RELATED_TO
+disease_aortic stenosis,check_carotid US,RELATED_TO
+disease_aortic stenosis,check_cardiac cath,RELATED_TO
+disease_bicuspid aortic valve,check_TTE,RELATED_TO
+disease_bicuspid aortic valve,check_chest CT scan,RELATED_TO
+disease_bicuspid aortic valve,check_carotid US,RELATED_TO
+disease_bicuspid aortic valve,check_cardiac cath,RELATED_TO
+disease_hyperlipidemia,check_TTE,RELATED_TO
+disease_hyperlipidemia,check_chest CT scan,RELATED_TO
+disease_hyperlipidemia,check_carotid US,RELATED_TO
+disease_hyperlipidemia,check_cardiac cath,RELATED_TO
+disease_hypertension,check_TTE,RELATED_TO
+disease_hypertension,check_chest CT scan,RELATED_TO
+disease_hypertension,check_carotid US,RELATED_TO
+disease_hypertension,check_cardiac cath,RELATED_TO
+disease_left ventricular hypertrophy,check_TTE,RELATED_TO
+disease_left ventricular hypertrophy,check_chest CT scan,RELATED_TO
+disease_left ventricular hypertrophy,check_carotid US,RELATED_TO
+disease_left ventricular hypertrophy,check_cardiac cath,RELATED_TO
+disease_pulmonary artery systolic hypertension,check_TTE,RELATED_TO
+disease_pulmonary artery systolic hypertension,check_chest CT scan,RELATED_TO
+disease_pulmonary artery systolic hypertension,check_carotid US,RELATED_TO
+disease_pulmonary artery systolic hypertension,check_cardiac cath,RELATED_TO
+disease_aortic stenosis,drug_Lasix,RELATED_TO
+disease_aortic stenosis,drug_BB,RELATED_TO
+disease_bicuspid aortic valve,drug_Lasix,RELATED_TO
+disease_bicuspid aortic valve,drug_BB,RELATED_TO
+disease_hyperlipidemia,drug_Lasix,RELATED_TO
+disease_hyperlipidemia,drug_BB,RELATED_TO
+disease_hypertension,drug_Lasix,RELATED_TO
+disease_hypertension,drug_BB,RELATED_TO
+disease_left ventricular hypertrophy,drug_Lasix,RELATED_TO
+disease_left ventricular hypertrophy,drug_BB,RELATED_TO
+disease_pulmonary artery systolic hypertension,drug_Lasix,RELATED_TO
+disease_pulmonary artery systolic hypertension,drug_BB,RELATED_TO
+symptom_headache,check_cerebral angiogram,RELATED_TO
+symptom_headache,check_head CT,RELATED_TO
+symptom_migraines,check_pericardiocentesis,RELATED_TO
+symptom_migraines,check_cardiac MRI,RELATED_TO
+symptom_migraines,check_lumbar puncture,RELATED_TO
+symptom_migraines,check_bone marrow biopsy,RELATED_TO
+symptom_HTN,check_pericardiocentesis,RELATED_TO
+symptom_HTN,check_cardiac MRI,RELATED_TO
+symptom_HTN,check_lumbar puncture,RELATED_TO
+symptom_HTN,check_bone marrow biopsy,RELATED_TO
+symptom_obesity,check_pericardiocentesis,RELATED_TO
+symptom_obesity,check_cardiac MRI,RELATED_TO
+symptom_obesity,check_lumbar puncture,RELATED_TO
+symptom_obesity,check_bone marrow biopsy,RELATED_TO
+symptom_PCOS/infertility,check_pericardiocentesis,RELATED_TO
+symptom_PCOS/infertility,check_cardiac MRI,RELATED_TO
+symptom_PCOS/infertility,check_lumbar puncture,RELATED_TO
+symptom_PCOS/infertility,check_bone marrow biopsy,RELATED_TO

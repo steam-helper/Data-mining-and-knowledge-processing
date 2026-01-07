@@ -1,0 +1,202 @@
+id,type,name
+symptom_painless skin lesion,Symptom,painless skin lesion
+disease_diabetes mellitus,Disease,diabetes mellitus
+symptom_depression,Symptom,depression
+symptom_insomnia,Symptom,insomnia
+symptom_anxiety,Symptom,anxiety
+symptom_agitation,Symptom,agitation
+symptom_suicidal ideation,Symptom,suicidal ideation
+symptom_irritability,Symptom,irritability
+drug_lithium carbonate,Drug,lithium carbonate
+drug_zolpidem,Drug,zolpidem
+symptom_急性腹痛,Symptom,急性腹痛
+symptom_发热,Symptom,发热
+symptom_脱水,Symptom,脱水
+disease_肝脓肿,Disease,肝脓肿
+check_腹部超声,Check,腹部超声
+symptom_edema,Symptom,edema
+check_blood pressure,Check,blood pressure
+check_pulse,Check,pulse
+check_respirations,Check,respirations
+check_urine output,Check,urine output
+check_specific gravity,Check,specific gravity
+check_microscopic examination of the urine sample,Check,microscopic examination of the urine sample
+check_fractional excretion of sodium,Check,fractional excretion of sodium
+symptom_upper extremity fracture,Symptom,upper extremity fracture
+symptom_lower extremity fracture,Symptom,lower extremity fracture
+check_abdominal tenderness,Check,abdominal tenderness
+check_guarding,Check,guarding
+check_rebound,Check,rebound
+check_bowel sounds,Check,bowel sounds
+symptom_abdominal pain,Symptom,abdominal pain
+disease_spleen rupture,Disease,spleen rupture
+disease_hemorrhage,Disease,hemorrhage
+check_ultrasound,Check,ultrasound
+check_CT scan,Check,CT scan
+symptom_malaria,Symptom,malaria
+disease_malaria,Disease,malaria
+disease_pregnancy,Disease,pregnancy
+symptom_family history of multiple polyps,Symptom,family history of multiple polyps
+symptom_colonic adenomas,Symptom,colonic adenomas
+disease_adenoma,Disease,adenoma
+disease_proctocolectomy,Disease,proctocolectomy
+check_colonoscopy,Check,colonoscopy
+check_sigmoidoscopy,Check,sigmoidoscopy
+symptom_amenorrhea,Symptom,amenorrhea
+symptom_menstrual period,Symptom,menstrual period
+check_urine hcg,Check,urine hcg
+check_tsh,Check,tsh
+check_prolactin,Check,prolactin
+symptom_increasing calf pain,Symptom,increasing calf pain
+check_lower extremities,Check,lower extremities
+check_right carotid bruit,Check,right carotid bruit
+drug_isosorbide dinitrate,Drug,isosorbide dinitrate
+drug_hydrochlorothiazide,Drug,hydrochlorothiazide
+drug_propranolol,Drug,propranolol
+drug_aspirin,Drug,aspirin
+symptom_chest pain,Symptom,chest pain
+symptom_shortness of breath,Symptom,shortness of breath
+disease_hypertension,Disease,hypertension
+disease_renal-artery stenosis,Disease,renal-artery stenosis
+disease_chronic renal insufficiency,Disease,chronic renal insufficiency
+disease_hypercholesterolemia,Disease,hypercholesterolemia
+disease_osteoporosis,Disease,osteoporosis
+disease_dementia,Disease,dementia
+check_respiratory rate,Check,respiratory rate
+check_oxygen saturation,Check,oxygen saturation
+check_heart sounds,Check,heart sounds
+check_CK-MB,Check,CK-MB
+check_CK,Check,CK
+check_CK index,Check,CK index
+check_Troponin T,Check,Troponin T
+check_EKG,Check,EKG
+check_chest radiograph,Check,chest radiograph
+check_coronary angiography,Check,coronary angiography
+check_left ventriculography,Check,left ventriculography
+symptom_myalgia,Symptom,myalgia
+symptom_cough,Symptom,cough
+disease_viral illness,Disease,viral illness
+check_WBC,Check,WBC
+check_urinalysis,Check,urinalysis
+drug_OTC medications,Drug,OTC medications
+symptom_difficulty swallowing,Symptom,difficulty swallowing
+check_DAT,Check,DAT
+check_clotting screen,Check,clotting screen
+check_LDH,Check,LDH
+check_urea,Check,urea
+check_electrolytes,Check,electrolytes
+check_ALT,Check,ALT
+check_hematocrit,Check,hematocrit
+symptom_no complaints,Symptom,no complaints
+disease_HPV,Disease,HPV
+disease_Pap smear,Disease,Pap smear
+check_pap smear,Check,pap smear
+symptom_right knee pain,Symptom,right knee pain
+symptom_fever,Symptom,fever
+symptom_lethargy,Symptom,lethargy
+check_heart rate,Check,heart rate
+check_temperature,Check,temperature
+check_respiration,Check,respiration
+check_plain radiography,Check,plain radiography
+check_CT,Check,CT
+symptom_tired,Symptom,tired
+symptom_sleepy,Symptom,sleepy
+disease_anemia,Disease,anemia
+check_BP,Check,BP
+check_HR,Check,HR
+check_ferritin,Check,ferritin
+check_serum iron,Check,serum iron
+check_hemoglobin,Check,hemoglobin
+check_MCV,Check,MCV
+check_fecal occult blood,Check,fecal occult blood
+symptom_pain,Symptom,pain
+symptom_bruising,Symptom,bruising
+symptom_swelling,Symptom,swelling
+disease_dislocation,Disease,dislocation
+check_x-ray,Check,x-ray
+symptom_falling,Symptom,falling
+disease_aortic stenosis,Disease,aortic stenosis
+disease_hyperlipidemia,Disease,hyperlipidemia
+check_head trauma,Check,head trauma
+check_loss of consciousness,Check,loss of consciousness
+symptom_back pain,Symptom,back pain
+disease_PE,Disease,PE
+disease_DVT,Disease,DVT
+disease_atrial fibrillation,Disease,atrial fibrillation
+disease_CAD,Disease,CAD
+disease_gastric ulcer,Disease,gastric ulcer
+disease_duodenal ulcer,Disease,duodenal ulcer
+disease_esophageal stricture,Disease,esophageal stricture
+disease_biliary obstruction,Disease,biliary obstruction
+check_ECG,Check,ECG
+check_blood transfusion,Check,blood transfusion
+check_EGD,Check,EGD
+check_abdominal CT,Check,abdominal CT
+drug_coumadin,Drug,coumadin
+symptom_rash,Symptom,rash
+symptom_fevers,Symptom,fevers
+symptom_sore throat,Symptom,sore throat
+drug_ceftriaxone,Drug,ceftriaxone
+symptom_diastolic congestive heart failure,Symptom,diastolic congestive heart failure
+symptom_atrial fibrillation,Symptom,atrial fibrillation
+symptom_Coumadin,Symptom,Coumadin
+disease_low hematocrit,Disease,low hematocrit
+disease_shortness of breath,Disease,shortness of breath
+disease_orthopnea,Disease,orthopnea
+check_electrocardiogram,Check,electrocardiogram
+check_Guaiac,Check,Guaiac
+drug_Coumadin,Drug,Coumadin
+symptom_vfib,Symptom,vfib
+disease_CHF,Disease,CHF
+disease_CRI,Disease,CRI
+disease_sinus rhythm,Disease,sinus rhythm
+check_K,Check,K
+check_echo,Check,echo
+check_aortic regurgitation,Check,aortic regurgitation
+check_mitral regurgitation,Check,mitral regurgitation
+symptom_melena,Symptom,melena
+disease_colon cancer,Disease,colon cancer
+check_Tm,Check,Tm
+check_RR,Check,RR
+check_sat,Check,sat
+check_HCT,Check,HCT
+check_K+,Check,K+
+check_Cr,Check,Cr
+symptom_dehydration,Symptom,dehydration
+symptom_earache,Symptom,earache
+symptom_rhinitis,Symptom,rhinitis
+check_creatinine level,Check,creatinine level
+symptom_bradycardia,Symptom,bradycardia
+check_SBP,Check,SBP
+check_IVF,Check,IVF
+symptom_SOB,Symptom,SOB
+symptom_LE edema,Symptom,LE edema
+disease_bicuspid aortic valve,Disease,bicuspid aortic valve
+disease_left ventricular hypertrophy,Disease,left ventricular hypertrophy
+disease_pulmonary artery systolic hypertension,Disease,pulmonary artery systolic hypertension
+check_TTE,Check,TTE
+check_chest CT scan,Check,chest CT scan
+check_carotid US,Check,carotid US
+check_cardiac cath,Check,cardiac cath
+drug_Lasix,Drug,Lasix
+drug_BB,Drug,BB
+symptom_headache,Symptom,headache
+check_cerebral angiogram,Check,cerebral angiogram
+check_head CT,Check,head CT
+symptom_migraines,Symptom,migraines
+symptom_HTN,Symptom,HTN
+symptom_obesity,Symptom,obesity
+symptom_PCOS/infertility,Symptom,PCOS/infertility
+check_pericardiocentesis,Check,pericardiocentesis
+check_cardiac MRI,Check,cardiac MRI
+check_lumbar puncture,Check,lumbar puncture
+check_bone marrow biopsy,Check,bone marrow biopsy
+symptom_watery,Symptom,watery
+symptom_non bloody diarrhea,Symptom,non bloody diarrhea
+drug_po vanco,Drug,po vanco
+drug_Flagyl IV,Drug,Flagyl IV
+drug_Flagyl po,Drug,Flagyl po
+drug_Vanco oral,Drug,Vanco oral
+drug_Flagyl oral,Drug,Flagyl oral
+drug_probiotics,Drug,probiotics
+drug_bleach,Drug,bleach
