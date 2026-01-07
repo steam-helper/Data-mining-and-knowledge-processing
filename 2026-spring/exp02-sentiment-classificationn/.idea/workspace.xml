@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="116bcecb-813d-4e2b-8afd-37418555f82a" name="更改" comment="最新完整代码" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "steam-helper"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:steam-helper/bert-experiments.py.git",
+    "accountId": "4d207638-4df3-4b0b-b43f-ac5b87aa3d96"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="35zdVYjSC5DOAtE6wBoa3UgEAhp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.bert-experiments.executor": "Run",
+    "Python.check_labels.executor": "Run",
+    "Python.config.executor": "Run",
+    "Python.dataset.executor": "Run",
+    "Python.load_data.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.model.executor": "Run",
+    "Python.plot_experiment_results.executor": "Run",
+    "Python.qwen-experiments.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\lh008\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="116bcecb-813d-4e2b-8afd-37418555f82a" name="更改" comment="" />
+      <created>1764116858671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764116858671</updated>
+      <workItem from="1764116861544" duration="3096000" />
+      <workItem from="1764140732143" duration="487000" />
+      <workItem from="1764141228679" duration="2558000" />
+      <workItem from="1764143825780" duration="3816000" />
+      <workItem from="1764159246069" duration="209000" />
+      <workItem from="1764159481085" duration="2623000" />
+      <workItem from="1764162560656" duration="348000" />
+      <workItem from="1764162985238" duration="214000" />
+      <workItem from="1764893924575" duration="164000" />
+      <workItem from="1764919883930" duration="2977000" />
+      <workItem from="1764946710654" duration="149000" />
+      <workItem from="1764947043622" duration="5392000" />
+      <workItem from="1765042434585" duration="3513000" />
+      <workItem from="1765046812141" duration="23160000" />
+      <workItem from="1765124721314" duration="15279000" />
+      <workItem from="1765175696623" duration="18427000" />
+      <workItem from="1765203193886" duration="6245000" />
+      <workItem from="1765327449992" duration="2804000" />
+      <workItem from="1765330523844" duration="6712000" />
+      <workItem from="1765367434871" duration="1802000" />
+    </task>
+    <task id="LOCAL-00001" summary="最新完整代码">
+      <option name="closed" value="true" />
+      <created>1767803655912</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1767803655912</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="最新完整代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="最新完整代码" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/main_py$bert_experiments.coverage" NAME="bert-experiments 覆盖结果" MODIFIED="1765092584645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bert-sentential-classifer" />
+    <SUITE FILE_PATH="coverage/main_py$qwen_experiments.coverage" NAME="qwen-experiments 覆盖结果" MODIFIED="1765128053087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/qwen-sentential-classifier" />
+    <SUITE FILE_PATH="coverage/main_py$config.coverage" NAME="config 覆盖结果" MODIFIED="1765112969587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bert-sentential-classifer" />
+    <SUITE FILE_PATH="coverage/main_py$check_labels.coverage" NAME="check_labels 覆盖结果" MODIFIED="1765083894937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/qwen-sentential-classifier" />
+    <SUITE FILE_PATH="coverage/config_py$main.coverage" NAME="main 覆盖结果" MODIFIED="1764894066708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bert-sentential-classifer" />
+    <SUITE FILE_PATH="coverage/bert_experiments_py$bert_experiments.coverage" NAME="bert-experiments 覆盖结果" MODIFIED="1765330539816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bert-sentential-classifer" />
+    <SUITE FILE_PATH="coverage/main_py$main.coverage" NAME="main 覆盖结果" MODIFIED="1765206263166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/qwen-sentential-classifier" />
+    <SUITE FILE_PATH="coverage/bert_experiments_py$plot_experiment_results.coverage" NAME="plot_experiment_results 覆盖结果" MODIFIED="1765339766737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/qwen-sentential-classifier/exp_results" />
+    <SUITE FILE_PATH="coverage/exp02_sentiment_classificationn$main.coverage" NAME="main 覆盖结果" MODIFIED="1764117700856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bert-sentential-classifer" />
+    <SUITE FILE_PATH="coverage/main_py$load_data.coverage" NAME="load_data 覆盖结果" MODIFIED="1765127487699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/qwen-sentential-classifier" />
+    <SUITE FILE_PATH="coverage/main_py$model.coverage" NAME="model 覆盖结果" MODIFIED="1765089144376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bert-sentential-classifer" />
+  </component>
+</project>
