@@ -1,0 +1,847 @@
+[
+  {
+    "id": "Medical-73586ddc",
+    "question": "What is the most common type of skin cancer?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: econd most common type of skin cancer. It is highly treatable and can often be cured. Squamous cell skin cancer is most commonly caused by getting sunburns or spending too much time in the sun over many years. h An actinic keratosis is an area of scaly or rough skin that has a higher chance of becoming squamous cell skin cancer. You may be more likely to get squamous cell skin cancer if you have actinic keratoses, a weakened immune system, or certain genetic syndromes. Squamous cell skin cancer can form in",
+      "Title: Medical\nAbstract: actors 8 Diagnosis 11 Key points Squamous cell skin cancer is the second most common type of skin cancer. It is highly treatable and can often be cured. Squamous cell skin cancer is a common skin cancer, especially in fair-skinned people. It is the second most common type of skin cancer, after basal cell carcinoma. The third type—melanoma—is much less common than the other types but can be more aggressive. Because they do not behave like melanoma, basal cell and squamous cell skin cancers are often referred",
+      "Title: Medical\nAbstract: cells are using the Cutaneous squamous cell carcinoma (CSCC) A very common type of skin cancer Occurs more often in lighter-skinned people Is commonly found in areas of the body exposed to sun, especially the head and neck Rarely spreads to distant areas of the body Can spread in the area where it first forms If not treated can cause severe skin damage and even death Most people (over ) can be cured by completely removing the CSCC substance. This helps them find any usage that is not normal. Cancer cells sh"
+    ],
+    "evidence": [
+      "Basal cell carcinoma (BCC) is the most common type of skin cancer."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "The most common type of skin cancer is squamous cell skin cancer.",
+    "ground_truth": "Basal cell carcinoma (BCC) is the most common type of skin cancer."
+  },
+  {
+    "id": "Medical-a8bad1cf",
+    "question": "From which cell type does basal cell carcinoma arise?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: nd out more. What is basal cell skin cancer? Basal cell skin cancer is the most common of all skin cancer types. If caught early, it is easily treatable and curable. This is because it rarely metastasizes (spreads). Skin cancers often occur in the top layer of the skin (epidermis) and less commonly in the middle layer of the skin (dermis). The epidermis is made up of basal cells and other cells. Basal cell skin cancer occurs when some basal cells become abnormal and grow out of control. This cancer usually",
+      "Title: Medical\nAbstract: k like any of the following: h Flat, pale or yellow areas, like a scar h Red patches that might be itchy Small, pink or red, shiny bumps that may have blue, brown, or black areas Open sores that don’t heal and might bleed, or go away and come back In darker (brown and black) skin, basal cell skin cancer can appear as a brown or glossy black bump with a rolled border. It can be mistaken for a normal mole. Be sure to look out for any new, changing, bleeding, or unusual skin growths. Skin cancer is easier to c",
+      "Title: Medical\nAbstract: rmal and grow out of control. This cancer usually develops in areas exposed to the sun, including the face, head, neck, arms, legs, and trunk. But it can occur anywhere on the body. Skin lesions Basal cell skin cancer is often found on the face, head, and neck. Here is a basal cell lesion pictured on a person's cheek. Skin basics Did you know that your skin is your body’s largest organ and if you measured it it would stretch to about 20 square feet? Working as a barrier, your skin protects you from bacteria"
+    ],
+    "evidence": [
+      "Basal cell carcinoma arises from basal cells.",
+      "Basal cells are located in the lower part of the epidermis."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal cell carcinoma arises from the basal cells of the epidermis, specifically those located at the base of hair follicles and sebaceous glands. These cells are known as keratinocytes, which are responsible for producing the main component of the skin, keratin. When these cells become abnormal and start growing uncontrollably, they form a tumor called a basal cell carcinoma.",
+    "ground_truth": "Basal cell carcinoma arises from basal cells in the lower part of the epidermis."
+  },
+  {
+    "id": "Medical-422500d5",
+    "question": "Which anatomical locations are most commonly affected by basal cell carcinoma?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: rmal and grow out of control. This cancer usually develops in areas exposed to the sun, including the face, head, neck, arms, legs, and trunk. But it can occur anywhere on the body. Skin lesions Basal cell skin cancer is often found on the face, head, and neck. Here is a basal cell lesion pictured on a person's cheek. Skin basics Did you know that your skin is your body’s largest organ and if you measured it it would stretch to about 20 square feet? Working as a barrier, your skin protects you from bacteria",
+      "Title: Medical\nAbstract: nd out more. What is basal cell skin cancer? Basal cell skin cancer is the most common of all skin cancer types. If caught early, it is easily treatable and curable. This is because it rarely metastasizes (spreads). Skin cancers often occur in the top layer of the skin (epidermis) and less commonly in the middle layer of the skin (dermis). The epidermis is made up of basal cells and other cells. Basal cell skin cancer occurs when some basal cells become abnormal and grow out of control. This cancer usually",
+      "Title: Medical\nAbstract: k like any of the following: h Flat, pale or yellow areas, like a scar h Red patches that might be itchy Small, pink or red, shiny bumps that may have blue, brown, or black areas Open sores that don’t heal and might bleed, or go away and come back In darker (brown and black) skin, basal cell skin cancer can appear as a brown or glossy black bump with a rolled border. It can be mistaken for a normal mole. Be sure to look out for any new, changing, bleeding, or unusual skin growths. Skin cancer is easier to c"
+    ],
+    "evidence": [
+      "BCC most commonly develops in sun-exposed areas.",
+      "Common sun-exposed areas for BCC include the face.",
+      "Common sun-exposed areas for BCC include the head.",
+      "Common sun-exposed areas for BCC include the neck."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal cell skin cancer is most commonly affected by the following anatomical locations:\n\n1. Face\n2. Head\n3. Neck\n4. Arms\n5. Legs\n6. Trunk",
+    "ground_truth": "BCC most commonly develops in sun-exposed areas such as the face, head, and neck."
+  },
+  {
+    "id": "Medical-6d2a190d",
+    "question": "What is the primary risk factor for basal cell carcinoma?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: lls can become abnormal and grow out of control. You’re more likely to have basal cell skin cancer if you have certain risk factors. A risk factor increases the chance of developing cancer. Risk factors for basal cell skin cancer include: UV light exposure – UV light (radiation) that comes from the sun or tanning beds increases your risk. Fair skin, red or blond hair, or light eye color – People with lighter-colored skin are at a higher risk of developing skin cancer because melanin (skin pigment) filters o",
+      "Title: Medical\nAbstract: r unusual skin growths. Skin cancer is easier to cure when it is caught early. To find out how basal cell skin cancer is diagnosed, read Chapter 2: Testing for basal cell skin cancer. Causes and risk factors Basal cell skin cancer is caused by exposure to UV radiation from the sun or other sources like tanning beds. UV radiation can harm the DNA inside basal skin cells. DNA controls how cells grow and function. If the DNA inside cells becomes damaged, the cells can become abnormal and grow out of control. Y",
+      "Title: Medical\nAbstract: s a low-, high-, or very high-risk skin cancer. This is important to know because high- or very high-risk disease is treated differently than low-risk disease. A high-risk CSCC has an increased risk of local recurrence. A very high-risk CSCC has an increased risk of local recurrence and of metastasis (spread). The risk level or category for skin cancer is usually based on the highest risk factor found. The following factors are used to determine your risk level. Location and size Squamous cell skin cancer o"
+    ],
+    "evidence": [
+      "UV radiation exposure is a primary risk factor for BCC."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "The primary risk factor for basal cell carcinoma is UV light exposure from the sun or tanning beds.",
+    "ground_truth": "UV radiation exposure is a primary risk factor for BCC."
+  },
+  {
+    "id": "Medical-5ad931db",
+    "question": "How does fair skin affect the risk of developing BCC?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: ter with expertise in CSCC prevention and treatment. NCCN also recommends that those with a genetic risk of skin cancer receive counseling from someone with expertise in cancer genetics throughout the treatment process. This might be a genetic counselor, medical geneticist, endocrinologist, oncologist, surgeon, or an oncology nurse. Weakened immune system When your immune system is weakened, your body has trouble fighting off viruses, bacteria, and fungi. This can lead to infections and other health risks.",
+      "Title: Medical\nAbstract: in the melanocytes. Melanin is responsible for the color of our hair, skin, and eyes. In addition to providing color, melanin also protects our skin from harmful ultraviolet (UV) rays. Risk factors A risk factor is something that increases the chances of getting a disease. For example, smoking cigarettes is a risk factor for developing lung cancer. The major risk factors for squamous cell skin cancer are described next. Sunlight/outdoor tanning Most squamous cell skin cancers are caused by spending too muc",
+      "Title: Medical\nAbstract: s a low-, high-, or very high-risk skin cancer. This is important to know because high- or very high-risk disease is treated differently than low-risk disease. A high-risk CSCC has an increased risk of local recurrence. A very high-risk CSCC has an increased risk of local recurrence and of metastasis (spread). The risk level or category for skin cancer is usually based on the highest risk factor found. The following factors are used to determine your risk level. Location and size Squamous cell skin cancer o"
+    ],
+    "evidence": [
+      "Fair skin increases the risk of BCC."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Fair skin affects the risk of developing basal cell carcinoma (BCC), which is a type of squamous cell skin cancer. Fair skin typically refers to individuals who have darker skin tones compared to their peers. While fair skin may increase the risk of developing certain types of skin cancer, such as basal cell carcinoma, it does not directly impact the risk of developing squamous cell skin cancer. However, fair skin can contribute to an overall higher risk of skin cancer due to its association with sun exposure and UV radiation exposure. It is essential to note that while fair skin may increase the risk of developing some types of skin cancer, this does not necessarily mean that all cases will develop.",
+    "ground_truth": "Fair skin increases the risk of BCC."
+  },
+  {
+    "id": "Medical-6b0f8bc4",
+    "question": "Does older age influence the risk of basal cell carcinoma?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: lls can become abnormal and grow out of control. You’re more likely to have basal cell skin cancer if you have certain risk factors. A risk factor increases the chance of developing cancer. Risk factors for basal cell skin cancer include: UV light exposure – UV light (radiation) that comes from the sun or tanning beds increases your risk. Fair skin, red or blond hair, or light eye color – People with lighter-colored skin are at a higher risk of developing skin cancer because melanin (skin pigment) filters o",
+      "Title: Medical\nAbstract: in cancer because melanin (skin pigment) filters out the sun's harmful UV rays. Age – Risk increases with age because sun exposure builds up over time. But skin cancer is becoming more common in younger people. History of skin cancer – If you or someone in your family has had skin cancer, you’re more likely to develop any type of skin cancer. Radiation therapy – Radiation treatment for other conditions, especially at a young age, can cause skin cancer. Immune suppression – People with weakened immune system",
+      "Title: Medical\nAbstract: r unusual skin growths. Skin cancer is easier to cure when it is caught early. To find out how basal cell skin cancer is diagnosed, read Chapter 2: Testing for basal cell skin cancer. Causes and risk factors Basal cell skin cancer is caused by exposure to UV radiation from the sun or other sources like tanning beds. UV radiation can harm the DNA inside basal skin cells. DNA controls how cells grow and function. If the DNA inside cells becomes damaged, the cells can become abnormal and grow out of control. Y"
+    ],
+    "evidence": [
+      "Older age is associated with a higher risk of BCC."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Yes, older age does influence the risk of basal cell carcinoma. According to the provided context document, \"Age - Risk increases with age because sun exposure builds up over time.\" This indicates that as individuals get older, their ability to protect themselves against UV radiation decreases, leading to an increased likelihood of developing basal cell skin cancer.",
+    "ground_truth": "Older age is associated with higher risk of BCC."
+  },
+  {
+    "id": "Medical-75c9949b",
+    "question": "How does family history impact the risk of basal cell carcinoma?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: lls can become abnormal and grow out of control. You’re more likely to have basal cell skin cancer if you have certain risk factors. A risk factor increases the chance of developing cancer. Risk factors for basal cell skin cancer include: UV light exposure – UV light (radiation) that comes from the sun or tanning beds increases your risk. Fair skin, red or blond hair, or light eye color – People with lighter-colored skin are at a higher risk of developing skin cancer because melanin (skin pigment) filters o",
+      "Title: Medical\nAbstract: tory, sometimes called a health history, will help determine which treatment is best for you. Family history Head and neck cancers are not inherited from your biological parents. However, some cancers and other diseases can run in families. Your care team will ask about the health history of family members who are blood relatives. This information is called a family history. Ask family members on both sides of your family about their health issues like heart disease, cancer, and diabetes, and at what age th",
+      "Title: Medical\nAbstract: determine which treatment is best for you. Family history In general, head and neck cancers are not inherited from your biological parents. However, some cancers and other diseases can run in families. Your care team will ask about the health history of family members who are blood relatives. This information is called a family history. Ask family members on both sides of your family about their health issues like heart disease, cancer, and diabetes, and at what age they were Guide 1 Tests for treatment pla"
+    ],
+    "evidence": [
+      "Family history of skin cancer increases the risk of BCC."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Family history plays a significant role in increasing the risk of basal cell carcinoma. According to the provided context document, \"family history\" refers to the presence of certain risk factors such as UV light exposure, fair skin, red or blond hair, or light eye color. These factors increase the likelihood of developing skin cancer due to the presence of melanin, which blocks harmful ultraviolet radiation from penetrating the skin. Therefore, having a family history of these risk factors significantly raises the risk of developing basal cell skin cancer.",
+    "ground_truth": "Family history of skin cancer increases risk of BCC."
+  },
+  {
+    "id": "Medical-ec091b24",
+    "question": "Is immune suppression a risk factor for BCC?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: greater chance. Risk factors A risk factor is something that increases your chance of developing a disease. For example, having a reduced immune system increases the risk of developing primary CNS lymphoma. Risk factors don’t necessarily cause a disease (and just because you have risk factors, it doesn’t mean you'll definitely get the disease). But people with primary CNS lymphoma often have one or more of these risk factors: Having an immunodeficiency disorder, which is an illness that weakens the immune s",
+      "Title: Medical\nAbstract: blood cells that fight germs. Lymph nodes filter lymph and remove the germs. Although possible, HCC does not commonly spread to nearby lymph nodes. Risk factors Risk is your chance of developing liver cancer. Everyone has some risk for developing liver cancer. However, some people are at increased risk. Risk factors can be activities that people do, things in the environment, or traits passed from biological parents to children through genes. Genes are a set of instructions that tell new cells what to becom",
+      "Title: Medical\nAbstract: at higher risk of cancer returning after treatment. Examples of conditions that weaken the immune system include long-term corticosteroid use, having human immunodeficiency virus (HIV) or AIDS, or having received an organ transplant. Low-risk Surgery is the preferred treatment for low-risk CSCC that has not spread to lymph nodes. The options for surgery include: Curettage and electrodesiccation (C&E) or shave excision Standard surgical excision Mohs surgery or another form of PDEMA If you are not a candidat"
+    ],
+    "evidence": [
+      "Immune suppression is a risk factor for BCC."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Yes, immune suppression is a risk factor for BCC (basal cell carcinoma), as it weakens the immune system, making it less effective at fighting off infections and other diseases.",
+    "ground_truth": "Immune suppression is a risk factor for BCC."
+  },
+  {
+    "id": "Medical-8d39da2e",
+    "question": "What are common symptoms of basal cell carcinoma?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: u might receive and what to expect. Whether you or your doctor found a concerning lesion on your skin, testing is needed to identify and diagnose basal cell skin cancer. The diagnosis is based on the results in your medical and family history, a physical exam, skin exam, and biopsy, and, in some cases, imaging studies. See Guide Your diagnosis will determine your treatment plan. It is important you understand what these tests mean, so keep reading for more details.\n7 Adrenal glands 8 Adrenal tumors 8 Adreno",
+      "Title: Medical\nAbstract: our skin from harmful ultraviolet (UV) rays. This book is only about basal cell skin cancer. For more information on squamous cell skin cancer or melanoma, read the NCCN Guidelines for Patients, available at NCCN.org/patientguidelines and on the NCCN Patient Guides for Cancer app. Signs and symptoms Basal cell skin cancer can happen to anyone but it’s most common in people with lighter skin, lighter hair, or lighter eyes. In lighter skin, its lesions can look like any of the following: h Flat, pale or yello",
+      "Title: Medical\nAbstract: k like any of the following: h Flat, pale or yellow areas, like a scar h Red patches that might be itchy Small, pink or red, shiny bumps that may have blue, brown, or black areas Open sores that don’t heal and might bleed, or go away and come back In darker (brown and black) skin, basal cell skin cancer can appear as a brown or glossy black bump with a rolled border. It can be mistaken for a normal mole. Be sure to look out for any new, changing, bleeding, or unusual skin growths. Skin cancer is easier to c"
+    ],
+    "evidence": [
+      "BCC presents as flat, pale areas.",
+      "BCC presents as yellow areas.",
+      "BCC presents as red patches.",
+      "BCC presents as shiny bumps.",
+      "BCC presents as open sores.",
+      "BCC presents as brown bumps.",
+      "BCC presents as black bumps.",
+      "BCC presents as bumps with rolled borders."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Common symptoms of basal cell carcinoma include:\n\n1. **Flat, Pale or Yellow Areas**: These are often the first signs of the disease.\n2. **Red Patch-like Growths**: These can vary in color from pale to dark, depending on the type of basal cell carcinoma.\n3. **Small Pink or Red, Shiny Bumps**: These can be raised and may feel soft when touched.\n4. **Open Sores**: These can be painful and may leave scarring if left untreated.\n5. **Bleeding or Unusual Skin Growths**: Any new, abnormal, or recurring skin growth should be evaluated by a healthcare professional.\n\nThese symptoms suggest that basal cell skin cancer has developed and requires prompt attention.",
+    "ground_truth": "BCC presents as flat, pale or yellow areas, red patches, shiny bumps, open sores, or brown/black bumps with rolled borders."
+  },
+  {
+    "id": "Medical-88c0b2ba",
+    "question": "Which diagnostic methods are used for BCC?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: CLL Tests that are needed for planning • Medical history including B symptoms and family history • Physical exam including lymph nodes, spleen, and liver • Performance status score • Flow cytometry • Complete blood count (CBC) with differential • Comprehensive metabolic panel • Beta-2 microglobulin • FISH, DNA sequencing, and CpG-stimulated karyotype Tests that may be useful for planning, but not needed • LDH • Quantitative immunoglobulins • Reticulocyte count, haptoglobin, and direct antiglobulin (Coombs)",
+      "Title: Medical\nAbstract: t people for different tasks or change over time. Consider bringing someone with you to doctor visits if possible, or have someone on the phone or join you for telehealth visits. Don’t hesitate to ask questions and take notes during appointments. Write down questions and ask a friend or family member to take notes. Caregivers should ask questions, too. Tests used to diagnose CML can be found in Guide\nLung cancer basics What is NSCLC? What is early and locally advanced NSCLC? What’s the best treatment? Key p",
+      "Title: Medical\nAbstract: tests mean. It is ok to skip over information that doesn't interest you. Guide 1 Possible tests and procedures: AML Medical history and physical exam Complete blood count (CBC), differential, comprehensive metabolic panel (CMP), uric acid, lactate dehydrogenase (LDH), B12, and folic acid Blood clotting tests Bone marrow aspirate and biopsy with AML biomarker and genetic testing Human leukocyte antigen (HLA) typing Brain CT without contrast, if central nervous system (CNS) bleed suspected Brain MRI with con"
+    ],
+    "evidence": [
+      "Diagnosis of BCC involves medical history.",
+      "Diagnosis of BCC involves family history.",
+      "Diagnosis of BCC involves a physical exam.",
+      "Diagnosis of BCC involves a skin exam.",
+      "Diagnosis of BCC involves a biopsy.",
+      "Diagnosis of BCC may involve imaging."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "The diagnostic methods used for basal cell carcinoma (BCC) include:\n\n1. **Complete Blood Count (CBC)**: This test helps identify any changes in white blood cells, which might indicate infection or inflammation associated with BCC.\n2. **Differential**: This test determines whether there is an increase in red blood cells, platelets, or other types of cells compared to normal levels.\n3. **Comprehensive Metabolic Panel (CMP)**: This panel includes various markers that help assess the overall health of the body and detect potential issues related to BCC.\n4. **Uric Acid**: Elevated levels of this substance can suggest kidney damage or other conditions affecting the skin.\n5. **Lactate Dehydrogenase (LDH):** High levels of this enzyme often indicate severe infections or inflammation.\n6. **Bone Marrow Aspirate and Biopsy**: These procedures involve taking a sample from the bone marrow to examine it under a microscope for signs of BCC.\n7. **HLA Typing**: Genetic testing can determine if BCC has been triggered by specific genes or environmental factors.\n8. **Brain CT/CT Scan**: If there is concern about brain involvement, imaging studies like these can provide detailed images of the brain to rule out other causes of headache and seizures.\n9. **MRI with Contrast**: For more accurate diagnosis, especially when considering brain involvement, MRI with contrast dye may be necessary.\n\nThese tests work together to evaluate the risk and severity of BCC and guide appropriate management strategies.",
+    "ground_truth": "Diagnosis of BCC involves medical and family history, physical exam, skin exam, biopsy, and sometimes imaging."
+  },
+  {
+    "id": "Medical-a8ee8ba1",
+    "question": "What is the most common treatment for basal cell carcinoma?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: e suppression – People with weakened immune systems from organ transplants or autoimmune diseases are at higher risk for basal cell skin cancer. How is basal cell skin cancer treated? Basal cell skin cancer is highly treatable and curable. Catching it and treating it early is key. Surgery is the most common treatment for basal cell skin cancer. In some cases, radiation therapy or systemic therapy might be used to treat it. Following your treatment, you will have full skin exams with your doctor at least onc",
+      "Title: Medical\nAbstract: have full skin exams with your doctor at least once a year. Between these periods, prevention is important. See Chapter 4: Treatment by risk and recurrence for more information. Recurrence is when basal cell skin cancer returns to the area where it was originally found, or it has metastasized (spread) to the lymph nodes or to distant parts of the body. But there are several options for how to treat it. Read more about how your cancer is treated in Chapter 3: Types of treatment and Chapter 4: Treatment by ri",
+      "Title: Medical\nAbstract: nd out more. What is basal cell skin cancer? Basal cell skin cancer is the most common of all skin cancer types. If caught early, it is easily treatable and curable. This is because it rarely metastasizes (spreads). Skin cancers often occur in the top layer of the skin (epidermis) and less commonly in the middle layer of the skin (dermis). The epidermis is made up of basal cells and other cells. Basal cell skin cancer occurs when some basal cells become abnormal and grow out of control. This cancer usually"
+    ],
+    "evidence": [
+      "Surgery is the most common treatment for basal cell carcinoma."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal cell skin cancer is highly treatable and curable.",
+    "ground_truth": "Surgery is the most common treatment for BCC."
+  },
+  {
+    "id": "Medical-ec7d8801",
+    "question": "When might radiation therapy be used in BCC?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: (high-energy x-rays), or protons (charged particles) -- to kill cancer cells. Radiation therapy usually involves 5 daily brief treatments per week over 3 to 7 weeks. Radiation treatments should be given by a practicing radiation oncologist (a doctor who is an expert in radiation treatment). Types of radiation therapy There are two general types of radiation therapy that can be used to treat CSCC: external beam radiation therapy (EBRT) and brachytherapy. In EBRT, a beam of radiation is directed at the tumor",
+      "Title: Medical\nAbstract: EBRT, a beam of radiation is directed at the tumor from a machine. The two most common types of external beam radiation for CSCC are electrons and photons. Electrons are used to treat superficial tumors. Photons are used to treat deeper, more invasive tumors. In brachytherapy, a radiation source is placed close to or in direct contact with the tumor for a short period of time. Uses for radiation therapy Radiation therapy is an option for people after resection (surgery) of their cancer, or for those who can",
+      "Title: Medical\nAbstract: de effects in NCCN Guidelines for Patients: Nausea and Vomiting, available at NCCN.org/patientguidelines and on the NCCN Patient Guides for Cancer app. Radiation therapy Before effective chemotherapy became available to treat primary CNS lymphoma, radiation therapy was the most commonly used treatment. It’s still an option for treating primary CNS lymphoma in people who can’t have chemotherapy in the first phase of treatment (induction). Another situation in which radiation is sometimes used is in the secon"
+    ],
+    "evidence": [
+      "Radiation therapy may be used in some cases of basal cell carcinoma."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "When radiation therapy may be used in BCC depends on several factors such as the type of BCC, its location, and the patient's overall health status. Here are some possible scenarios where radiation therapy could be considered:\n\n1. **Primary BCC**: If the patient has a primary BCC (basal cell carcinoma) without any signs of spread or recurrence, radiation therapy might be recommended as a palliative measure to reduce symptoms like pain and improve quality of life. This approach aims to minimize damage to healthy tissue while trying to control the growth of the cancer.\n\n2. **Secondary BCC**: For patients with secondary BCC (cancer that has already formed elsewhere in the body but hasn't yet spread to other parts of the brain), radiation therapy might be used to target the cancerous cells specifically. This can help prevent further progression and potentially cure the disease if successful.\n\n3. **Neurogenic BCC**: In cases involving neurogenic BCC (neuroblastoma that affects the nervous system), radiation therapy can be administered to alleviate neurological symptoms caused by the tumor. However, this decision must be made carefully considering the potential risks and benefits associated with each treatment modality.\n\n4. **Surgical Treatment**: While surgery alone cannot cure BCC, it can often be combined with radiation therapy to shrink the tumor before attempting surgical removal. This strategy helps preserve the remaining healthy tissue around the tumor.\n\n5. **Radiation Therapy After Surgery**: If the patient undergoes surgery to remove part of their brain due to BCC, radiation therapy may be prescribed to manage any residual symptoms or complications related to the surgery.\n\n6. **Comorbidities**: Certain comorbid conditions, such as diabetes mellitus or hypertension, might require additional monitoring during radiation therapy to ensure safety and effectiveness.\n\nIt's important for healthcare providers to consider all these factors when deciding whether radiation therapy is appropriate for a particular patient. They will also need to weigh the potential benefits against the risks involved, including the risk of side effects and the likelihood of recurrence or metastasis.\n\nIn summary, radiation therapy is generally considered a viable option for managing BCC depending on individual circumstances, but it requires careful evaluation and coordination between medical professionals to determine the best course of action.",
+    "ground_truth": "Radiation therapy may be used in some cases of BCC."
+  },
+  {
+    "id": "Medical-9797af69",
+    "question": "What is recurrence in the context of BCC?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: op the activity of the BCR::ABL protein caused by the BCR::ABL1 gene. Treatment is usually an intensive combination of systemic therapies. Chapter 7: T-ALL discusses a group of cancers that start in T-cell lymphocytes. T-ALL is less common than B-ALL. Treatment options include a clinical trial or chemotherapy. Chapter 8: Infant ALL treatment is different than for other age groups. Infants are those under 12 months of age. Chapter 9: Other resources provides information on patient advocacy groups and where t",
+      "Title: Medical\nAbstract: ceived a reduced dose. Patients with the highest risk are given the first opportunity to receive it. If a regular course of BCG treatment isn’t available to you, your treatment team may offer intravesical treatment with chemotherapy instead. Other options include: Reduced doses or a shorter course of BCG treatment Eliminating BCG maintenance therapy Bladder removal surgery (for those at high risk of the cancer returning after treatment) Joining a clinical trial Systemic therapy Systemic therapy means a trea",
+      "Title: Medical\nAbstract: ormation. Recurrence This section discusses cervical cancer that does not improve with treatment (persistent) or that returns after treatment (recurrent). If your doctor suspects recurrence based on your symptoms or a physical exam, you will have imaging tests to check. This could include CT, PET, and/or MRI. Surgery to look inside the body (exploratory surgery) may be helpful in some cases. The goal is to learn the extent of the cancer. This can help guide treatment decisions. Biomarker testing Biomarkers"
+    ],
+    "evidence": [
+      "Recurrence refers to basal cell carcinoma returning to the original site.",
+      "Recurrence refers to basal cell carcinoma spreading to lymph nodes.",
+      "Recurrence refers to basal cell carcinoma spreading to distant sites."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Recurrence refers to the return of cervical cancer after treatment, which has not improved or returned after undergoing various forms of medical intervention such as surgical procedures, imaging tests, or biopsies. In this context, \"cervical cancer\" specifically pertains to the type of cancer that occurs in the cervix, which is part of the female reproductive system. When discussing recurrence, it implies that despite successful treatments like surgery, there might still be residual cells or remnants of the original tumor present within the cervix. These potentially malignant cells can recur if left untreated or treated incorrectly, leading to further complications including increased risk of developing more advanced stages of cervical cancer.",
+    "ground_truth": "Recurrence refers to BCC returning to the original site or spreading to lymph nodes or distant sites."
+  },
+  {
+    "id": "Medical-6884d3fa",
+    "question": "What does follow-up for BCC typically include?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: laim, represent, or imply that the NCCN Guidelines for Patients that have been modified in any manner are derived from, based on, related to, or arise out of the NCCN Guidelines for Patients. The NCCN Guidelines are a work in progress that may be redefined as often as new significant data become available. NCCN makes no warranties of any kind whatsoever regarding its content, use, or application and disclaims any responsibility for its application or use in any way. NCCN Foundation seeks to support the mill",
+      "Title: Medical\nAbstract: ese follow-up visits are as follows: Years 1 and 2: Every 3 to 6 months Years 3, 4, and 5: Every 6 to 12 months After year 5: Once a year or as agreed upon with your doctor Time frame ranges are used to allow for differences in individual risk of recurrence and in patient and provider preference. Those considered at higher risk of recurrence may benefit from more frequent exams than those with a lower risk. After the fifth year, visits are generally spaced out to once per year. Or you and your doctor may ag",
+      "Title: Medical\nAbstract: ceived a reduced dose. Patients with the highest risk are given the first opportunity to receive it. If a regular course of BCG treatment isn’t available to you, your treatment team may offer intravesical treatment with chemotherapy instead. Other options include: Reduced doses or a shorter course of BCG treatment Eliminating BCG maintenance therapy Bladder removal surgery (for those at high risk of the cancer returning after treatment) Joining a clinical trial Systemic therapy Systemic therapy means a trea"
+    ],
+    "evidence": [
+      "Follow-up for basal cell carcinoma includes full skin exams with a doctor.",
+      "Follow-up for basal cell carcinoma occurs at least once a year."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "The follow-up for bladder cancer typically includes:\n\n- Annual physical examinations by healthcare providers\n- Regular check-ups with gynecologists or urologists\n- Screening tests such as blood tests or imaging studies like ultrasound or MRI\n- Follow-up appointments with specialists who specialize in treating bladder cancer\n- Counseling and education about bladder cancer and prevention measures\n- Supportive care and rehabilitation services if needed",
+    "ground_truth": "Follow-up includes full skin exams with a doctor at least once a year."
+  },
+  {
+    "id": "Medical-fc6d1c33",
+    "question": "Which skin cancer subtype arises from basal cells?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: nd out more. What is basal cell skin cancer? Basal cell skin cancer is the most common of all skin cancer types. If caught early, it is easily treatable and curable. This is because it rarely metastasizes (spreads). Skin cancers often occur in the top layer of the skin (epidermis) and less commonly in the middle layer of the skin (dermis). The epidermis is made up of basal cells and other cells. Basal cell skin cancer occurs when some basal cells become abnormal and grow out of control. This cancer usually",
+      "Title: Medical\nAbstract: rmal and grow out of control. This cancer usually develops in areas exposed to the sun, including the face, head, neck, arms, legs, and trunk. But it can occur anywhere on the body. Skin lesions Basal cell skin cancer is often found on the face, head, and neck. Here is a basal cell lesion pictured on a person's cheek. Skin basics Did you know that your skin is your body’s largest organ and if you measured it it would stretch to about 20 square feet? Working as a barrier, your skin protects you from bacteria",
+      "Title: Medical\nAbstract: k like any of the following: h Flat, pale or yellow areas, like a scar h Red patches that might be itchy Small, pink or red, shiny bumps that may have blue, brown, or black areas Open sores that don’t heal and might bleed, or go away and come back In darker (brown and black) skin, basal cell skin cancer can appear as a brown or glossy black bump with a rolled border. It can be mistaken for a normal mole. Be sure to look out for any new, changing, bleeding, or unusual skin growths. Skin cancer is easier to c"
+    ],
+    "evidence": [
+      "Basal cell carcinoma is the skin cancer subtype that arises from basal cells."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal cell skin cancer",
+    "ground_truth": "Basal cell carcinoma is the skin cancer subtype that arises from basal cells."
+  },
+  {
+    "id": "Medical-97abee55",
+    "question": "What anatomical layer do basal cells belong to?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: scales, and are found in the tissue that forms the surface of the skin. Basal cells: These cells are found in the lower part of the epidermis, called the basal cell layer. Basal cells constantly divide to form new cells to replace the squamous cells that wear off of the skin’s surface. As these cells move up in the epidermis, they get flatter, eventually becoming squamous cells. Melanocytes: These cells are found in the top layer of skin. Melanin is produced in the melanocytes. Melanin is responsible for th",
+      "Title: Medical\nAbstract: epidermis. It has 3 main types of cells: Squamous cells – These cells are flat cells found in the upper part of the epidermis. Basal cells – Found in the lower part of the epidermis, basal cells constantly divide to form new cells that replace the squamous cells on the skin’s surface. Melanocytes – Melanocytes are cells located in the lower part of the epidermis that produce melanin. Melanin is responsible for our hair, skin, and eye color. It also protects our skin from harmful ultraviolet (UV) rays. This",
+      "Title: Medical\nAbstract: nd cold. Skin has 3 layers: Epidermis is the outermost (top) layer of skin that provides a waterproof barrier and creates skin color (melanin). Dermis contains connective tissue, hair follicles, and sweat glands. Hypodermis (subcutis) is the deepest layer, made up of fat and connective tissue. Skin cancers are often formed in the epidermis. There are 3 main types of cells in the epidermis: Squamous cells: These cells are thin, flat cells that look like fish scales, and are found in the tissue that forms the"
+    ],
+    "evidence": [
+      "Basal cells are located in the lower part of the epidermis."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal cells belong to the epidermis.",
+    "ground_truth": "Basal cells are located in the lower part of the epidermis."
+  },
+  {
+    "id": "Medical-28d1e2d7",
+    "question": "Is sun exposure a risk factor for BCC?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: in the melanocytes. Melanin is responsible for the color of our hair, skin, and eyes. In addition to providing color, melanin also protects our skin from harmful ultraviolet (UV) rays. Risk factors A risk factor is something that increases the chances of getting a disease. For example, smoking cigarettes is a risk factor for developing lung cancer. The major risk factors for squamous cell skin cancer are described next. Sunlight/outdoor tanning Most squamous cell skin cancers are caused by spending too muc",
+      "Title: Medical\nAbstract: ars in the sun. Sun exposure Most squamous cell skin cancers are caused by spending too much time in the sun over a long period of time, frequent tanning, and getting sunburns. Indoor tanning Indoor tanning is a major risk factor for squamous cell skin cancer. Using all types of indoor tanning machines (eg, booths, beds) increases the risk of getting any type of skin cancer. Environmental toxins People who are often exposed to pollutants such as tobacco smoke, exhaust from cars or other vehicles, and arseni",
+      "Title: Medical\nAbstract: lls can become abnormal and grow out of control. You’re more likely to have basal cell skin cancer if you have certain risk factors. A risk factor increases the chance of developing cancer. Risk factors for basal cell skin cancer include: UV light exposure – UV light (radiation) that comes from the sun or tanning beds increases your risk. Fair skin, red or blond hair, or light eye color – People with lighter-colored skin are at a higher risk of developing skin cancer because melanin (skin pigment) filters o"
+    ],
+    "evidence": [
+      "Sun exposure is a risk factor for basal cell carcinoma."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Yes, sun exposure is a risk factor for basal cell skin cancer.",
+    "ground_truth": "Sun exposure is a risk factor for BCC."
+  },
+  {
+    "id": "Medical-4cf524cb",
+    "question": "Do tanning beds increase the risk of BCC?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: in the melanocytes. Melanin is responsible for the color of our hair, skin, and eyes. In addition to providing color, melanin also protects our skin from harmful ultraviolet (UV) rays. Risk factors A risk factor is something that increases the chances of getting a disease. For example, smoking cigarettes is a risk factor for developing lung cancer. The major risk factors for squamous cell skin cancer are described next. Sunlight/outdoor tanning Most squamous cell skin cancers are caused by spending too muc",
+      "Title: Medical\nAbstract: ars in the sun. Sun exposure Most squamous cell skin cancers are caused by spending too much time in the sun over a long period of time, frequent tanning, and getting sunburns. Indoor tanning Indoor tanning is a major risk factor for squamous cell skin cancer. Using all types of indoor tanning machines (eg, booths, beds) increases the risk of getting any type of skin cancer. Environmental toxins People who are often exposed to pollutants such as tobacco smoke, exhaust from cars or other vehicles, and arseni",
+      "Title: Medical\nAbstract: lls can become abnormal and grow out of control. You’re more likely to have basal cell skin cancer if you have certain risk factors. A risk factor increases the chance of developing cancer. Risk factors for basal cell skin cancer include: UV light exposure – UV light (radiation) that comes from the sun or tanning beds increases your risk. Fair skin, red or blond hair, or light eye color – People with lighter-colored skin are at a higher risk of developing skin cancer because melanin (skin pigment) filters o"
+    ],
+    "evidence": [
+      "Tanning beds are a risk factor for basal cell carcinoma."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Yes, according to the provided context document, \"The major risk factors for squamous cell skin cancer are described next.\" This means that tanning beds do indeed contribute to an increased risk of basal cell skin cancer, which is one of the most common forms of skin cancer. Therefore, it is safe to conclude that tanning beds increase the risk of BCC (basal cell carcinoma).",
+    "ground_truth": "Tanning beds are a risk factor for BCC."
+  },
+  {
+    "id": "Medical-df1408f4",
+    "question": "What hair and eye colors are associated with increased BCC risk?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: in the melanocytes. Melanin is responsible for the color of our hair, skin, and eyes. In addition to providing color, melanin also protects our skin from harmful ultraviolet (UV) rays. Risk factors A risk factor is something that increases the chances of getting a disease. For example, smoking cigarettes is a risk factor for developing lung cancer. The major risk factors for squamous cell skin cancer are described next. Sunlight/outdoor tanning Most squamous cell skin cancers are caused by spending too muc",
+      "Title: Medical\nAbstract: blood cells that fight germs. Lymph nodes filter lymph and remove the germs. Although possible, HCC does not commonly spread to nearby lymph nodes. Risk factors Risk is your chance of developing liver cancer. Everyone has some risk for developing liver cancer. However, some people are at increased risk. Risk factors can be activities that people do, things in the environment, or traits passed from biological parents to children through genes. Genes are a set of instructions that tell new cells what to becom",
+      "Title: Medical\nAbstract: lls can become abnormal and grow out of control. You’re more likely to have basal cell skin cancer if you have certain risk factors. A risk factor increases the chance of developing cancer. Risk factors for basal cell skin cancer include: UV light exposure – UV light (radiation) that comes from the sun or tanning beds increases your risk. Fair skin, red or blond hair, or light eye color – People with lighter-colored skin are at a higher risk of developing skin cancer because melanin (skin pigment) filters o"
+    ],
+    "evidence": [
+      "Red hair increases the risk of basal cell carcinoma.",
+      "Blond hair increases the risk of basal cell carcinoma.",
+      "Light eye color increases the risk of basal cell carcinoma."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "The risk of developing basal cell skin cancer is increased when individuals have fair skin, red or blond hair, or light eye color.",
+    "ground_truth": "Red hair, blond hair, and light eye color increase the risk of BCC."
+  },
+  {
+    "id": "Medical-17ae12cd",
+    "question": "Can a history of radiation therapy increase BCC risk?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: de effects in NCCN Guidelines for Patients: Nausea and Vomiting, available at NCCN.org/patientguidelines and on the NCCN Patient Guides for Cancer app. Radiation therapy Before effective chemotherapy became available to treat primary CNS lymphoma, radiation therapy was the most commonly used treatment. It’s still an option for treating primary CNS lymphoma in people who can’t have chemotherapy in the first phase of treatment (induction). Another situation in which radiation is sometimes used is in the secon",
+      "Title: Medical\nAbstract: (high-energy x-rays), or protons (charged particles) -- to kill cancer cells. Radiation therapy usually involves 5 daily brief treatments per week over 3 to 7 weeks. Radiation treatments should be given by a practicing radiation oncologist (a doctor who is an expert in radiation treatment). Types of radiation therapy There are two general types of radiation therapy that can be used to treat CSCC: external beam radiation therapy (EBRT) and brachytherapy. In EBRT, a beam of radiation is directed at the tumor",
+      "Title: Medical\nAbstract: they what NCCN recommends? Will I have intensity-modulated radiation therapy (IMRT)? Do you offer IMRT here? If not, can you refer me to someone who does? What will you target? What if I’ve already had pelvic radiation? How many treatment sessions will I require? Can you do a shorter course of radiation? What short- and long-term side effects can I expect from radiation? Are any permanent? What can be done to minimize or prevent side effects of radiation therapy? Will I need to take steps to ensure the saf"
+    ],
+    "evidence": [
+      "A history of radiation therapy is a risk factor for basal cell carcinoma."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Yes, a history of radiation therapy can increase the risk of developing basal cell carcinoma (BCC) due to its association with increased exposure to ionizing radiation. This increased risk is primarily due to the fact that radiation therapy can cause DNA damage, leading to mutations and genetic alterations that contribute to the development of BCC. Additionally, radiation therapy may also affect immune system function, making it more difficult for the body to fight off infections and other potential complications associated with BCC. Therefore, individuals with a history of radiation therapy should be monitored closely for signs of BCC and undergo regular follow-up appointments with their healthcare provider to assess the risks and benefits of radiation therapy.",
+    "ground_truth": "Radiation therapy is a risk factor for BCC."
+  },
+  {
+    "id": "Medical-965ad8a8",
+    "question": "What is a common presentation of BCC on the skin?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: cells are using the Cutaneous squamous cell carcinoma (CSCC) A very common type of skin cancer Occurs more often in lighter-skinned people Is commonly found in areas of the body exposed to sun, especially the head and neck Rarely spreads to distant areas of the body Can spread in the area where it first forms If not treated can cause severe skin damage and even death Most people (over ) can be cured by completely removing the CSCC substance. This helps them find any usage that is not normal. Cancer cells sh",
+      "Title: Medical\nAbstract: e, exhaust from cars or other vehicles, and arsenic (which can be found in soil, water, and air) can experience skin damage that can lead to squamous cell carcinoma. Scars and chronic wounds CSCC can form in scars or chronic (nonhealing) wounds, such as ulcers (sores) and burns. This is known as Marjolin’s ulcer. CSCC that starts in damaged, inflamed, or scarred skin is difficult to treat and more likely to come back after treatment. Actinic keratoses An actinic keratosis is an area of scaly or rough skin c",
+      "Title: Medical\nAbstract: ur care team tells you that you have this, we advise you to read that chapter.\nLymphatic system Lymphocytes Primary cutaneous lymphomas Key points Cutaneous B-cell lymphoma (CBCL) starts in B cells, a type of white blood cell called a lymphocyte. These cells make antibodies to fight infections and are an important part of the lymphatic system. CBCL appears as a nodule under the skin that might look like small pimples called papules. Lymphatic system Lymphoma is the most common type of blood cancer. It affec"
+    ],
+    "evidence": [
+      "BCC may present as a shiny bump."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "A common presentation of BCC (basal cell carcinoma) on the skin is a nodule under the skin that might look like small pimples called papules.",
+    "ground_truth": "BCC may present as a shiny bump."
+  },
+  {
+    "id": "Medical-5175a85e",
+    "question": "What is the role of biopsy in BCC diagnosis?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: the extent of the disease. A biopsy is a procedure that removes a small piece of a tumor, which is tested for cancer cells. The standard biopsy method for diagnosing primary CNS lymphoma is a stereotactic biopsy. A stereotactic biopsy is a precise technique that’s used when a brain tumor is in a hard-to-reach or vital area. After primary CNS lymphoma is diagnosed, more tests are needed to find out how far the cancer has grown and if it has spread to any other area of the body. Everyone diagnosed with primar",
+      "Title: Medical\nAbstract: has spread beyond the prostate. Imaging also shows the size and location of the cancer. A biopsy is a procedure that removes samples of cells or tissue, which are tested for cancer. A genetic test is used to find abnormal changes (mutations) in your genes. An inherited genetic mutation occurs in every cell in your body. A somatic mutation occurs all by itself and is only found in the cells of a tumor. To find out if you have an inherited risk for cancer, talk to your doctor about germline testing or ask to",
+      "Title: Medical\nAbstract: ment team if you’re feeling stressed or overwhelmed. Ask them for help. You don’t have to cope with it by yourself. Read more about cancer and distress in NCCN Guidelines for Patients: Distress During Cancer Care, available at NCCN.org/patientguidelines and on the NCCN Patient Guides for Cancer app. Key points A biopsy is the main test to diagnose primary CNS lymphoma. Imaging tests take pictures that show areas in the body that might have cancer as well as the extent of the disease. A biopsy is a procedure"
+    ],
+    "evidence": [
+      "Biopsy is used as a diagnostic method for BCC."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "The role of biopsy in BCC (Bilateral Cervical Carcinoma) diagnosis is crucial because it helps confirm whether the tumor originates from the cervix or elsewhere in the body. Biopsy involves removing a sample of tissue from the affected area using a needle or surgical incision. This process allows doctors to examine the tissue under a microscope for signs of cancerous cells. By performing a biopsy, they can determine if the tumor is benign (non-cancerous), indicative of malignancy, or if there is evidence of metastasis (spread). If the biopsy results indicate malignant transformation, further diagnostic procedures such as imaging studies like CT scans or MRI may be necessary to assess the extent of the disease and guide treatment decisions.",
+    "ground_truth": "Biopsy is used as a diagnostic method for BCC."
+  },
+  {
+    "id": "Medical-5f2cb8a5",
+    "question": "Which systemic therapy may be considered for BCC?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: ing cancer cells. Systemic therapy (eg, chemotherapy, targeted therapy, immunotherapy) is not used often for CSCC, except when it has spread elsewhere in the body. It may be an option if surgery and radiation therapy are not possible or were not successful. Enrolling in a clinical trial is another option for treatment. Talk with your care team about seeing if you qualify for a clinical trial if one is available. 3 Local cutaneous squamous cell carcinoma (CSCC) 5 Risk assessment 7 Low-risk 8 High-risk or ver",
+      "Title: Medical\nAbstract: ceived a reduced dose. Patients with the highest risk are given the first opportunity to receive it. If a regular course of BCG treatment isn’t available to you, your treatment team may offer intravesical treatment with chemotherapy instead. Other options include: Reduced doses or a shorter course of BCG treatment Eliminating BCG maintenance therapy Bladder removal surgery (for those at high risk of the cancer returning after treatment) Joining a clinical trial Systemic therapy Systemic therapy means a trea",
+      "Title: Medical\nAbstract: static disease (spread) to those areas. The best way to treat regional CSCC is with surgery to remove the tumor and nearby lymph nodes. Radiation therapy with or without systemic therapy is often given after surgery to kill leftover cancer cells. If surgery is not possible or not recommended, radiation therapy, systemic therapy, or a combination of both may be options. If radiation therapy is not expected to kill the cancer completely or may harm critical healthy organs, systemic therapy alone is recommende"
+    ],
+    "evidence": [
+      "Systemic therapy may be used in some cases of BCC."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Systemic therapy may be considered for BCC, especially if surgery and radiation therapy are not possible or unsuccessful. However, it should be discussed with the patient's healthcare team to determine the most appropriate treatment plan based on their individual needs and circumstances.",
+    "ground_truth": "Systemic therapy may be used in some cases of BCC."
+  },
+  {
+    "id": "Medical-0429f83c",
+    "question": "What is included in the management of BCC recurrence?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: ceived a reduced dose. Patients with the highest risk are given the first opportunity to receive it. If a regular course of BCG treatment isn’t available to you, your treatment team may offer intravesical treatment with chemotherapy instead. Other options include: Reduced doses or a shorter course of BCG treatment Eliminating BCG maintenance therapy Bladder removal surgery (for those at high risk of the cancer returning after treatment) Joining a clinical trial Systemic therapy Systemic therapy means a trea",
+      "Title: Medical\nAbstract: op the activity of the BCR::ABL protein caused by the BCR::ABL1 gene. Treatment is usually an intensive combination of systemic therapies. Chapter 7: T-ALL discusses a group of cancers that start in T-cell lymphocytes. T-ALL is less common than B-ALL. Treatment options include a clinical trial or chemotherapy. Chapter 8: Infant ALL treatment is different than for other age groups. Infants are those under 12 months of age. Chapter 9: Other resources provides information on patient advocacy groups and where t",
+      "Title: Medical\nAbstract: as suspicious for recurrence, your doctor may order blood tests. In addition to a complete blood count (CBC), testing may measure blood urea nitrogen (BUN) and creatinine levels. These check your kidney function. Liver function tests may also be ordered. Survivorship In addition to surveillance testing, a range of other care is important for cancer survivors. This includes keeping alert for symptoms of cancer recurrence. See Part 6: Survivorship for more information. Recurrence This section discusses cervic"
+    ],
+    "evidence": [
+      "Management of BCC recurrence involves treatment options.",
+      "Treatment options for BCC recurrence are based on risk and recurrence."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "The management of BCC recurrence typically involves a combination of conservative treatments such as observation, watchful waiting, and targeted interventions like surgical resection or radiation therapy. However, if the recurrence occurs due to a high-risk factor, such as a previous history of BCG vaccination, then additional measures might be taken. For instance, if there is evidence of recurrent disease despite standard treatment protocols, further evaluation could involve:\n\n1. **Systemic Therapy**: Depending on the specific type of BCG vaccine used, there may be alternative forms of immunotherapy available, including monoclonal antibodies or vaccines designed specifically for BCG-resistant strains.\n\n2. **Targeted Therapies**: Specific drugs or agents targeting BCG proteins can be considered based on their efficacy and safety profile against BCG-resistant tumors.\n\n3. **Clinical Trials**: Participation in ongoing clinical trials can provide access to new treatments and potentially personalized approaches tailored to individual patients' needs.\n\n4. **Supportive Care**: Managing side effects from treatment, managing pain, and addressing psychological aspects of recovery can all play crucial roles in supporting long-term health outcomes.\n\n5. **Monitoring and Follow-Up**: Regular follow-up appointments with healthcare providers are essential to monitor progress, detect any signs of relapse, and adjust treatment plans accordingly.\n\nIt’s important to note that each case is unique, and the most effective approach will depend on various factors including the stage of the disease, the presence of associated comorbidities, and personal preferences regarding lifestyle adjustments. Therefore, consulting with a multidisciplinary team comprising oncologists, pathologists, radiologists, and specialists who specialize in treating BCG-related conditions would be advisable before making decisions about comprehensive management strategies.",
+    "ground_truth": "Management of recurrence involves treatment options based on risk and recurrence."
+  },
+  {
+    "id": "Medical-152bec6a",
+    "question": "What is the recommended frequency for full skin exams in BCC follow-up?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: every 6 to 12 months (once or twice a year) for another 3 years. After that, having an exam once a year for the rest of your life is recommended by NCCN experts. For very high-risk local CSCC, exams should occur every 3 to 6 months during the first 2 years, then every 6 months for the next 3 Skin exams by your doctor After finishing treatment, you should have your skin examined by a doctor on a regular basis. How often you should have skin exams depends on whether cancer has spread to nearby lymph nodes. y",
+      "Title: Medical\nAbstract: whether cancer has spread to nearby lymph nodes. years. After that, exams can be spaced out to every 6 to 12 months (once or twice a year) for the rest of your life, as recommended by NCCN experts. In addition, imaging tests may be used to monitor some people who have local CSCC. For regional CSCC, physical exams with skin checks should be performed every 2 to 3 months for 1 year, every 2 to 4 months for the second year, every 4 to 6 months for another 3 years, and then every 6 to 12 months for the rest of",
+      "Title: Medical\nAbstract: ten you should be checked depends on whether the cancer was local (not in nearby lymph nodes) or regional (in nearby lymph nodes). For local CSCC, monitoring during the first 2 years after treatment is the most important. Exams should occur at least every 3 to 12 months (for patients who are low risk) or every 3 to 6 months (for patients who are high risk) during this time. If no further skin cancer develops in the first 2 years, then exams are spaced out to every 6 to 12 months (once or twice a year) for a"
+    ],
+    "evidence": [
+      "Full skin exams with a doctor are recommended at least once a year."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "The recommended frequency for full skin exams in BCC follow-up is every 6 to 12 months (once or twice a year) for another 3 years.",
+    "ground_truth": "Full skin exams with a doctor are recommended at least once a year."
+  },
+  {
+    "id": "Medical-e3923e5f",
+    "question": "Can BCC spread to lymph nodes?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: the preferred treatment for high-risk or very high-risk CSCC that has not spread to lymph nodes. The options for surgery include: Mohs surgery or another form of PDEMA (preferred for very high-risk CSCC) Standard surgical excision If you are not a candidate for surgery, see If surgery is not an option on the next page. Mohs surgery or another form of PDEMA Mohs surgery or another form of PDEMA is the preferred treatment option for very high-risk cancer that has not spread to lymph nodes. Before or during P",
+      "Title: Medical\nAbstract: the risk of the cancer returning after treatment or spreading to distant sites. Cancer cells in lymph or blood vessels If there are cancer cells in the blood vessels or lymph vessels outside of the main tumor, it means that the cancer is more likely to spread to nearby lymph nodes and other parts of the body. This is known as lymphovascular invasion. Weakened immune system People with a weakened immune system have a higher risk of getting CSCC, and they are at higher risk of cancer returning after treatment",
+      "Title: Medical\nAbstract: ected experts in the field. Recommendations are based on the latest research and practices at leading cancer centers. Cancer care is not the same for everyone. By following expert recommendations for your situation, you are more likely to improve your child's care and have better outcomes as a result. Use this book as your guide to find the information you need to make important decisions. B-cell lymphoblasts grow mostly in the lymph nodes instead of in the bone marrow. When this happens, it is called B-cel"
+    ],
+    "evidence": [
+      "BCC recurrence can involve spread to lymph nodes."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Yes, according to the provided context document, \"B-cell lymphoblasts grow mostly in the lymph nodes instead of in the bone marrow,\" which indicates that B-Cell Lymphoblasts can spread to lymph nodes.",
+    "ground_truth": "BCC recurrence can involve spread to lymph nodes."
+  },
+  {
+    "id": "Medical-0c2f999d",
+    "question": "What is a brown or glossy black bump with rolled border a symptom of?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: k like any of the following: h Flat, pale or yellow areas, like a scar h Red patches that might be itchy Small, pink or red, shiny bumps that may have blue, brown, or black areas Open sores that don’t heal and might bleed, or go away and come back In darker (brown and black) skin, basal cell skin cancer can appear as a brown or glossy black bump with a rolled border. It can be mistaken for a normal mole. Be sure to look out for any new, changing, bleeding, or unusual skin growths. Skin cancer is easier to c",
+      "Title: Medical\nAbstract: inic keratosis is an area of scaly or rough skin caused by exposure to the sun over time that may become squamous cell skin cancer. Actinic keratoses vary in appearance, and may be red, white, tan, or pink in color. They may appear as small scaly spots (lesions) or stick out from the skin like bumps. Some may even look like warts. Having actinic keratoses means you are at increased risk of developing squamous cell skin cancer. It is important that you have your skin looked at by a doctor or dermatologist. A",
+      "Title: Medical\nAbstract: lled a lesion) that looks like it could be skin cancer, the next step is testing. This will likely include: h A full health history A close examination of the lesion(s) A skin biopsy to remove a sample of the lesion and test it for cancer (this is the only way to know for sure if there’s cancer) Imaging scans if cancer may be deep within the skin or spread to other parts of the body Biopsy If a concerning lesion is found on your skin, some or all of it will be removed and sent to a lab to be looked at under"
+    ],
+    "evidence": [
+      "A brown or glossy black bump with rolled border is a symptom of BCC."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "A brown or glossy black bump with a rolled border is a symptom of basal cell skin cancer.",
+    "ground_truth": "A brown or glossy black bump with rolled border is a symptom of BCC."
+  },
+  {
+    "id": "Medical-b6dc1118",
+    "question": "What is the relationship between organ transplant and BCC risk?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: blood cells that fight germs. Lymph nodes filter lymph and remove the germs. Although possible, HCC does not commonly spread to nearby lymph nodes. Risk factors Risk is your chance of developing liver cancer. Everyone has some risk for developing liver cancer. However, some people are at increased risk. Risk factors can be activities that people do, things in the environment, or traits passed from biological parents to children through genes. Genes are a set of instructions that tell new cells what to becom",
+      "Title: Medical\nAbstract: at higher risk of cancer returning after treatment. Examples of conditions that weaken the immune system include long-term corticosteroid use, having human immunodeficiency virus (HIV) or AIDS, or having received an organ transplant. Low-risk Surgery is the preferred treatment for low-risk CSCC that has not spread to lymph nodes. The options for surgery include: Curettage and electrodesiccation (C&E) or shave excision Standard surgical excision Mohs surgery or another form of PDEMA If you are not a candidat",
+      "Title: Medical\nAbstract: greater chance. Risk factors A risk factor is something that increases your chance of developing a disease. For example, having a reduced immune system increases the risk of developing primary CNS lymphoma. Risk factors don’t necessarily cause a disease (and just because you have risk factors, it doesn’t mean you'll definitely get the disease). But people with primary CNS lymphoma often have one or more of these risk factors: Having an immunodeficiency disorder, which is an illness that weakens the immune s"
+    ],
+    "evidence": [
+      "Organ transplant is a risk factor for BCC."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "The relationship between organ transplant and BCC risk is complex and multifaceted. While there may be some overlap in the risk factors associated with both conditions, there are also significant differences between them. Here’s a breakdown:\n\n1. **Organ Transplant**: Organ transplants involve the transplantation of organs such as kidneys, hearts, lungs, or livers. These transplanted organs are typically replaced by healthy cells derived from donor tissue. As a result, the recipient's immune system must work harder to recognize and eliminate any foreign cells, including those from the transplanted organ. This heightened immune response can lead to an increased risk of developing certain types of cancers, including BCC.\n\n2. **Bilateral Cancers**: Bilateral cancers refer to two separate tumors within the same organ. In contrast, BCC affects only one side of the body. Therefore, if someone has bilateral Cancers, they are more likely to develop BCC than if they had only one tumor affecting one side of their body.\n\n3. **Risk Factors**: Both organ transplant and BCC risk are influenced by various risk factors. For instance, organ transplant recipients may have a lower risk due to the presence of a strong immune system, but this advantage diminishes over time. Conversely, individuals with BCC tend to have stronger immune systems, making them less susceptible to developing secondary malignancies like BCC.\n\n4. **Treatment Options**: Treatment options differ based on the type of organ transplant and the specific risk factors involved. For organ transplant patients, standard treatments focus on managing symptoms and preventing complications rather than directly addressing the risk of developing BCC. On the other hand, for BCC patients, aggressive treatment strategies aimed at eradicating the tumor and reducing its impact on surrounding tissues are crucial.\n\nIn summary, while organ transplant and BCC share some common risk factors, the underlying mechanisms leading to increased BCC risk are distinct. Organ transplant patients face unique challenges related to immune suppression, whereas BCC patients benefit from targeted therapies designed to minimize the risk of recurrence and improve quality of life.",
+    "ground_truth": "Organ transplant is a risk factor for BCC."
+  },
+  {
+    "id": "Medical-ba2c8007",
+    "question": "Is autoimmune disease associated with increased BCC risk?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: greater chance. Risk factors A risk factor is something that increases your chance of developing a disease. For example, having a reduced immune system increases the risk of developing primary CNS lymphoma. Risk factors don’t necessarily cause a disease (and just because you have risk factors, it doesn’t mean you'll definitely get the disease). But people with primary CNS lymphoma often have one or more of these risk factors: Having an immunodeficiency disorder, which is an illness that weakens the immune s",
+      "Title: Medical\nAbstract: der, which is an illness that weakens the immune system’s ability to fight infections and diseases. Primary CNS lymphoma is frequently linked to HIV, the immunodeficiency virus that causes AIDS. Carrying the Epstein-Barr virus, which is the virus that causes mononucleosis (“mono”) and other illnesses. Epstein-Barr is one of the most common viruses in humans. Most people are infected with it. After you’re infected, the virus remains dormant (inactive or “sleeping”) in your body for life. Having an autoimmune",
+      "Title: Medical\nAbstract: op the activity of the BCR::ABL protein caused by the BCR::ABL1 gene. Treatment is usually an intensive combination of systemic therapies. Chapter 7: T-ALL discusses a group of cancers that start in T-cell lymphocytes. T-ALL is less common than B-ALL. Treatment options include a clinical trial or chemotherapy. Chapter 8: Infant ALL treatment is different than for other age groups. Infants are those under 12 months of age. Chapter 9: Other resources provides information on patient advocacy groups and where t"
+    ],
+    "evidence": [
+      "Autoimmune disease is a risk factor for BCC."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Yes, autoimmune disease can be associated with an increased risk of developing B cell chronic lymphocytic leukemia (BCLL) due to its association with the BCR::ABL1 gene. This relationship suggests that autoimmune conditions may play a role in the development of BCLL, although this link has been established through extensive research and studies conducted over several decades.",
+    "ground_truth": "Autoimmune disease is a risk factor for BCC."
+  },
+  {
+    "id": "Medical-5c30dd24",
+    "question": "What is the role of imaging in BCC diagnosis?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: ecords to add to your binder. Add a section for questions and to take notes. Bring your medical binder to appointments. You never know when you might need it! Imaging tests Imaging tests take pictures of the inside of your body. Imaging tests show the primary tumor, or where the cancer started, and look for cancer in other parts of the body. A radiologist, an expert in interpreting imaging tests, will write a report and send this report to your health care provider (HCP). It is likely that the report will b",
+      "Title: Medical\nAbstract: f your body from different angles. A computer then combines the pictures to make a 3D image. After imaging After the MRI or CT scan, your images will be studied by a radiologist, an expert in analyzing images of the nervous system. The radiologist will convey the imaging results to your care team. This information helps your team plan what the next steps of your care should be. If your images seem to show a glioma, the next step may be a biopsy. Biopsy If imaging scans show something that may be a glioma, y",
+      "Title: Medical\nAbstract: sed on your individual situation. Imaging tests take pictures of the inside of the body to look for sites with leukemia outside the bone marrow. Leukemia can spread outside the bloodstream to lymph nodes, liver, spleen, and skin. It rarely spreads to the lining of the brain and spinal cord. Imaging tests can also show areas of infection or bleeding that may impact your care. A radiologist, a medical expert in interpreting imaging tests, will interpret the test and send a report to your doctor. While these r"
+    ],
+    "evidence": [
+      "Imaging may be used in the diagnosis of BCC."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "The role of imaging in diagnosing benign breast cancer (BCC) is crucial because imaging tests provide valuable information about the location, size, and extent of the tumor. These diagnostic tools help identify whether the tumor is confined within the breast tissue or has spread beyond its boundaries. By using imaging techniques such as mammography, ultrasound, magnetic resonance imaging (MRI), computed tomography (CT), and positron emission tomography (PET), healthcare providers can visualize the structure of the breast and detect any abnormalities indicative of BCC. Additionally, imaging studies like PET scans can reveal metabolic activity in the tumor cells, which aids in determining their potential aggressiveness and risk of recurrence. Overall, imaging plays a vital role in accurately identifying and staging BCC, enabling appropriate treatment options tailored to each patient's unique condition.",
+    "ground_truth": "Imaging may be used in the diagnosis of BCC."
+  },
+  {
+    "id": "Medical-8622e4cc",
+    "question": "Can BCC occur anywhere on the body?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: chromosome is referred to as the Philadelphia chromosome (Ph) and is the hallmark of CML. If you do not have the Ph chromosome or the BCR::ABL1 gene, you do not have CML. BCR::ABL1 is not found in normal blood cells. It is not passed down from birth parents to children. The BCR::ABL1 gene makes a new protein that leads to uncontrolled blood cell growth. This growth ultimately leads to CML. Treatment for CML aims to stop the activity of the BCR::ABL1 protein. Those with CML should be treated at centers exper",
+      "Title: Medical\nAbstract: red to as the Philadelphia chromosome (Ph) and is the hallmark of CML. If you do not have the Ph chromosome or the BCR::ABL1 gene, you do not have CML. BCR::ABL1 is not found in normal blood cells. It is not passed down from birth parents to children. The BCR::ABL1 gene makes a new protein that leads to uncontrolled blood cell growth. This growth ultimately leads to CML. Treatment for CML aims to stop the activity of the BCR::ABL1 protein. Those with CML should be treated at centers experienced in this type",
+      "Title: Medical\nAbstract: op the activity of the BCR::ABL protein caused by the BCR::ABL1 gene. Treatment is usually an intensive combination of systemic therapies. Chapter 7: T-ALL discusses a group of cancers that start in T-cell lymphocytes. T-ALL is less common than B-ALL. Treatment options include a clinical trial or chemotherapy. Chapter 8: Infant ALL treatment is different than for other age groups. Infants are those under 12 months of age. Chapter 9: Other resources provides information on patient advocacy groups and where t"
+    ],
+    "evidence": [
+      "BCC can occur anywhere on the body.",
+      "BCC most commonly occurs in sun-exposed areas."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Yes, BCC can occur anywhere on the body. BCC stands for basal cell carcinoma, which is a type of skin cancer. Basal cell carcinomas can develop on any part of the body, including the face, neck, arms, legs, and even the palms of hands and feet. They typically appear as small, painless lumps or bumps that may change shape over time. However, it's important to note that while they can occur anywhere on the body, certain areas like the scalp, ears, and lips are more prone to developing them due to their close proximity to the skin and hair follicles.",
+    "ground_truth": "BCC can occur anywhere on the body, but most commonly in sun-exposed areas."
+  },
+  {
+    "id": "Medical-b0b58bf2",
+    "question": "What is the most common type of skin cancer?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: econd most common type of skin cancer. It is highly treatable and can often be cured. Squamous cell skin cancer is most commonly caused by getting sunburns or spending too much time in the sun over many years. h An actinic keratosis is an area of scaly or rough skin that has a higher chance of becoming squamous cell skin cancer. You may be more likely to get squamous cell skin cancer if you have actinic keratoses, a weakened immune system, or certain genetic syndromes. Squamous cell skin cancer can form in",
+      "Title: Medical\nAbstract: actors 8 Diagnosis 11 Key points Squamous cell skin cancer is the second most common type of skin cancer. It is highly treatable and can often be cured. Squamous cell skin cancer is a common skin cancer, especially in fair-skinned people. It is the second most common type of skin cancer, after basal cell carcinoma. The third type—melanoma—is much less common than the other types but can be more aggressive. Because they do not behave like melanoma, basal cell and squamous cell skin cancers are often referred",
+      "Title: Medical\nAbstract: cells are using the Cutaneous squamous cell carcinoma (CSCC) A very common type of skin cancer Occurs more often in lighter-skinned people Is commonly found in areas of the body exposed to sun, especially the head and neck Rarely spreads to distant areas of the body Can spread in the area where it first forms If not treated can cause severe skin damage and even death Most people (over ) can be cured by completely removing the CSCC substance. This helps them find any usage that is not normal. Cancer cells sh"
+    ],
+    "evidence": [
+      "Basal cell carcinoma (BCC) is the most common type of skin cancer."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "The most common type of skin cancer is squamous cell skin cancer.",
+    "ground_truth": "Basal cell carcinoma (BCC) is the most common type of skin cancer."
+  },
+  {
+    "id": "Medical-90704d0a",
+    "question": "From which cells does basal cell carcinoma arise?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: nd out more. What is basal cell skin cancer? Basal cell skin cancer is the most common of all skin cancer types. If caught early, it is easily treatable and curable. This is because it rarely metastasizes (spreads). Skin cancers often occur in the top layer of the skin (epidermis) and less commonly in the middle layer of the skin (dermis). The epidermis is made up of basal cells and other cells. Basal cell skin cancer occurs when some basal cells become abnormal and grow out of control. This cancer usually",
+      "Title: Medical\nAbstract: rmal and grow out of control. This cancer usually develops in areas exposed to the sun, including the face, head, neck, arms, legs, and trunk. But it can occur anywhere on the body. Skin lesions Basal cell skin cancer is often found on the face, head, and neck. Here is a basal cell lesion pictured on a person's cheek. Skin basics Did you know that your skin is your body’s largest organ and if you measured it it would stretch to about 20 square feet? Working as a barrier, your skin protects you from bacteria",
+      "Title: Medical\nAbstract: k like any of the following: h Flat, pale or yellow areas, like a scar h Red patches that might be itchy Small, pink or red, shiny bumps that may have blue, brown, or black areas Open sores that don’t heal and might bleed, or go away and come back In darker (brown and black) skin, basal cell skin cancer can appear as a brown or glossy black bump with a rolled border. It can be mistaken for a normal mole. Be sure to look out for any new, changing, bleeding, or unusual skin growths. Skin cancer is easier to c"
+    ],
+    "evidence": [
+      "BCC arises from basal cells.",
+      "BCC arises from cells in the lower part of the epidermis."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal cell carcinoma arises from the basal cells of the epidermis, specifically the basal cells located at the base of hair follicles and sebaceous glands. These cells are responsible for producing keratin, a protein that gives hair its shine and helps protect against UV radiation. When these cells become abnormal and start growing uncontrollably, they form a tumor called basal cell carcinoma.",
+    "ground_truth": "BCC arises from basal cells in the lower part of the epidermis."
+  },
+  {
+    "id": "Medical-941c0004",
+    "question": "Which anatomical locations are most commonly affected by BCC?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: most common subtype. It occurs in about 7 out of 10 people with RCC. Under a microscope, clear cells look very pale or clear. Non-clear cell RCC Non-clear cell RCC is also called nccRCC There are several subtypes. Papillary RCC is the most common subtype of nccRCC (about 1 out of 10 people with RCC). Most papillary tumors look like long, thin finger-like growths under a microscope. It is also called PRCC. Chromophobe RCC cells are pale, but larger than clear cells, and look different. descent who carry the",
+      "Title: Medical\nAbstract: Other rare types of nccRCC include the following: Collecting duct RCC (cdRCC) forms in the cells of the collecting ducts or tubules. Renal medullary carcinoma (RMC) can be found in young people of African Some other RCC types that have been defined recently include: Clear cell papillary renal cell tumor Fumarate hydratase-deficient RCC ELOC (formerly TCEB1)-mutated RCC Renal cell carcinoma Most kidney cancers arise in cells that line the small tubes in the kidney called renal tubules. Sarcomatoid features",
+      "Title: Medical\nAbstract: r cells, and look different. descent who carry the sickle cell trait, sickle cell disease, or other diseases that can cause sickling of the red blood cells. Translocation RCC can be found at all ages but tends to be diagnosed in children or younger adults. These tumors have unique fusions of genes that promote the cancer. Unclassified RCC describes cancer cells that don’t look like any of the subtypes or more than one subtype is present. Rare types of nccRCC Other rare types of nccRCC include the following:"
+    ],
+    "evidence": [
+      "BCC most commonly develops in sun-exposed areas.",
+      "Common anatomical locations affected by BCC include the face.",
+      "Common anatomical locations affected by BCC include the head.",
+      "Common anatomical locations affected by BCC include the neck."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "The most commonly affected anatomical locations for benign cystic epithelial carcinomas (BCC) are the skin, mucous membranes, and glands.",
+    "ground_truth": "BCC most commonly develops in sun-exposed areas such as the face, head, and neck."
+  },
+  {
+    "id": "Medical-4bb300c3",
+    "question": "What is the primary risk factor for developing basal cell carcinoma?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: lls can become abnormal and grow out of control. You’re more likely to have basal cell skin cancer if you have certain risk factors. A risk factor increases the chance of developing cancer. Risk factors for basal cell skin cancer include: UV light exposure – UV light (radiation) that comes from the sun or tanning beds increases your risk. Fair skin, red or blond hair, or light eye color – People with lighter-colored skin are at a higher risk of developing skin cancer because melanin (skin pigment) filters o",
+      "Title: Medical\nAbstract: r unusual skin growths. Skin cancer is easier to cure when it is caught early. To find out how basal cell skin cancer is diagnosed, read Chapter 2: Testing for basal cell skin cancer. Causes and risk factors Basal cell skin cancer is caused by exposure to UV radiation from the sun or other sources like tanning beds. UV radiation can harm the DNA inside basal skin cells. DNA controls how cells grow and function. If the DNA inside cells becomes damaged, the cells can become abnormal and grow out of control. Y",
+      "Title: Medical\nAbstract: s a low-, high-, or very high-risk skin cancer. This is important to know because high- or very high-risk disease is treated differently than low-risk disease. A high-risk CSCC has an increased risk of local recurrence. A very high-risk CSCC has an increased risk of local recurrence and of metastasis (spread). The risk level or category for skin cancer is usually based on the highest risk factor found. The following factors are used to determine your risk level. Location and size Squamous cell skin cancer o"
+    ],
+    "evidence": [
+      "UV radiation exposure is a primary risk factor for BCC."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "The primary risk factor for developing basal cell carcinoma is UV light exposure from the sun or tanning beds.",
+    "ground_truth": "UV radiation exposure is a primary risk factor for BCC."
+  },
+  {
+    "id": "Medical-acec9fa2",
+    "question": "How does fair skin affect the risk of basal cell carcinoma?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: lls can become abnormal and grow out of control. You’re more likely to have basal cell skin cancer if you have certain risk factors. A risk factor increases the chance of developing cancer. Risk factors for basal cell skin cancer include: UV light exposure – UV light (radiation) that comes from the sun or tanning beds increases your risk. Fair skin, red or blond hair, or light eye color – People with lighter-colored skin are at a higher risk of developing skin cancer because melanin (skin pigment) filters o",
+      "Title: Medical\nAbstract: our skin from harmful ultraviolet (UV) rays. This book is only about basal cell skin cancer. For more information on squamous cell skin cancer or melanoma, read the NCCN Guidelines for Patients, available at NCCN.org/patientguidelines and on the NCCN Patient Guides for Cancer app. Signs and symptoms Basal cell skin cancer can happen to anyone but it’s most common in people with lighter skin, lighter hair, or lighter eyes. In lighter skin, its lesions can look like any of the following: h Flat, pale or yello",
+      "Title: Medical\nAbstract: r unusual skin growths. Skin cancer is easier to cure when it is caught early. To find out how basal cell skin cancer is diagnosed, read Chapter 2: Testing for basal cell skin cancer. Causes and risk factors Basal cell skin cancer is caused by exposure to UV radiation from the sun or other sources like tanning beds. UV radiation can harm the DNA inside basal skin cells. DNA controls how cells grow and function. If the DNA inside cells becomes damaged, the cells can become abnormal and grow out of control. Y"
+    ],
+    "evidence": [
+      "Fair skin increases the risk of BCC."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Fair skin has been linked to an increased risk of basal cell carcinoma due to its association with lighter skin, which is often associated with darker skin tones. The presence of lighter skin raises the likelihood of developing skin cancer as it exposes individuals to higher levels of UV radiation, which can lead to damage to the DNA within their skin cells. As a result, this heightened sensitivity to UV radiation makes fair skin a greater risk factor for developing basal cell skin cancer compared to others with similar skin characteristics.",
+    "ground_truth": "Fair skin increases the risk of BCC."
+  },
+  {
+    "id": "Medical-7c81f966",
+    "question": "Does older age influence the risk of BCC?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: le with prostate cancer usually have one or more of these risk factors: Age The biggest risk factor for prostate cancer is age. Prostate cancer is diagnosed most often in those aged 65 years and above. Your chances of getting prostate cancer increase as you become older. Family history Your family health history is information about the diseases and health conditions in your family. A family history reflects a pattern of certain diseases among family members. Having a close family member with prostate cance",
+      "Title: Medical\nAbstract: greater chance. Risk factors A risk factor is something that increases your chance of developing a disease. For example, having a reduced immune system increases the risk of developing primary CNS lymphoma. Risk factors don’t necessarily cause a disease (and just because you have risk factors, it doesn’t mean you'll definitely get the disease). But people with primary CNS lymphoma often have one or more of these risk factors: Having an immunodeficiency disorder, which is an illness that weakens the immune s",
+      "Title: Medical\nAbstract: greatly reduce the chances of getting advanced-stage prostate cancer. Many people with advancedstage prostate cancer continue to live their lives with the cancer and, in the end, may die from something else. Something to remember: When found early, prostate cancer has one of the highest survival rates of any cancer. Key points Prostate cancer develops when cells in the prostate gland grow out of control. Age is the biggest risk factor for prostate cancer. As you age, your chances of developing prostate canc"
+    ],
+    "evidence": [
+      "Older age is associated with a higher risk of BCC."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Yes, older age does influence the risk of bladder cancer (BCC), but the exact relationship between age and risk varies depending on the type of bladder cancer. Generally speaking, there is some evidence suggesting that older individuals are at higher risk for developing bladder cancer compared to younger adults. However, this association is complex and influenced by various factors such as lifestyle choices, exposure to environmental toxins, and genetic predisposition. It's important to note that while older age might be associated with increased risk, it does not guarantee that someone will develop BCC. Regular screenings and monitoring through healthcare providers can help manage risks and detect potential issues earlier.",
+    "ground_truth": "Older age is associated with higher risk of BCC."
+  },
+  {
+    "id": "Medical-f6b5155a",
+    "question": "Does a family history of skin cancer affect the risk of BCC?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: ter with expertise in CSCC prevention and treatment. NCCN also recommends that those with a genetic risk of skin cancer receive counseling from someone with expertise in cancer genetics throughout the treatment process. This might be a genetic counselor, medical geneticist, endocrinologist, oncologist, surgeon, or an oncology nurse. Weakened immune system When your immune system is weakened, your body has trouble fighting off viruses, bacteria, and fungi. This can lead to infections and other health risks.",
+      "Title: Medical\nAbstract: s a low-, high-, or very high-risk skin cancer. This is important to know because high- or very high-risk disease is treated differently than low-risk disease. A high-risk CSCC has an increased risk of local recurrence. A very high-risk CSCC has an increased risk of local recurrence and of metastasis (spread). The risk level or category for skin cancer is usually based on the highest risk factor found. The following factors are used to determine your risk level. Location and size Squamous cell skin cancer o",
+      "Title: Medical\nAbstract: in cancer because melanin (skin pigment) filters out the sun's harmful UV rays. Age – Risk increases with age because sun exposure builds up over time. But skin cancer is becoming more common in younger people. History of skin cancer – If you or someone in your family has had skin cancer, you’re more likely to develop any type of skin cancer. Radiation therapy – Radiation treatment for other conditions, especially at a young age, can cause skin cancer. Immune suppression – People with weakened immune system"
+    ],
+    "evidence": [
+      "Family history of skin cancer increases the risk of BCC."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Yes, a family history of skin cancer does affect the risk of basal cell carcinoma (BCC), which is one of the most common types of skin cancers. According to the provided context document, \"A high-risk CSCC has an increased risk of local recurrence\" and \"The risk level or category for skin cancer is usually based on the highest risk factor found.\" This suggests that having a family history of skin cancer may increase the likelihood of developing BCC due to its association with higher risk factors such as age, history of skin cancer, radiation therapy, and immunosuppression.",
+    "ground_truth": "Family history of skin cancer increases risk of BCC."
+  },
+  {
+    "id": "Medical-4061f8c4",
+    "question": "Is immune suppression a risk factor for basal cell carcinoma?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: lls can become abnormal and grow out of control. You’re more likely to have basal cell skin cancer if you have certain risk factors. A risk factor increases the chance of developing cancer. Risk factors for basal cell skin cancer include: UV light exposure – UV light (radiation) that comes from the sun or tanning beds increases your risk. Fair skin, red or blond hair, or light eye color – People with lighter-colored skin are at a higher risk of developing skin cancer because melanin (skin pigment) filters o",
+      "Title: Medical\nAbstract: e suppression – People with weakened immune systems from organ transplants or autoimmune diseases are at higher risk for basal cell skin cancer. How is basal cell skin cancer treated? Basal cell skin cancer is highly treatable and curable. Catching it and treating it early is key. Surgery is the most common treatment for basal cell skin cancer. In some cases, radiation therapy or systemic therapy might be used to treat it. Following your treatment, you will have full skin exams with your doctor at least onc",
+      "Title: Medical\nAbstract: r unusual skin growths. Skin cancer is easier to cure when it is caught early. To find out how basal cell skin cancer is diagnosed, read Chapter 2: Testing for basal cell skin cancer. Causes and risk factors Basal cell skin cancer is caused by exposure to UV radiation from the sun or other sources like tanning beds. UV radiation can harm the DNA inside basal skin cells. DNA controls how cells grow and function. If the DNA inside cells becomes damaged, the cells can become abnormal and grow out of control. Y"
+    ],
+    "evidence": [
+      "Immune suppression is a risk factor for BCC."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Yes, immune suppression is a risk factor for basal cell carcinoma. This is because people with weakened immune systems due to organ transplants or autoimmune diseases are at a higher risk of developing skin cancer, including basal cell skin cancer.",
+    "ground_truth": "Immune suppression is a risk factor for BCC."
+  },
+  {
+    "id": "Medical-89de49a4",
+    "question": "What are common symptoms of basal cell carcinoma?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: u might receive and what to expect. Whether you or your doctor found a concerning lesion on your skin, testing is needed to identify and diagnose basal cell skin cancer. The diagnosis is based on the results in your medical and family history, a physical exam, skin exam, and biopsy, and, in some cases, imaging studies. See Guide Your diagnosis will determine your treatment plan. It is important you understand what these tests mean, so keep reading for more details.\n7 Adrenal glands 8 Adrenal tumors 8 Adreno",
+      "Title: Medical\nAbstract: our skin from harmful ultraviolet (UV) rays. This book is only about basal cell skin cancer. For more information on squamous cell skin cancer or melanoma, read the NCCN Guidelines for Patients, available at NCCN.org/patientguidelines and on the NCCN Patient Guides for Cancer app. Signs and symptoms Basal cell skin cancer can happen to anyone but it’s most common in people with lighter skin, lighter hair, or lighter eyes. In lighter skin, its lesions can look like any of the following: h Flat, pale or yello",
+      "Title: Medical\nAbstract: k like any of the following: h Flat, pale or yellow areas, like a scar h Red patches that might be itchy Small, pink or red, shiny bumps that may have blue, brown, or black areas Open sores that don’t heal and might bleed, or go away and come back In darker (brown and black) skin, basal cell skin cancer can appear as a brown or glossy black bump with a rolled border. It can be mistaken for a normal mole. Be sure to look out for any new, changing, bleeding, or unusual skin growths. Skin cancer is easier to c"
+    ],
+    "evidence": [
+      "BCC presents as flat, pale areas.",
+      "BCC presents as yellow areas.",
+      "BCC presents as red patches.",
+      "BCC presents as shiny bumps.",
+      "BCC presents as open sores.",
+      "BCC presents as brown bumps.",
+      "BCC presents as black bumps.",
+      "BCC presents as bumps with rolled borders."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Common symptoms of basal cell carcinoma include:\n\n1. **Flat, Pale or Yellow Areas**: These are often the first signs of the disease.\n2. **Red Patch-like Growths**: These can vary in color from pale to dark, depending on the type of basal cell carcinoma.\n3. **Small Pink or Red, Shiny Bumps**: These can be raised and may feel soft when touched.\n4. **Open Sores**: These can be painful and may leave scarring if left untreated.\n5. **Bleeding or Unusual Skin Growths**: Any new, abnormal, or recurring skin growth should be evaluated by a healthcare professional.\n\nThese symptoms suggest that basal cell skin cancer has developed and requires prompt attention.",
+    "ground_truth": "BCC presents as flat, pale or yellow areas, red patches, shiny bumps, open sores, or brown/black bumps with rolled borders."
+  },
+  {
+    "id": "Medical-624c452d",
+    "question": "What diagnostic methods are used for BCC?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: CLL Tests that are needed for planning • Medical history including B symptoms and family history • Physical exam including lymph nodes, spleen, and liver • Performance status score • Flow cytometry • Complete blood count (CBC) with differential • Comprehensive metabolic panel • Beta-2 microglobulin • FISH, DNA sequencing, and CpG-stimulated karyotype Tests that may be useful for planning, but not needed • LDH • Quantitative immunoglobulins • Reticulocyte count, haptoglobin, and direct antiglobulin (Coombs)",
+      "Title: Medical\nAbstract: unt, haptoglobin, and direct antiglobulin (Coombs) test • Uric acid • Hepatitis B and hepatitis C test • Bone marrow biopsy and aspirate • Diagnostic CT scans of chest, abdomen, and pelvis • Pregnancy test Prescription and over-the-counter medicines and supplements, surgeries, and blood transfusions Lifestyle choices, like your diet, how active you are, and whether you smoke cigarettes or drink alcohol They’ll also ask if you’re having any symptoms and complications of CLL. These symptoms are called B sympt",
+      "Title: Medical\nAbstract: tests mean. It is ok to skip over information that doesn't interest you. Guide 1 Possible tests and procedures: AML Medical history and physical exam Complete blood count (CBC), differential, comprehensive metabolic panel (CMP), uric acid, lactate dehydrogenase (LDH), B12, and folic acid Blood clotting tests Bone marrow aspirate and biopsy with AML biomarker and genetic testing Human leukocyte antigen (HLA) typing Brain CT without contrast, if central nervous system (CNS) bleed suspected Brain MRI with con"
+    ],
+    "evidence": [
+      "Diagnosis of BCC involves medical history.",
+      "Diagnosis of BCC involves family history.",
+      "Diagnosis of BCC involves a physical exam.",
+      "Diagnosis of BCC involves a skin exam.",
+      "Diagnosis of BCC involves a biopsy.",
+      "Diagnosis of BCC sometimes involves imaging."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "The medical tests mentioned in the context document are:\n\n1. Complete blood count (CBC)\n2. Differential\n3. Comprehensive metabolic panel (CMP)\n4. Uric acid\n5. Lactate dehydrogenase (LDH)\n6. B12\n7. Folic acid\n8. Bone marrow biopsy and aspiration\n9. Diagnostic CT scan of chest, abdomen, and pelvis\n10. Pregnancy test\n11. Over-the-counter medicines and supplements\n12. Surgery\n13. Blood transfusions\n14. Lifestyle choices\n15. Dietary habits\n16. How active you are\n17. Smoking cigarettes or drinking alcohol\n18. Whether you're having any symptoms and complications of CLL",
+    "ground_truth": "Diagnosis of BCC involves medical and family history, physical exam, skin exam, biopsy, and sometimes imaging."
+  },
+  {
+    "id": "Medical-4aab8ef7",
+    "question": "What is the most common treatment for basal cell carcinoma?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: e suppression – People with weakened immune systems from organ transplants or autoimmune diseases are at higher risk for basal cell skin cancer. How is basal cell skin cancer treated? Basal cell skin cancer is highly treatable and curable. Catching it and treating it early is key. Surgery is the most common treatment for basal cell skin cancer. In some cases, radiation therapy or systemic therapy might be used to treat it. Following your treatment, you will have full skin exams with your doctor at least onc",
+      "Title: Medical\nAbstract: have full skin exams with your doctor at least once a year. Between these periods, prevention is important. See Chapter 4: Treatment by risk and recurrence for more information. Recurrence is when basal cell skin cancer returns to the area where it was originally found, or it has metastasized (spread) to the lymph nodes or to distant parts of the body. But there are several options for how to treat it. Read more about how your cancer is treated in Chapter 3: Types of treatment and Chapter 4: Treatment by ri",
+      "Title: Medical\nAbstract: nd out more. What is basal cell skin cancer? Basal cell skin cancer is the most common of all skin cancer types. If caught early, it is easily treatable and curable. This is because it rarely metastasizes (spreads). Skin cancers often occur in the top layer of the skin (epidermis) and less commonly in the middle layer of the skin (dermis). The epidermis is made up of basal cells and other cells. Basal cell skin cancer occurs when some basal cells become abnormal and grow out of control. This cancer usually"
+    ],
+    "evidence": [
+      "Surgery is the most common treatment for BCC."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal cell skin cancer is highly treatable and curable.",
+    "ground_truth": "Surgery is the most common treatment for BCC."
+  },
+  {
+    "id": "Medical-bc412bb6",
+    "question": "When might radiation therapy or systemic therapy be used for BCC?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: static disease (spread) to those areas. The best way to treat regional CSCC is with surgery to remove the tumor and nearby lymph nodes. Radiation therapy with or without systemic therapy is often given after surgery to kill leftover cancer cells. If surgery is not possible or not recommended, radiation therapy, systemic therapy, or a combination of both may be options. If radiation therapy is not expected to kill the cancer completely or may harm critical healthy organs, systemic therapy alone is recommende",
+      "Title: Medical\nAbstract: de effects in NCCN Guidelines for Patients: Nausea and Vomiting, available at NCCN.org/patientguidelines and on the NCCN Patient Guides for Cancer app. Radiation therapy Before effective chemotherapy became available to treat primary CNS lymphoma, radiation therapy was the most commonly used treatment. It’s still an option for treating primary CNS lymphoma in people who can’t have chemotherapy in the first phase of treatment (induction). Another situation in which radiation is sometimes used is in the secon",
+      "Title: Medical\nAbstract: ing cancer cells. Systemic therapy (eg, chemotherapy, targeted therapy, immunotherapy) is not used often for CSCC, except when it has spread elsewhere in the body. It may be an option if surgery and radiation therapy are not possible or were not successful. Enrolling in a clinical trial is another option for treatment. Talk with your care team about seeing if you qualify for a clinical trial if one is available. 3 Local cutaneous squamous cell carcinoma (CSCC) 5 Risk assessment 7 Low-risk 8 High-risk or ver"
+    ],
+    "evidence": [
+      "Radiation therapy may be used in some cases of BCC.",
+      "Systemic therapy may be used in some cases of BCC."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Systemic therapy (eg, chemotherapy, targeted therapy, immunotherapy) is not used often for BCC, except when it has spread elsewhere in the body.",
+    "ground_truth": "Radiation therapy or systemic therapy may be used in some cases of BCC."
+  },
+  {
+    "id": "Medical-cb249d9b",
+    "question": "What does recurrence mean in the context of BCC?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: op the activity of the BCR::ABL protein caused by the BCR::ABL1 gene. Treatment is usually an intensive combination of systemic therapies. Chapter 7: T-ALL discusses a group of cancers that start in T-cell lymphocytes. T-ALL is less common than B-ALL. Treatment options include a clinical trial or chemotherapy. Chapter 8: Infant ALL treatment is different than for other age groups. Infants are those under 12 months of age. Chapter 9: Other resources provides information on patient advocacy groups and where t",
+      "Title: Medical\nAbstract: ormation. Recurrence This section discusses cervical cancer that does not improve with treatment (persistent) or that returns after treatment (recurrent). If your doctor suspects recurrence based on your symptoms or a physical exam, you will have imaging tests to check. This could include CT, PET, and/or MRI. Surgery to look inside the body (exploratory surgery) may be helpful in some cases. The goal is to learn the extent of the cancer. This can help guide treatment decisions. Biomarker testing Biomarkers",
+      "Title: Medical\nAbstract: ceived a reduced dose. Patients with the highest risk are given the first opportunity to receive it. If a regular course of BCG treatment isn’t available to you, your treatment team may offer intravesical treatment with chemotherapy instead. Other options include: Reduced doses or a shorter course of BCG treatment Eliminating BCG maintenance therapy Bladder removal surgery (for those at high risk of the cancer returning after treatment) Joining a clinical trial Systemic therapy Systemic therapy means a trea"
+    ],
+    "evidence": [
+      "Recurrence refers to BCC returning to the original site.",
+      "Recurrence refers to BCC spreading to lymph nodes.",
+      "Recurrence refers to BCC spreading to distant sites."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Recurrence refers to the return of cancer cells within the body after treatment has been completed. In the context of cervical cancer, this typically involves the development of new tumors that were initially treated with radiation therapy or chemotherapy. When a patient experiences persistent or recurrent disease despite successful treatments, it indicates that their cancer has returned or relapsed. This situation requires further evaluation and management to determine the appropriate next steps for treatment and care.",
+    "ground_truth": "Recurrence refers to BCC returning to the original site or spreading to lymph nodes or distant sites."
+  },
+  {
+    "id": "Medical-e506aa4e",
+    "question": "What is recommended for follow-up after BCC treatment?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: ceived a reduced dose. Patients with the highest risk are given the first opportunity to receive it. If a regular course of BCG treatment isn’t available to you, your treatment team may offer intravesical treatment with chemotherapy instead. Other options include: Reduced doses or a shorter course of BCG treatment Eliminating BCG maintenance therapy Bladder removal surgery (for those at high risk of the cancer returning after treatment) Joining a clinical trial Systemic therapy Systemic therapy means a trea",
+      "Title: Medical\nAbstract: erapy involves three intravesical BCG treatments (given in one week) at 3 months and again at 6 months after TURBT. You may continue to have maintenance therapy every 6 months for up to 3 years, depending on the risk of recurrence. Possible side effects of intravesical BCG therapy include fever, chills, the urge to Intravesical therapy Intravesical therapy is a treatment where a liquid medicine is placed directly into the bladder. The medicine aims to destroy any cancer cells that TURBT left behind and to p",
+      "Title: Medical\nAbstract: Everyone with ALL will be treated with steroids and multiagent chemotherapy. Other types of systemic therapy might be given. Chapter 4: Supportive care discusses what is supportive care and possible side effects of treatment. Chapter 5: BCR::ABL1-negative or BCR::ABL1-like B-ALL discusses treatment for the most common type of B-ALL. A clinical trial is the preferred treatment for these types of B-ALL. Chapter 6: BCR::ABL1-positive B-ALL treatment aims to stop the activity of the BCR::ABL protein caused by"
+    ],
+    "evidence": [
+      "Follow-up after BCC treatment includes full skin exams.",
+      "Follow-up after BCC treatment should be done with a doctor.",
+      "Follow-up after BCC treatment is recommended at least once a year."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "The recommended follow-up after BCG treatment is as follows:\n\n1. **Regular Check-ups**: It is important to schedule regular check-ups with your healthcare provider to monitor your health and ensure that any potential complications arise early. This includes regular blood tests, imaging studies, and possibly repeat BCG testing if necessary.\n\n2. **Follow-Up Tests**: Depending on the results from initial tests, your doctor may recommend additional tests such as PET scans, MRI scans, or other specialized procedures to assess the effectiveness of the treatment and detect any new issues.\n\n3. **Monitoring Symptoms**: Keep track of any symptoms that appear during the follow-up period. These could include changes in urine output, pain, swelling, or other signs of infection or inflammation.\n\n4. **Adherence to Treatment Plan**: Ensure that you adhere strictly to all prescribed medications and treatments throughout the process. Non-compliance can lead to resistance to the treatment and increased risks associated with relapse.\n\n5. **Supportive Care**: Continue receiving supportive care measures like rest, hydration, and nutrition tailored to your specific needs based on your condition and response to treatment.\n\nBy following these guidelines, you can help maintain good health and minimize the likelihood of developing complications post-BCG treatment.",
+    "ground_truth": "Follow-up includes full skin exams with a doctor at least once a year."
+  },
+  {
+    "id": "Medical-14cee623",
+    "question": "Which cell type is affected in basal cell carcinoma?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: nd out more. What is basal cell skin cancer? Basal cell skin cancer is the most common of all skin cancer types. If caught early, it is easily treatable and curable. This is because it rarely metastasizes (spreads). Skin cancers often occur in the top layer of the skin (epidermis) and less commonly in the middle layer of the skin (dermis). The epidermis is made up of basal cells and other cells. Basal cell skin cancer occurs when some basal cells become abnormal and grow out of control. This cancer usually",
+      "Title: Medical\nAbstract: k like any of the following: h Flat, pale or yellow areas, like a scar h Red patches that might be itchy Small, pink or red, shiny bumps that may have blue, brown, or black areas Open sores that don’t heal and might bleed, or go away and come back In darker (brown and black) skin, basal cell skin cancer can appear as a brown or glossy black bump with a rolled border. It can be mistaken for a normal mole. Be sure to look out for any new, changing, bleeding, or unusual skin growths. Skin cancer is easier to c",
+      "Title: Medical\nAbstract: our skin from harmful ultraviolet (UV) rays. This book is only about basal cell skin cancer. For more information on squamous cell skin cancer or melanoma, read the NCCN Guidelines for Patients, available at NCCN.org/patientguidelines and on the NCCN Patient Guides for Cancer app. Signs and symptoms Basal cell skin cancer can happen to anyone but it’s most common in people with lighter skin, lighter hair, or lighter eyes. In lighter skin, its lesions can look like any of the following: h Flat, pale or yello"
+    ],
+    "evidence": [
+      "Basal cells are the cell type affected in BCC."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "The correct answer is \"basal cells.\" Basal cells are the most common type of skin cancer among adults, accounting for approximately 80% of all cases. They are responsible for developing basal cell carcinoma, which is the most common form of skin cancer.",
+    "ground_truth": "Basal cells are the cell type affected in BCC."
+  },
+  {
+    "id": "Medical-ae28e711",
+    "question": "Is sun exposure a risk factor for BCC?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: in the melanocytes. Melanin is responsible for the color of our hair, skin, and eyes. In addition to providing color, melanin also protects our skin from harmful ultraviolet (UV) rays. Risk factors A risk factor is something that increases the chances of getting a disease. For example, smoking cigarettes is a risk factor for developing lung cancer. The major risk factors for squamous cell skin cancer are described next. Sunlight/outdoor tanning Most squamous cell skin cancers are caused by spending too muc",
+      "Title: Medical\nAbstract: ars in the sun. Sun exposure Most squamous cell skin cancers are caused by spending too much time in the sun over a long period of time, frequent tanning, and getting sunburns. Indoor tanning Indoor tanning is a major risk factor for squamous cell skin cancer. Using all types of indoor tanning machines (eg, booths, beds) increases the risk of getting any type of skin cancer. Environmental toxins People who are often exposed to pollutants such as tobacco smoke, exhaust from cars or other vehicles, and arseni",
+      "Title: Medical\nAbstract: lls can become abnormal and grow out of control. You’re more likely to have basal cell skin cancer if you have certain risk factors. A risk factor increases the chance of developing cancer. Risk factors for basal cell skin cancer include: UV light exposure – UV light (radiation) that comes from the sun or tanning beds increases your risk. Fair skin, red or blond hair, or light eye color – People with lighter-colored skin are at a higher risk of developing skin cancer because melanin (skin pigment) filters o"
+    ],
+    "evidence": [
+      "Sun exposure is a risk factor for BCC."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Yes, sun exposure is a risk factor for basal cell skin cancer.",
+    "ground_truth": "Sun exposure is a risk factor for BCC."
+  },
+  {
+    "id": "Medical-2bef6940",
+    "question": "Are tanning beds considered a risk factor for BCC?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: in the melanocytes. Melanin is responsible for the color of our hair, skin, and eyes. In addition to providing color, melanin also protects our skin from harmful ultraviolet (UV) rays. Risk factors A risk factor is something that increases the chances of getting a disease. For example, smoking cigarettes is a risk factor for developing lung cancer. The major risk factors for squamous cell skin cancer are described next. Sunlight/outdoor tanning Most squamous cell skin cancers are caused by spending too muc",
+      "Title: Medical\nAbstract: ars in the sun. Sun exposure Most squamous cell skin cancers are caused by spending too much time in the sun over a long period of time, frequent tanning, and getting sunburns. Indoor tanning Indoor tanning is a major risk factor for squamous cell skin cancer. Using all types of indoor tanning machines (eg, booths, beds) increases the risk of getting any type of skin cancer. Environmental toxins People who are often exposed to pollutants such as tobacco smoke, exhaust from cars or other vehicles, and arseni",
+      "Title: Medical\nAbstract: lls can become abnormal and grow out of control. You’re more likely to have basal cell skin cancer if you have certain risk factors. A risk factor increases the chance of developing cancer. Risk factors for basal cell skin cancer include: UV light exposure – UV light (radiation) that comes from the sun or tanning beds increases your risk. Fair skin, red or blond hair, or light eye color – People with lighter-colored skin are at a higher risk of developing skin cancer because melanin (skin pigment) filters o"
+    ],
+    "evidence": [
+      "Tanning beds are a risk factor for BCC."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Yes, tanning beds are considered a risk factor for basal cell skin cancer.",
+    "ground_truth": "Tanning beds are a risk factor for BCC."
+  },
+  {
+    "id": "Medical-0047c320",
+    "question": "Does having red or blond hair increase the risk of BCC?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: in the melanocytes. Melanin is responsible for the color of our hair, skin, and eyes. In addition to providing color, melanin also protects our skin from harmful ultraviolet (UV) rays. Risk factors A risk factor is something that increases the chances of getting a disease. For example, smoking cigarettes is a risk factor for developing lung cancer. The major risk factors for squamous cell skin cancer are described next. Sunlight/outdoor tanning Most squamous cell skin cancers are caused by spending too muc",
+      "Title: Medical\nAbstract: blood cells that fight germs. Lymph nodes filter lymph and remove the germs. Although possible, HCC does not commonly spread to nearby lymph nodes. Risk factors Risk is your chance of developing liver cancer. Everyone has some risk for developing liver cancer. However, some people are at increased risk. Risk factors can be activities that people do, things in the environment, or traits passed from biological parents to children through genes. Genes are a set of instructions that tell new cells what to becom",
+      "Title: Medical\nAbstract: instance, having an inherited genetic change in the BRCA2 gene increases the risk of getting prostate cancer. But genetic abnormalities that aren’t inherited can occur, too. Race In the United States, Black males are more likely than white males to develop prostate cancer. Prostate cancer in Black males is also more likely to occur at an earlier age and be more aggressive and more advanced when diagnosed. Black males are also twice as likely to die from prostate cancer compared with white males. Prostate c"
+    ],
+    "evidence": [
+      "Red hair increases the risk of BCC.",
+      "Blond hair increases the risk of BCC."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "No, having red or blond hair does not increase the risk of basal cell carcinoma (BCC). Basal cell carcinoma is a type of skin cancer that typically occurs in areas where there is high sun exposure, such as the face, neck, and hands. While certain types of hair may have a higher concentration of melanin, which can contribute to the formation of melanoma, this does not directly correlate with the risk of BCC. Therefore, it is important to note that while genetics play a role in the development of skin cancer, environmental factors like UV radiation exposure should also be considered.",
+    "ground_truth": "Red hair and blond hair increase the risk of BCC."
+  },
+  {
+    "id": "Medical-ca377f8d",
+    "question": "Is light eye color associated with increased risk of BCC?",
+    "source": "Medical",
+    "context": [
+      "Title: Medical\nAbstract: in the melanocytes. Melanin is responsible for the color of our hair, skin, and eyes. In addition to providing color, melanin also protects our skin from harmful ultraviolet (UV) rays. Risk factors A risk factor is something that increases the chances of getting a disease. For example, smoking cigarettes is a risk factor for developing lung cancer. The major risk factors for squamous cell skin cancer are described next. Sunlight/outdoor tanning Most squamous cell skin cancers are caused by spending too muc",
+      "Title: Medical\nAbstract: lls can become abnormal and grow out of control. You’re more likely to have basal cell skin cancer if you have certain risk factors. A risk factor increases the chance of developing cancer. Risk factors for basal cell skin cancer include: UV light exposure – UV light (radiation) that comes from the sun or tanning beds increases your risk. Fair skin, red or blond hair, or light eye color – People with lighter-colored skin are at a higher risk of developing skin cancer because melanin (skin pigment) filters o",
+      "Title: Medical\nAbstract: ble vision, can also occur. You’ll need several tests to confirm whether you have primary CNS lymphoma or a lymphoma that started in another part of your body, or a different disease with similar symptoms. Important tests include a neurological exam, imaging (MRI or CT scan), and biopsies. A biopsy means taking a sample of fluid or tissue from your body to look for cancer. You’ll also have blood tests, an eye exam, and other tests. If these tests show that you have primary CNS lymphoma, your care team shoul"
+    ],
+    "evidence": [
+      "Light eye color increases the risk of BCC."
+    ],
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Yes, according to the provided context document, \"Fair skin, red or blond hair, or light eye color\" is considered a risk factor for developing skin cancer, including basal cell skin cancer. This suggests that fair skin may increase the likelihood of having basal cell skin cancer due to its association with increased risk factors such as UV light exposure and fair skin being a risk factor for developing skin cancer.",
+    "ground_truth": "Light eye color increases the risk of BCC."
+  }
+]
