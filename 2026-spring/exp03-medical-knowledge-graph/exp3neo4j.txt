@@ -1,0 +1,72 @@
+neo4j
+LOAD CSV WITH HEADERS FROM 'file:///nodes.csv' AS row
+RETURN row LIMIT 5;
+
+
+CREATE CONSTRAINT medicalentity_id IF NOT EXISTS
+FOR (n:MedicalEntity) REQUIRE n.id IS UNIQUE;
+
+
+LOAD CSV WITH HEADERS FROM 'file:///nodes.csv' AS row
+MERGE (n:MedicalEntity {id: row.id})
+SET n.type=row.type, n.name=row.name;
+
+
+LOAD CSV WITH HEADERS FROM 'file:///relationships.csv' AS row
+MATCH (s:MedicalEntity {id: row.start_id})
+MATCH (t:MedicalEntity {id: row.end_id})
+MERGE (s)-[:RELATED_TO]->(t);
+
+
+MATCH (n:MedicalEntity)-[r]-(m:MedicalEntity)
+RETURN n,r,m
+LIMIT 200;
+
+
+
+style：
+:style
+node {
+  diameter: 50px;
+  color: #A5ABB6;
+  border-color: #9AA1AC;
+  border-width: 2px;
+  text-color-internal: #FFFFFF;
+  font-size: 10px;
+}
+relationship {
+  color: #A5ABB6;
+  shaft-width: 1px;
+  font-size: 8px;
+  padding: 3px;
+  text-color-external: #000000;
+  text-color-internal: #FFFFFF;
+  caption: "<type>";
+}
+node.MedicalEntity {
+  caption: "{name}";
+  text-color-internal: #ffffff;
+  border-width: 2px;
+  border-color: #2b2b2b;
+}
+/* 按 type 上色 —— 注意这里是 Symptom/Disease/Drug/Check（和你数据一致） */
+node.MedicalEntity[type="Symptom"] { color: #1f77b4; }
+node.MedicalEntity[type="Disease"] { color: #d62728; }
+node.MedicalEntity[type="Drug"]    { color: #2ca02c; }
+node.MedicalEntity[type="Check"]   { color: #ff7f0e; }
+
+
+手动：
+MATCH (n:MedicalEntity) WHERE n.type="Symptom" SET n:Symptom;
+MATCH (n:MedicalEntity) WHERE n.type="Disease" SET n:Disease;
+MATCH (n:MedicalEntity) WHERE n.type="Drug"    SET n:Drug;
+MATCH (n:MedicalEntity) WHERE n.type="Check"   SET n:Check;
+
+
+
+node.Symptom { color: #1f77b4; }
+node.Disease { color: #d62728; }
+node.Drug    { color: #2ca02c; }
+node.Check   { color: #ff7f0e; }
+
+node.MedicalEntity { caption: "{name}"; text-color-internal: #ffffff; }
