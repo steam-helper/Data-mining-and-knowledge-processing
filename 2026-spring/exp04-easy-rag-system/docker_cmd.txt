@@ -1,0 +1,12 @@
+docker run -it -v C:/Users/lh008/Desktop/exp04-easy-rag-system:/root/exp04-easy-rag-system -p 8501:8501 ubuntu bash
+apt update
+apt install python3 python3-pip python3-venv -y
+export HF_TOKEN="hf_XQydgcdZhboindtxEZYmuXUnboDwnNirkDK"
+echo $HF_TOKEN
+python3 -m venv venv
+source venv/bin/activate
+cd /root/exp04-easy-rag-system
+pip install -r /root/exp04-easy-rag-system/requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install --upgrade streamlit
+pip install pymilvus[milvus_lite]
+streamlit run /root/exp04-easy-rag-system/app.py
